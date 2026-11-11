@@ -1,0 +1,202 @@
+# Anchortex PDP SEO Project: Norix + Cortech (handover v3, Nov 11, 2026)
+
+Read this whole file before doing anything. It replaces handover v2. Everything that happened up to Nov 11 is recorded here.
+
+## Who and what
+- I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).
+- The job is SEO rewrites of product pages (PDPs). Brands so far: **Norix** (most of the work) and **Cortech** (new brand from Nov 10, a Norix competitor; Andrew wants it documented exactly like Norix).
+- Workflow:
+  1. Draft each product in a Google Doc tab.
+  2. Andrew comments in the doc.
+  3. I move approved pages into Shopify one product at a time. You give me the "Shopify set".
+  4. I say "check live" and you run the full review on the live page.
+- I work mostly from my phone. Keep replies short and direct. Don't recap.
+- Mark every passing item with ✅ and every problem with ⚠️. I want to see the green ones too.
+- Don't make mistakes. Count carefully (I once caught "21 products" when there were 20). When unsure, check the spec sheet, the price list, and the live store before answering.
+- When I ask "is this 100% right?", re-verify against the spec sheet AND the price list, then show a table.
+- **Always go by the doc and Andrew** (my words). If the doc and a worksheet disagree, the doc wins (e.g. Stack-A-Bunk variant names).
+- When I paste things from a sheet, give me blocks I can copy and paste straight into the same row order (e.g. only SKUs, or only Weight L W H). When I ask for product names, give the exact Shopify titles.
+- When I say I don't understand where to change something, give step-by-step Shopify instructions (where to tap, the exact paragraph to replace, paste block).
+- If I ask a question, answer it. Don't treat a question as an instruction (I once asked "is it a separate product?" and it was acted on as a statement).
+
+## How Andrew comments (important)
+- Andrew does NOT use Google Docs margin comments. He types inline:
+  - Highlighted text (backgroundColor) = his additions, answers, or instructions.
+  - Strikethrough = his deletions.
+- Detect his comments as text runs with a background highlight or strikethrough (scripts/cmp2.py marks them [HL ...] and [STRIKE ...]).
+- **He also answers in TABLES.** cmp2.py skips tables. Always also run `python3 -I scripts/doc_tables.py <docjson>`. (The Double Pedestal SKU/URL was in a table on the Evvolve tab and was missed at first.)
+- To see what's new since your last read: `python3 -I scripts/docdiff.py <old.json> <new.json>` (matches tabs by title; prints changed lines).
+- Some comments "apply to everything". When he gives a rule on one tab, apply it to all similar products.
+- Andrew prefers to set prices in bulk via his spreadsheet. Asking about prices in the doc is slow for him.
+- His typing sometimes damages doc formatting (headings merged into the previous paragraph with a soft line break, bullets lost, two bullets joined). His words are still there. Don't build HTML from damaged tabs; build it from our source files (see Cortech) or fix it by hand.
+
+## Google Docs
+- **Norix doc.** Original: "Norix PDP SEO Project", https://docs.google.com/document/d/15xqsq7FILOKO2A3vmjtQ08xCHRLj_XBT8YplTS5T4os/edit
+  - **Copy currently in use** (my other Google account): "Copy of Norix PDP SEO Project", https://docs.google.com/document/d/1H9-IsoGVjhy7iKQ64mMTM_ioHnf-OI3j9R_kXVOF8n0/edit. Same 52 tabs, same tab IDs as the original.
+  - Latest snapshot of the copy: doc-snapshot/norix_doc_copy_snapshot_nov11.json. The original snapshot is doc-snapshot/doc_snapshot.json.
+- **Cortech doc**: "Cortech", https://docs.google.com/document/d/1YzYc_YoM3VV5AUFKIrwu8zTtT4T-HxziRf7qKZwQUSA/edit
+  - Latest snapshot (with Andrew's comments): cortech/cortech_doc_snapshot_nov11.json. Before his comments: cortech/cortech_doc_before_andrew.json.
+- A copy of a doc has a different doc ID, and tab IDs may change. Always read the doc first, and find tabs by TITLE.
+- Docs are big (Norix about 2.4 MB of JSON), so read_doc saves to a file. Parse it with Python. Indices are UTF-16.
+- New tabs: use addDocumentTab, then insertText plus styling (scripts/doc-builder/build3.py: `build(tabId, items)` returns the batchUpdate requests). After writing, re-read the doc and verify each paragraph's text, style, bullets, bold and links.
+- Tab format (same for Norix and Cortech):
+  - Tab title is "MPN - Name" (max 50 characters).
+  - First line is an H1 "MPN: Name", followed by Product URL, Manufacturer page and Spec sheet links.
+  - Then: Recommended H1 and Subtitle (with "Current H1" and "Current subtitle"), Revised Product Description, Meta Title and Description, Notes and Questions (HEADING_2).
+  - On-page H2s are written as HEADING_3 with a "[H2] " prefix.
+  - "Available Models and Options" and "Installation and Options" are bold paragraphs followed by bullets (or the paragraph "No assembly is required.").
+  - Notes are a numbered list.
+  - The line "Headings marked [H2] should be set as H2 on the page." comes after the description heading.
+- Doc notes must NOT say "I added this to the worksheet".
+- Google Sheets/Drive: an .xlsx stored in Drive cannot be read by the Sheets connector ("must not be an Office file"). Ask me to "File → Save as Google Sheets" or to upload the .xlsx.
+
+## Writing rules (always; includes every rule Andrew has given)
+- No em dashes, ever. The en dash ( – ) is used ONLY:
+  - in the H1, before the model numbers: "Norix Jupiter Cylinder Base Table with Round Top – CY3600 / CY4200 / CY4800"
+  - in model bullet labels: "**CY3600 – 36” Round:**" (Ventura's labels have no colon after Andrew's edit; mc.py's checker flags them, which is a false alarm)
+- Write like a person, not marketing filler. Don't use "Norix lists the..." phrasing. Leave out marketing claims that compare with other brands.
+- Links go to collections only, never to individual products (Andrew: don't over-emphasize single products).
+  - Standard: /collections/bh-behavioral-healthcare-furniture, /collections/cd-correctional-furniture, /collections/norix-furniture
+  - Storage pages: /collections/prison-and-detention-inmate-property-storage-solutions-garment-bags-boxes-storage-lockers
+  - Temporary bunks (Stack-A-Bunk, EZ Bunk): /collections/cd-correctional-furniture + /collections/bh-shelter-transitional-housing
+  - Mirrors: /collections/prison-and-detention-hardware-and-equipment + /collections/bh-hardware-for-behavioral-health-care-facilities
+  - Cortech brand: /collections/cortech-usa ("Cortech Behavioral Health and Prison Furniture")
+- Weights and dimensions come from the current manufacturer spec sheet. If the price list or the current page disagrees, use the spec sheet and say so in the Notes.
+- Meta title: 50 to 65 characters, adding " at Anchortex" if it fits (if not, leave it off and say so). Meta description: 140 to 160 characters.
+- "About Norix Furniture" paragraph (Andrew added "police stations"; use on every Norix page):
+  "Norix manufactures durable furniture for demanding environments, including behavioral healthcare facilities, psychiatric hospitals, police stations, correctional institutions, and residential treatment centers. Explore the full line of Norix Furniture at Anchortex."
+- "About Cortech" paragraph (Andrew accepted; use on every Cortech page):
+  "Cortech manufactures durable molded furniture for demanding environments, including behavioral healthcare facilities, psychiatric hospitals, correctional institutions, law enforcement facilities, and homeless and emergency shelters. Explore the full line of Cortech Behavioral Health and Prison Furniture at Anchortex."
+- Tables:
+  - "Plain Top", never "Solid Top". Plain means "not game top". The DuoForm variant also keeps "Plain Top" (Andrew).
+  - Game Top bullet starts with "Optional".
+  - Table series sentence (Andrew's final, now live on all 18 table pages and on Evvolve):
+    "Norix tables are made for dayrooms, dining halls, classrooms, and visitation areas in correctional and behavioral healthcare facilities, where furniture is used hard every day. The range covers molded-base tables such as the Jupiter, Evvolve, and Molded X-Base; Laminate X-Base tables; and steel-base tables such as the Leg Style, Multi-Purpose, Max-Master, and Oasis."
+- Standard fractions where practical (1½”, 1¼”, 1¾”, 1⅝”, 2½”, ¼”, 8⅜”, 17½”, 28¼”). Leave odd decimals (29.3”, 31.1”).
+- No spaces in dimensions: 30”×72”, 6”×6”×¼”, 23”W×17½”D×8½”H.
+- Use the degree symbol: "180°", not "180 degrees" (Andrew, Cortech).
+- "see Norix instructions" / "see Cortech instructions", without "the".
+- Use the manufacturer's model numbers (M44200 not M4-4200; VM1115 not "VM 1115").
+- Max-Master: remove the stainless steel seat list prices. Molded X-Base Square: "Laminate Top" label, Top Attachment below the DuoForm Top bullet. X-Base: "x-shaped base".
+- Ironman series section: Andrew's version (Tank Box tab). Stack-A-Bunk adds "**Temporary Bunks:** Stack-A-Bunk stackable sleep surfaces for overcrowding and emergency bunking".
+- Cortech: the product name is "**Barracuda Box**" (Andrew), so use it in H1, intro, meta and subtitle ("Cortech Barracuda Box Inmate Property Storage Box"). The storage series heading is "**About Cortech Property Storage Boxes**".
+- Image rules:
+  - No alt text on new images. Old images keep the alt text they already have (don't change without Andrew).
+  - New photo file names (my convention): Brand-Product-Name-Words, hyphens, each word capitalized (small words like "with" lowercase), no underscores or spaces, model numbers instead of dotted sizes. Add the view at the end ("-Angle-View", "-Side-View", "-Top-View", "-Base-Detail"). LOOK at the photo before naming it. Examples: "Norix-Evvolve-Table-with-DuoForm-Top-Angle-View.jpg", "Cortech-Barracuda-Box-3825P-Standard-Angle-View.jpg". (.webp uploads are fine.)
+  - Give the largest version from the manufacturer's site (not the -300x300 / -1024x576 copies). Check for duplicates of photos already on the page.
+  - Andrew allows more than 5 images ("Keep it"). Don't delete or replace images without his approval.
+
+## Shopify rules
+- Don't change URLs, SKUs, or prices unless Andrew approved it in the doc. Quote his note when you do.
+- Norix prices are 80% of the Norix list price; compare-at = list. Check compare-at too. Cortech: no price list available, so only check price = 80% of compare-at and say compare-at could not be verified.
+- Weights: replace 255 lb placeholders with the real weight. Game top variants weigh the same as plain.
+- VARIANT OPTIONS (we got burned on M63072): I edit each variant's own page and change only the field that needs changing. Never type "Type / Options" into one field. Never delete option values in "Edit options".
+- **Use ONLY SKUs Andrew gave, exactly as written. Never make up suffixes (-01, -02) or new SKUs.** If he gives one SKU for a product with several variants, use it on every variant and ask me whether to ask Andrew.
+- Give SKUs with worksheet rows.
+
+## What to give me for each product (the "Shopify set")
+1. Short list of Andrew's changes applied, plus any ⚠️ questions first.
+2. H1, Subtitle, SEO title (with length), SEO description (with length), each in its own code block.
+3. Description HTML in one code block (Norix: scripts/tab2html2.py from the doc tab; Cortech: cortech/gen.py). Fix empty `<li></li>`, double spaces, and Andrew's instruction text.
+4. Variant table: position, name (and what changes), SKU, weight (and price / compare-at).
+5. Images: keep all N / what to add (link, size, exact upload name).
+6. Worksheet block, tab-separated: `SKU	Weight	L	W	H`, with Andrew's Row # range.
+7. ✅ / ⚠️ verification table: value vs spec sheet vs price list (or current page). Then the price checks.
+8. "Don't change the URL, SKUs, prices…", then "Say "check live" when it's saved."
+- Save the HTML as shopify-html/<CODE>.html. Save the live product JSON BEFORE the change as baselines/<brand>/<handle>.json.
+
+## "check live" = full review, every time
+```
+python3 -I scripts/review.py <handle> shopify-html/X.html "<subtitle>" "<seo title>" "<seo desc>" baselines/.../<handle>.json
+python3 -I scripts/sweep.py <handle>
+curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options, compare_at_price, weights, images (+ width/height/alt)
+```
+- review.py checks the description = HTML file, SEO title/description and lengths, subtitle (`<p class="product-subtitle__new mpn">`), no em dashes, H1 en dash, H2s, collection-only links that load, URL/SKU/price unchanged vs baseline, weights not 255/0, old variant names, duplicate SKUs, all images kept.
+- sweep.py checks $0 price/compare-at, price = 80% of compare-at, 255 lb weights, duplicate SKUs, "Solid" in names, doubled variant names.
+- Also check the options structure, image names, alt text and image order. Expected (Andrew-approved) SKU/price changes show as "changed"; say they're expected. "H1 en dash count 0" is expected when the H1 has no model numbers (Evvolve).
+- Store bot page ("Verifying your connection"): retry. If it persists when saving a baseline, use the earliest saved copy (e.g. cortech/live/*.json from Nov 10, which is before any change).
+- Product images: cdn.shopify.com is NOT reachable; download via `https://www.anchortex.com/cdn/shop/files/<name>?width=600` (older ones: /cdn/shop/products/<name>).
+- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **41** published products.
+- Report: ✅ list of everything that passed, ⚠️ list of what's missing, with exact values to set.
+
+## Environment (cloud session)
+- Allowed hosts were added to my Default environment: www.anchortex.com, norix.com, cortechusa.com, www.cortechusa.com. Anything else (e.g. cdn.shopify.com, globalindustrial.com) is blocked; ask before adding hosts.
+- Connectors needed: Google Docs (read_doc/update_doc), Google Sheets. WebSearch/WebFetch work (WebFetch needs the host allowed too).
+- Python 3 with openpyxl, PIL, pdftotext, pdftoppm, curl. Run Python that reads downloaded files with `python3 -I`.
+
+## STATUS (verified live Nov 11, 2026: all 41 published pages pass review.py; sweep OK except the known $0 prices)
+### Norix, published (35)
+- Attenda (13): ATN601, ATN101/103, ATN120/130/150, ATN140/145, ATN250/255, ATN301, ATN310, ATN320, ATN401, ATN500, ATN620/621/625, ATN700/750, ATN800/801
+- 11/3 batch (20): Boulder C212, C213; Jupiter Round, Square; X-Base Laminate Round, Laminate Square, Molded Round, Molded Square; Leg Style Rectangle, Round, Square; Max-Master M44200, M63072, M65400, M83096, M86000; Multi-Purpose Rectangle, Round, Square; Oasis
+- **Stack-A-Bunk** (B530.html), done Nov 10: variants "B530-151 - Standard, Twilight" / "B530-149 - Extra Large, Sand" (doc version, not the worksheet's), 30/36 lb, shelter bullet "Disaster relief, emergency, mass care, night, and transitional housing shelters", Transitional Housing link.
+- **Evvolve Table** (EV.html), done Nov 10: SKUs N700284-01..-11, Andrew's prices (80%/list), weights 74/88/106/85/104/55, DuoForm photo added as "Norix-Evvolve-Table-with-DuoForm-Top-Angle-View.jpg", new series sentence. The H1 has no model numbers (doc), so "H1 en dash count 0" is expected.
+- **Series sentence updated on all 18 table pages** (Nov 10, verified live). Old HTML kept in shopify-html/pre-series/.
+- Andrew-approved changes (show as "changed" in reviews, all expected): Jupiter CY4242-DF price $960 (N700235-05); Molded X-Base Round SKUs N700283-01..04; Molded X-Base Square SKUs N700280-01..05 + prices; Evvolve SKUs/prices; ATN140/145 N700215-02 → -03 (old duplicate SKU fix).
+### Cortech, published (6), done Nov 11
+- Barracuda Box (CT-BARRACUDA, handle cortech-barracuda-box-inmate-property-storage): "Box" added to H1/intro/meta, 180°, 3 Cortech photos added (3825P, 7268P, 8568P with lid). The new 8568P photo is now image 1.
+- Barracuda Box Lid (CT-BARRACUDA-LID, cortech-barracuda-inmate-property-storage-box-lid): "Box" added; subtitle "…for Cortech Barracuda Boxes"; SEO title without "at Anchortex" (it would be 66).
+- Master Box (CT-MASTERBOX, cortech-master-box-lockable-inmate-property-storage): unchanged variants; weights 7/9/13 kept (Andrew "no").
+- Master Box Lid (CT-MASTERBOX-LID, cortech-master-box-lid-inmate-property-storage).
+- EZ Bunk (CT-EZBUNK, cortech-ez-bunk-stackable-platform-bed-sleep-surface): variants renamed "7501 - Blue Gray" / "7502 - Slate Blue" (Andrew "yes"), 40 → 39 lb (spec), photos added (Blue Gray uploaded as .webp, fine).
+- Ventura Mirror (CT-VENTURA, cortech-ventura-mirror): Andrew struck the screw text from the model lines and added "tamper-resistant Torx screws included." to Mounting; weights stay 10 lb (Andrew "yes"); no series section (separate product).
+
+## PENDING / OPEN (in order)
+1. **Evvolve Jr.** (tab "EJ3600 / EJ3636 - Evvolve Jr. Table"): Andrew REVERSED the hold ("I changed my mind, we can add this"). SKU **N700492**, handle **norix-ej-evvolve-junior-table**. Game top left out as a variant (Andrew), so it's also removed from the text and meta. HTML: shopify-html/EJ.html. Shopify set given: title "Norix Evvolve Jr. Table with Round or Square Top – EJ3600 / EJ3636", subtitle "Lower-Height Ballasted Molded Base Table for Youth Dayrooms, Classrooms, and Dining Areas", SEO title "Norix Evvolve Jr. Table - EJ3600 / EJ3636 at Anchortex" (54), SEO desc "Shop the Norix Evvolve Jr. table. A lower 26.1 inch molded base table with 36 inch round or square laminate top for youth dayrooms and classrooms." (146), vendor Norix, tags copied from the Evvolve Table, option "Size": `EJ3600 - 36" Round` (N700492, 73 lb, 1040/1300) and `EJ3636 - 36"x36" Square` (N700492, 76 lb, 1120/1400). Photos: Evvolve_Jr_3600_cove_km_web.jpg, _twilight_te_web.jpg, Evolve_Jr_Assessment_Room-1.jpg, Evvolve_Jr._ActivityRm_closeup.jpg (names in the chat convention: Norix-Evvolve-Jr-Round-Table-...). Worksheet: `N700492 73 36 36 26.1` / `N700492 76 36 36 26.1`. **Status: I said "it's not active yet" (draft); the URL returns 404.** To check it, I set it Active briefly, then "check live". ⚠️ Both variants share N700492 (Andrew gave one SKU); sweep will flag a duplicate. Ask me whether Andrew wants -01/-02.
+2. **Double Pedestal** (tab "EV3696 / CY3696 - Double Pedestal Table"): SKU **N700491**, handle **norix-ev-double-pedestal-table-n700491** (from Andrew's TABLE on the Evvolve tab). HTML: shopify-html/DP.html. Andrew: "Do not list ballasting as variants"; bolt-down answer "No, leave it out" means keep "Optional bolt-down kit" as written (my decision: ignore it). Width stays 36” (unanswered). Set given: title "Norix Double Pedestal Table – EV3696 / CY3696", subtitle "36”×96” Laminate Table on Two Molded Bases for Up to Eight People, with Wheelchair Access", SEO title "Norix Double Pedestal Table - EV3696 / CY3696 at Anchortex" (58), SEO desc "Shop the Norix Double Pedestal table. A 36 x 96 inch laminate top on two Evvolve or Jupiter molded bases seats up to eight, with ADA wheelchair access." (151), option "Base": "EV3696 - Evvolve Base" (N700491, 196 lb) and "CY3696 - Jupiter Base" (N700491, 180 lb), both 2820/3525. Photos: DP_Evvolve_km_tw_web, DP_Evvolve_mw_cv_web, DP_Jupiter_km_web, DP_Jupiter_te_web (1080×1080), DoublePedestal_BTD (1920×1080); upload names Norix-Double-Pedestal-Table-Evvolve-Base-Twilight-Kensington-Maple-Angle-View.jpg etc. Worksheet: `N700491 196 96 36 31.1` / `N700491 180 96 36 29.3`. **Status: create as DRAFT; not confirmed created (URL 404).** Ask me. Same duplicate-SKU note.
+3. **$0 prices waiting on Andrew** (still $0 live on Nov 11): ATN320 (N700304) price 0, compare-at 1139 → suggest $911.20; ATN700 (N700305-01) / ATN750 (N700305-02) price and compare-at 0 → suggest $998.40 / $1,241.60, compare-at $1,248 / $1,552.
+4. ATN101/103 variant N700186-04 is named "ATN103B- Free-Standing Bed with Bottom Closure" (missing a space before the dash). Still live Nov 11.
+5. Tell Andrew about the new SKUs N700283-01..04 and N700280-01..05.
+6. **Placeholder weights still live (checked Nov 11):**
+   - Prodigy, all 255: PRD240 → 29, PRD600 → 50, PRD700 → 55, PRD801 → 200, PRD804 → 155, PRD802 → 168 (PRD100/PRD100B → 130 if those pages exist; they are not doc tabs).
+   - DuraVision, live 10/10/14/8/8/10: MFD 6.2 / 9.8; MHD 5.8 / 8.1 / 13.9; REC 6.8; RND 4.6; MQD 7.2 / 9.5.
+7. Andrew's bulk pricing sheet: https://docs.google.com/spreadsheets/d/1iLyzpRDqktrP3znzZ5suOaeadZkag7Qgxxa3OmxzSy4/edit. I wanted the Evvolve list prices added (1400, 1800, 1600, 2000, 1800, 2200, 1500, 1900, 1700, 2100, 1250, in row order EV3600 Plain … EV4242-DF). Not done; ask whether I already pasted them.
+8. **Cortech worksheet fixes** (tell Andrew or fix in his sheet; not the store): row 17 "9689 - Lid Universal" should be "9689P …"; EZ Bunk rows 39–40 still say Grey / Blue; Ventura depth (W) unknown (page says "236 nominal thickness"), so worksheet rows 124–126 were given with W blank; MPN column shows "#NAME?".
+9. **Cortech doc formatting damage** (from Andrew's typing, not repaired; I never answered whether to repair): 6 headings merged into the line above (Recommended H1 and Subtitle / Revised Product Description), Barracuda Box 3825P+7268P model lines joined, Barracuda Lid intro paragraphs joined, Master Box "Available Models and Options" joined to the first model line, EZ Bunk spec list lost its bullets and the last two lines are joined. Offer to fix only line breaks, headings and bullets, never his text.
+10. Old alt text on the original photos of the 5 Cortech pages (and older pages). Left as is; needs Andrew's OK to remove.
+11. Barracuda Box image order: the new 8568P-with-lid photo became image 1. Fine unless I want the open box first.
+12. **Cortech next batch**: worksheet row 50, "Cortech Endurance Durable X-Base Table with Round Top - 66749…" is marked "group 2" in Date assigned. Not assigned yet; wait for Andrew/me.
+13. Cortech Sync Wedge Chair 274 (rows 278–279): documented by mistake (stray date on row 279), tab deleted by me. Content is kept in cortech/pc.py (Ventura is the last entry; Sync Wedge is the 6th) in case it gets assigned. Facts: 38 lb (live variants 255), lifetime warranty, static load >1,000 lb (page says 1,500), 18 colors, sandbags not loose sand.
+
+## Norix data quirks (already decided; spec sheet wins unless noted)
+- Jupiter and Molded X-Base DuoForm heights: spec inches used (29.5” / 31.3”).
+- Leg Style Rectangle prices not readable in pricer.txt; left as is (80% of compare-at).
+- Multi-Purpose: 500 lb static load; 30×60 cheaper than 24×60 in the list ($1,646 vs $1,723), and that's real.
+- Oasis worksheet uses top size 48/72 × 30, H 34.
+- Max-Master worksheet L × W = overall footprint (76×76, 63×72, 88×88, 63×96, 94×94), H 31.8.
+- Price list spells it "EVVOLVE". Evvolve tables pp. 41–42; Evvolve Jr. and Double Pedestal p. 43.
+- ATN620 price list weights reversed. ATN320 depth cm typo. Several Attenda kg typos.
+- Stack-A-Bunk: spec 75½”/82½” L, 8⅜” H, 25”×67” mattress (std), 36 lb XL (price list 34).
+- Double Pedestal: spec says 36” but 76.2 cm (=30”); 36” used.
+
+## Cortech data (cortechusa.com)
+- Spec sheets: Barracuda-Box-spec-sheet.pdf (box + lids), Master-Box-spec-sheet.pdf, EZ-Bunk-spec-sheet.pdf, Sync-Wedge-Chair-Spec-Sheet.pdf, Ventura-Mirror-spec-sheet.pdf, Ventura-Mirror-Install.pdf (all under https://cortechusa.com/wp-content/uploads/). Saved in cortech/site/spec (PDF + txt + page renders).
+- Cortech publishes NO weights for boxes, lids or the mirror ("See chart" with no chart). EZ Bunk 39 lb, Sync Wedge 38 lb.
+- Spec sheet dimensions are H×W×D; we write W×D×H.
+- Master Box: box 10-year, lock 5-year warranty; individually numbered. Barracuda: numbering not in the Cortech spec (left out).
+- Lid features (handles, sliding lid, engagement edges, stacking groove) come from the old Anchortex page; Andrew said "yes" to keeping them.
+- Catalogs as text: cortech/site/catalogs (Corrections Catalog Jan 2025, Corrections Lookbook 2026, Behavioral Catalog 2025). Product pages: cortech/site/pages.
+
+## Files in this folder
+- CLAUDE.md: this file.
+- data/: pricer.txt (Norix Price List April 2026), brochure.txt, norix_design_guide.txt, spec-sheets/, worksheets/ (Worksheet_Norix_1/2/3), norix-pages/
+- shopify-html/: final published description HTML for every product (Norix CODE.html; Cortech CT-*.html; EJ.html and DP.html for the two new drafts); pre-series/ = the 18 table pages before the series sentence change; *_live.json snapshots.
+- baselines/: product JSON captured BEFORE changes (baselines/cortech/ for Cortech; baselines/new-products/ for Stack-A-Bunk, Evvolve).
+- scripts/
+  - review.py, sweep.py, check_all.sh (41 products via registry.json)
+  - registry.json: handle, HTML, subtitle, SEO title, SEO description, baseline for each published product (41)
+  - cmp2.py: doc parser (`exec(open('scripts/cmp2.py').read().split('A=load')[0])`, then `load(docjson)`)
+  - docdiff.py: `python3 -I scripts/docdiff.py <old.json> <new.json>`; diff two doc reads by tab title (run from this folder)
+  - doc_tables.py: prints every table in a doc (Andrew's table answers)
+  - tab2html2.py: doc tab → HTML (`python3 -I scripts/tab2html2.py <docjson> <tabId> shopify-html/X.html`)
+  - doc-builder/: build3.py (markdown-ish → batchUpdate), p3/p4/p5.py (Norix tab content incl. Evvolve Jr / Double Pedestal in p5.py), make3/4/5.py, verify3/4/5.py
+  - old-attenda/
+- doc-snapshot/: doc_snapshot.json (Norix original, Nov 10), norix_doc_copy_snapshot_nov11.json (the copy in use, latest), doc_tabs.txt, andrew_notes_attenda.txt
+- cortech/ (run its scripts FROM this folder: `cd cortech`)
+  - Worksheet_Cortech.xlsx (Andrew's; sheet "Products"; Date assigned column; Top Row column)
+  - pc.py: tab content data for 7 products (6 published + Sync Wedge), WITH Andrew's changes applied; pc_before_andrew.py = the version written into the doc
+  - mc.py: content() + rule checks (`python3 -I mc.py`)
+  - gen.py: HTML generator (`python3 -I gen.py <MPN prefix> ../shopify-html/CT-X.html`); reproduces all 6 published CT-*.html exactly
+  - ids.txt: Cortech doc tab IDs in order (the 6th, t.jtyspbn9vxy9 = Sync Wedge, was deleted)
+  - cortech_doc_snapshot_nov11.json, cortech_doc_before_andrew.json
+  - live/: Anchortex product JSON for the 7 Cortech products as of Nov 10 (before any change)
+  - site/: spec sheets, product pages, catalogs (text)

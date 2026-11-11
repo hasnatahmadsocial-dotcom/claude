@@ -1,0 +1,111 @@
+##### ATN401 - Attenda Four Shelf Storage Unit
+ - Product images: the page has 6 images, one over the 5-image limit. I suggest removing the Sand photo, since the color palette shows all colors.  [AND Keep it ]
+##### ATN500 - Attenda Floor-Mount Stool
+ - [DEL Weight:][DEL  9.5 lbs ]
+ - Spec sheet typo: the weight is listed as "9.5 lbs / 9.5 kg." Your current page and the price list both say 9.5 lbs, so I used 9.5 lbs.  [AND Let’s remove weight from the bullets ]
+ - Product images: the page has 6 images, one over the 5-image limit. I suggest removing the Sand photo, since the color palette shows all colors.  [AND Keep it ]
+##### ATN620 / ATN621 / ATN625 - Attenda Wall Desk
+ - The Norix Attenda Wall-Mounted Desk is designed for rooms where floor space is limited[DEL ,] and [DEL Norix notes it] is well suited to adult and juvenile detention settings. It mounts to a solid wall, is ADA compliant, and is available with or without a decorative high-pressure laminate top.
+ - [DEL Weight:][DEL  45 lbs (no laminate), 65 lbs (laminate) ]
+ - Price list: the Norix price list shows 45 lbs for the laminate version and 65 lbs without laminate, which looks reversed. The spec sheet says 45 lbs without laminate and 65 lbs with laminate, so I used the spec sheet.  [AND Let’s remove weight from the bullets]
+ - Product images: the page has 7 images, two over the 5-image limit. I suggest removing the ATN620 Dove and Sand photos, since the color palette shows all colors. [AND Keep it]
+##### ATN700 / ATN750 - Attenda Open Chest
+ - [AND ok ]
+##### ATN800 / ATN801 - Attenda Wardrobe
+ - I left out "sloped top" and "integrated bottom shelf and shoe compartment" from your current page, since neither the current Norix spec sheet nor the Norix web page mentions them. Please let me know if you would like them kept.  [AND Keep "sloped top" because we can verify it from the images. ]
+ - Product images: the page has 7 images, two over the 5-image limit. I suggest removing the Dove and Sand photos, since the color palette shows all colors. [AND Keep the]
+##### C212 - Boulder Armless Beam Seating
+ - Norix manufactures durable furniture for demanding environments, including behavioral healthcare facilities, psychiatric hospitals, [AND police stations, ]correctional institutions, and residential treatment centers. Explore the full line of Norix Furniture at Anchortex.
+ - URL: the product URL ends in "with-end-and-divider-arms," but this is the armless model. I did not change the URL.  [AND I may change the url in the future ]
+ - Product images: the last image is named "Norix_Vesta_Colors." Please check that it shows the Boulder seat colors. [AND It is ok ]
+##### C213 - Boulder Beam Seating with End Arms
+ - Norix manufactures durable furniture for demanding environments, including behavioral healthcare facilities, psychiatric hospitals, [AND police stations, ]correctional institutions, and residential treatment centers. Explore the full line of Norix Furniture at Anchortex.
+##### CY3600 / CY4200 / CY4800 - Jupiter Round Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - New series section: these tables are a new product group, so I wrote an "About Norix Dayroom and Dining Tables" section based on the Norix Tables Guide. It has no links to individual products. It is the same on all 18 table tabs, so please review it on the Jupiter Round Table tab. [AND Good ]
+ - [AND NOTE:  ]
+ - [AND Change to Plain Top not Solid Top for all of these tables.  (Tell me if Norix uses Solid instead of Plain) ]
+ - [AND Use standard fractions when practical (2¼”, 1½”, etc.). Don’t worry about non-standard fractions unless they are quick. ]
+ - [AND Remove spaces in dimensions. Example: change 6” × 6” × 1/4” to 6”×6”×¼” ]
+##### CY3636 / CY4242 - Jupiter Square Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - Price: the CY4242-DF DuoForm variant is $1,760. The Norix list price is $1,200, so at your usual 80% of list it would be $960. Can you check this price? [AND You are correct ]
+ - Indoor use: the Norix price list says the DuoForm top is weather and UV resistant and suits outdoor spaces, but the DuoForm spec sheet says indoor use only. I followed the spec sheet. [AND ok ]
+##### XB3600 / XB4200 / XB4800 - X-Base Round Table
+ - [DEL Subtitle:][DEL  Round Laminate Table with Interlocking X-Base That Defines Each Seating Position ]
+ - [AND Subtitle:][AND  Round Laminate Table Top with Laminate X-Base That Defines Each Seating Position ]
+ - [AND Note: 1. I am trying to clarify the distinction between the X-Base tables (laminate vs. molded.  These products are confusing to me. ]
+ - [AND 2. The actual part numbers are long, so XB4200 and XB4200-MA are not really distinct enough, but I am using them as short identifiers  When ordering, we need to use long numbers like indicated in the price list.   Example: XB4200-MAA0-WAA-11118 ]
+ - [AND This is SKU N700147 ]
+ - The [AND x-shaped] base is made from two interlocking laminate panels joined to the top with an intermediate mounting plate. The top is high-pressure laminate over a dense particle board core with a radiused molded edge, attached through embedded T-nuts for a steel-to-steel connection. No installation is needed.
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - Variant names: the round tables are named "XB3600 - 36x36," "XB4200 - 42x42," and "XB4800 - 48x48." These are round tops, so they should be "36” Round," "42” Round," and "48” Round." Would you like them renamed?  [AND Yes ]
+##### XB3636 / XB4242 - Laminate X-Base Square Table
+ - [AND Subtitle:][AND  Square Laminate Table Top with Laminate X-Base That Defines Each Seating Position]
+ - [AND This is SKU N700145]
+ - The [AND x-shaped ]base is made from two interlocking laminate panels joined to the top with an intermediate mounting plate. The top is high-pressure laminate over a dense particle board core with a radiused molded edge, attached through embedded T-nuts for a steel-to-steel connection. No installation is needed.
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+##### XB4200-MA / XB4800-MA - Molded X-Base Round Table
+ - [AND Subtitle:][AND  Round Laminate Table Top with Molded Polyethylene X-Base That Defines Each Seating Position ]
+ - [AND This is SKU N700283 ]
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - H1: the current H1 says "High-Pressure Laminate Surface and X Base" and lists the XB3600, which is not made with a molded base. I used "Molded X-Base" and the Norix model numbers XB4200-MA and XB4800-MA. Your current subtitle also lists the XB3600.    [AND See my comments near the top of XB3600 /, etc. ]
+ - SKUs: all four variants use the same SKU, N700283. Should each variant have its own SKU?  [AND yes ]
+ - Ballast: the spec sheet says to ballast with 150 lbs but also says the base holds up to 200 lbs, so I wrote "about 150 lbs."  [AND ok ]
+##### XB3636-MA / XB4242-MA - Molded X-Base Square
+ - [AND Subtitle:][AND  Square Laminate Table Top with Molded Polyethylene X-Base That Defines Each Seating Position and Choice of   ]
+ - [AND This is SKU N700280 ]
+ - [AND Laminate ]Top: High-pressure laminate over a 45 lb density M3 particle board core, with a 1.5” thick radiused molded edge that is pressure fused to the top
+ - Top Attachment: Embedded T-nuts give a steel-to-steel connection between the top and base    [AND move this bullet from position 3 to position 4  ]
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - Prices: all five variants are priced at $0.00. Norix list prices are $1,750 (36” solid), $2,037 (36” game), $1,900 (42” solid), $2,187 (42” game), and $1,700 (42” DuoForm). At your usual 80% of list, they would be $1,400, $1,629.60, $1,520, $1,749.60, and $1,360. Can you confirm the prices? [AND Correct  ]
+##### LS3072 / LS3096 - Leg Style Rectangle Table
+ - The Norix Leg Style Table with Rectangle Top is a four-leg laminate table built for continuous daily use in dining halls, dayrooms, and classrooms in correctional and behavioral healthcare facilities. It comes in 30” × 72” and 30” × 96” sizes, with 4” legs or 2-1/2” [AND [pls use fractions 2½” when practical]] legs for a more residential look.
+ - Legs: 4” or 2-1/2” diameter, 14-gauge steel tubing welded to a 6” × 6” × 1/4” steel mounting plate, with tamper-resistant adjustable leveling glides       [AND fractions, spaces ]
+ - Top Sizes: 30” × 72” or 30” × 96”   [AND no spaces - 30”x72” ]
+ - Weights: the spec sheet gives a weight range for each size, which depends on the leg size. Both variants are set to 255 lbs. I suggest the upper weights, 142 lbs (LS3072) and 190 lbs (LS3096), which match your current page.  [AND Yes]
+ - Variant names: the variants are named "30x72 Solid Top" and "30x96 Solid Top" with no model number. Would you like "LS3072 - 30x72 Solid Top" and "LS3096 - 30x96 Solid Top"?  [AND Yes ]
+##### LS4800 - Leg Style Round Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - Weights: the spec sheet gives 122 to 138 lbs, depending on the leg size. Both variants are set to 255 lbs. I suggest 138 lbs, which matches your current page and the price list. [AND Yes]
+##### LS3636 / LS4242 - Leg Style Square Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - Weights: the spec sheet gives a weight range for each size, which depends on the leg size. All four variants are set to 255 lbs. I suggest the upper weights, 115 lbs (LS3636) and 137 lbs (LS4242), which match your current page and the price list. [AND Yes]
+ - Variant names: these variants say "Plain Top," while the other Leg Style pages say "Solid Top." Would you like them renamed "Solid Top" to match?  [AND Good catch. Use Plain Top for all.  Plain here means without game top.  Solid means solid color, but some of the options have patterns. ]
+##### M44200 - Max-Master 4 Seat Round Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge               [AND make this change for all Max-Master products ]
+ - Game Top: [AND Optional] Titanium Evolve laminate with a printed game board, black molded edge                                                         [AND make this change for all Max-Master products]
+ - Stainless Steel Seats: Optional 12” stainless steel seats, which lower the seat height to 18.25” [DEL ($520 list for a set of 4) ]
+ - Assembly: Secure the base to the top and attach the seats; see [DEL the ]Norix instructions [AND [remove ‘the’ for all Max-Master products] ]
+ - Model number: your current pages use "M4-4200" style numbers, but the Norix spec sheet and price list use "M44200." I used the Norix numbers. Would you prefer the format on your current pages? [AND No, let’s follow Norix ]
+ - Variant options: the variants are "Bolt Down Plate," "Clear Leg Protector," and "Leg Glides." Per the Norix price list, bolt-down has no extra charge and leg protectors and glides are add-ons, which matches your current prices.  [AND This is ok.  I originally had variants so customers could order online, but was unable to solve the shipping problem.  If I solve the shipping problem in the future, we will look more carefully at variants with small options  ]
+##### M63072 - Max-Master 6 Seat Rectangle Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - Stainless Steel Seats: Optional 12” stainless steel seats, which lower the seat height to 18.25” [DEL ($780 list for a set of 6) ]
+ - Assembly: Secure the base to the top and attach the seats; see [DEL the ]Norix instructions
+ - Model number: your current pages use "M4-4200" style numbers, but the Norix spec sheet and price list use "M44200." I used the Norix numbers. Would you prefer the format on your current pages? [AND No, let’s follow Norix ]
+##### M65400 - Max-Master 6 Seat Round Table
+ - Game Top: [AND Optional ]Titanium Evolve laminate with a printed game board, black molded edge
+ - Stainless Steel Seats: Optional 12” stainless steel seats, which lower the seat height to 18.25” [DEL ($780 list for a set of 6) ]
+ - Model number: your current pages use "M4-4200" style numbers, but the Norix spec sheet and price list use "M44200." I used the Norix numbers. Would you prefer the format on your current pages? [AND No, let’s follow Norix]
+ - [AND For all Max-Master products, change to Plain Top not Solid Top ]
+##### M83096 - Max-Master 8 Seat Rectangle Table
+ - Game Top: [AND Optional ]Titanium Evolve laminate with a printed game board, black molded edge
+ - Stainless Steel Seats: Optional 12” stainless steel seats, which lower the seat height to 18.25” [DEL ($1,040 list for a set of 8) ]
+ - Assembly: Secure the base to the top and attach the seats; see [DEL the ]Norix instructions
+ - Model number: your current pages use "M4-4200" style numbers, but the Norix spec sheet and price list use "M44200." I used the Norix numbers. Would you prefer the format on your current pages?  [AND No, let’s follow Norix]
+##### M86000 - Max-Master 8 Seat Round Table
+ - Stainless Steel Seats: Optional 12” stainless steel seats, which lower the seat height to 18.25”[DEL  ($1,040 list for a set of 8) ]
+ - Model number: your current pages use "M4-4200" style numbers, but the Norix spec sheet and price list use "M44200." I used the Norix numbers. Would you prefer the format on your current pages? [AND No, let’s follow Norix]
+##### MP1860 / MP2460 / MP3060 - Multi-Purpose Table
+ - Assembly: Ships knocked down to save on freight, with Torx® tamper-resistant hardware; see [DEL the ]Norix instructions
+##### MP3600 / MP4200 - Multi-Purpose Round Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Calcutta Marble, or Black Alicante with a black edge, or Kensington Maple, Asian Sun, Montana Walnut, or Palisades Oak with a bark edge
+ - Game Top: [AND Optional ]Titanium Evolve laminate with a printed game board, black edge
+##### MP3636 / MP4242 - Multi-Purpose Square Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Calcutta Marble, or Black Alicante with a black edge, or Kensington Maple, Asian Sun, Montana Walnut, or Palisades Oak with a bark edge
+ - Game Top: [AND Optional ]Titanium Evolve laminate with a printed game board, black edge
+##### O43048 / O43072 - Oasis Cafeteria Table
+ - [AND Plain ]Top Finishes: Titanium Evolve, Wild Cherry, Kensington Maple, Asian Sun, Montana Walnut, Palisades Oak, Calcutta Marble, or Black Alicante laminate with a matching or black molded edge
+ - Game Top: [AND Optional ]Titanium Evolve laminate with a printed game board, black molded edge
+ - Model number: your current page uses "O4-3048" and "O4-3072," but the Norix spec sheet uses "O43048" and "O43072." I used the Norix numbers. Would you prefer the format on your current page? [AND No ]

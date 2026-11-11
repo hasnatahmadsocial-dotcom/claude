@@ -1,0 +1,330 @@
+[
+ {
+  "handle": "norix-attenda-floor-mounted-desk",
+  "html": "shopify-html/ATN601.html",
+  "subtitle": "Molded Polyethylene Desk with Laminate Top and Modesty Panel for Behavioral Health and Corrections",
+  "seo_title": "Norix Attenda Floor-Mount Desk - ATN601 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN601 floor-mount desk. Foam-filled molded base, laminate top, and modesty panel for behavioral health and correctional facilities.",
+  "baseline": "shopify-html/ATN601_live.json"
+ },
+ {
+  "handle": "norix-atn-attenda-platform-bed",
+  "html": "shopify-html/ATN101.html",
+  "subtitle": "Foam-Filled Molded Platform Bed for Corner, Wall, or Free-Standing Use in Behavioral Health and Corrections",
+  "seo_title": "Norix Attenda Platform Bed - ATN101 / ATN103 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN101 / ATN103 platform bed. Foam-filled molded bed tested to 1,000 lbs for behavioral health and correctional resident rooms.",
+  "baseline": "shopify-html/ATN101_live.json"
+ },
+ {
+  "handle": "norix-atn-attenda-space-saver-bed",
+  "html": "shopify-html/ATN120.html",
+  "subtitle": "Compact Molded Platform Beds, With or Without Storage, for Behavioral Health and Corrections",
+  "seo_title": "Norix Attenda Space-Saver Bed - ATN120 / ATN130 / ATN150",
+  "seo_desc": "Shop the Norix Attenda ATN120 / ATN130 / ATN150 space-saver bed. Compact molded bed, with an optional storage version, for behavioral health and corrections.",
+  "baseline": "baselines/attenda/norix-atn-attenda-space-saver-bed.json"
+ },
+ {
+  "handle": "norix-attenda-sleigh-bed",
+  "html": "shopify-html/ATN140.html",
+  "subtitle": "Raised Molded Bed for Geriatric Care and Patient Lift Use in Behavioral Health Facilities",
+  "seo_title": "Norix Attenda Sleigh Bed - ATN140 / ATN145 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN140 / ATN145 sleigh bed. Molded bed with a 13” or 18” sleep surface, optional drainage holes, and patient lift compatibility.",
+  "baseline": "baselines/attenda/norix-attenda-sleigh-bed.json"
+ },
+ {
+  "handle": "norix-attenda-floor-mounted-nightstand",
+  "html": "shopify-html/ATN250.html",
+  "subtitle": "Open-Compartment Molded Nightstand with Optional Laminate Top for Behavioral Health and Corrections",
+  "seo_title": "Norix Attenda Nightstand - ATN250 / ATN255 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN250 / ATN255 nightstand. Foam-filled molded nightstand with open storage and an optional laminate top for behavioral health.",
+  "baseline": "baselines/attenda/norix-attenda-floor-mounted-nightstand.json"
+ },
+ {
+  "handle": "norix-attenda-three-shelf-storage-unit",
+  "html": "shopify-html/ATN301.html",
+  "subtitle": "Three-Compartment Molded Wall Storage for Behavioral Health and Correctional Resident Rooms",
+  "seo_title": "Norix Attenda Three Shelf Storage Unit - ATN301 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN301 three shelf storage unit. Wall-mounted, foam-filled molded storage with three open compartments for behavioral health rooms.",
+  "baseline": "baselines/attenda/norix-attenda-three-shelf-storage-unit.json"
+ },
+ {
+  "handle": "norix-attenda-wall-mounted-book-shelf",
+  "html": "shopify-html/ATN310.html",
+  "subtitle": "Single-Compartment Molded Wall Shelf for Use Above Attenda Desks and Space-Saver Beds",
+  "seo_title": "Norix Attenda Wall-Mounted Bookshelf - ATN310 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN310 wall-mounted bookshelf. Foam-filled molded shelf sized to fit above Attenda desks and space-saver beds in resident rooms.",
+  "baseline": "baselines/attenda/norix-attenda-wall-mounted-book-shelf.json"
+ },
+ {
+  "handle": "norix-attenda-wall-mounted-two-shelf-storage-unit-atn320",
+  "html": "shopify-html/ATN320.html",
+  "subtitle": "Two-Compartment Molded Wall Storage That Mounts Horizontally or Vertically",
+  "seo_title": "Norix Attenda Two Shelf Storage Unit - ATN320 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN320 two shelf storage unit. Molded wall storage with two open compartments that mounts horizontally or vertically in resident rooms.",
+  "baseline": "baselines/attenda/norix-attenda-wall-mounted-two-shelf-storage-unit-atn320.json"
+ },
+ {
+  "handle": "norix-attenda-four-shelf-storage-unit",
+  "html": "shopify-html/ATN401.html",
+  "subtitle": "Four-Compartment Molded Wall Storage for Behavioral Health and Correctional Resident Rooms",
+  "seo_title": "Norix Attenda Four Shelf Storage Unit - ATN401 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN401 four shelf storage unit. Wall-mounted, foam-filled molded storage with four open compartments for behavioral health rooms.",
+  "baseline": "baselines/attenda/norix-attenda-four-shelf-storage-unit.json"
+ },
+ {
+  "handle": "norix-attenda-floor-mounted-stool",
+  "html": "shopify-html/ATN500.html",
+  "subtitle": "Foam-Filled Molded Polyethylene Stool for Attenda Desks in Behavioral Health and Corrections",
+  "seo_title": "Norix Attenda Floor-Mount Stool - ATN500 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN500 floor-mount stool. Foam-filled molded stool tested to 1,000 lbs, made to pair with Attenda desks in behavioral health rooms.",
+  "baseline": "baselines/attenda/norix-attenda-floor-mounted-stool.json"
+ },
+ {
+  "handle": "norix-attenda-wall-mounted-desk",
+  "html": "shopify-html/ATN620.html",
+  "subtitle": "Space-Saving Molded Wall Desk With or Without Laminate Top for Detention and Behavioral Health",
+  "seo_title": "Norix Attenda Wall-Mounted Desk - ATN620 / ATN621 / ATN625",
+  "seo_desc": "Shop the Norix Attenda ATN620 / ATN621 / ATN625 wall-mounted desk. ADA-compliant desk, with or without a laminate top, for detention and behavioral health.",
+  "baseline": "baselines/attenda/norix-attenda-wall-mounted-desk.json"
+ },
+ {
+  "handle": "norix-attenda-open-chest-atn700-atn750",
+  "html": "shopify-html/ATN700.html",
+  "subtitle": "Floor-Mounted Molded Storage Chest with Open Compartments for Behavioral Health and Corrections",
+  "seo_title": "Norix Attenda Open Chest - ATN700 / ATN750 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN700 / ATN750 open chest. Foam-filled molded storage chest with open compartments and an optional laminate top for behavioral health.",
+  "baseline": "baselines/attenda/norix-attenda-open-chest-atn700-atn750.json"
+ },
+ {
+  "handle": "norix-attenda-wardrobe",
+  "html": "shopify-html/ATN800.html",
+  "subtitle": "Wall-Mounted Molded Wardrobe With or Without Door for Behavioral Health Facilities",
+  "seo_title": "Norix Attenda Wardrobe - ATN800 / ATN801 at Anchortex",
+  "seo_desc": "Shop the Norix Attenda ATN800 / ATN801 wardrobe. Wall-mounted molded wardrobe with a J-channel for hangers, with or without a door, for behavioral health rooms.",
+  "baseline": "baselines/attenda/norix-attenda-wardrobe.json"
+ },
+ {
+  "handle": "norix-c212-boulder-beam-seating-with-end-and-divider-arms",
+  "html": "shopify-html/C212.html",
+  "subtitle": "Steel-Frame Beam Seating with Molded Seats for 2, 3, or 4 People in Lobbies and Waiting Areas",
+  "seo_title": "Norix Boulder Armless Beam Seats - C212 at Anchortex",
+  "seo_desc": "Shop Norix Boulder C212 armless beam seats. Welded steel frame with tamper-resistant molded seats for 2, 3, or 4 people in lobbies and waiting areas.",
+  "baseline": "baselines/tables-boulder/norix-c212-boulder-beam-seating-with-end-and-divider-arms.json"
+ },
+ {
+  "handle": "norix-c213-boulder-beam-seating-with-end-arms",
+  "html": "shopify-html/C213.html",
+  "subtitle": "Steel-Frame Beam Seating with End Arms and Molded Seats for 2, 3, or 4 People",
+  "seo_title": "Norix Boulder Beam Seating with End Arms - C213 at Anchortex",
+  "seo_desc": "Shop Norix Boulder C213 beam seating with end arms. Welded steel frame and tamper-resistant molded seats for 2, 3, or 4 people in lobbies and waiting areas.",
+  "baseline": "baselines/tables-boulder/norix-c213-boulder-beam-seating-with-end-arms.json"
+ },
+ {
+  "handle": "norix-jupiter-round-top-table-w-cylinder-base",
+  "html": "shopify-html/CYR.html",
+  "subtitle": "Ballasted Molded Cylinder Base Table with Laminate or Game Top for Dayrooms and Dining Areas",
+  "seo_title": "Norix Jupiter Round Cylinder Base Table at Anchortex",
+  "seo_desc": "Shop the Norix Jupiter round table with molded cylinder base. 36, 42, or 48 inch laminate or game top, ballasted for dayrooms and dining areas.",
+  "baseline": "baselines/tables-boulder/norix-jupiter-round-top-table-w-cylinder-base.json"
+ },
+ {
+  "handle": "norix-jupiter-square-top-table-w-cylinder-base",
+  "html": "shopify-html/CYS.html",
+  "subtitle": "Ballasted Molded Cylinder Base Table with Laminate, Game, or DuoForm Top for Dayrooms and Dining Areas",
+  "seo_title": "Norix Jupiter Square Cylinder Base Table - CY3636 / CY4242",
+  "seo_desc": "Shop the Norix Jupiter square table with molded cylinder base. 36 or 42 inch laminate, game, or DuoForm top, ballasted for dayrooms and dining areas.",
+  "baseline": "baselines/tables-boulder/norix-jupiter-square-top-table-w-cylinder-base.json"
+ },
+ {
+  "handle": "norix-laminate-x-base-table-with-round-top",
+  "html": "shopify-html/XBR.html",
+  "subtitle": "Round Laminate Table Top with Laminate X-Base That Defines Each Seating Position",
+  "seo_title": "Norix Laminate X-Base Table with Round Top at Anchortex",
+  "seo_desc": "Shop the Norix laminate X-Base table with round top. 36, 42, or 48 inch plain or game top with an X-base that defines each seat, for dayrooms and dining.",
+  "baseline": "baselines/tables-boulder/norix-laminate-x-base-table-with-round-top.json"
+ },
+ {
+  "handle": "norix-laminate-x-base-table-with-square-top",
+  "html": "shopify-html/XBS.html",
+  "subtitle": "Square Laminate Table Top with Laminate X-Base That Defines Each Seating Position",
+  "seo_title": "Norix Laminate X-Base Square Table - XB3636 / XB4242 at Anchortex",
+  "seo_desc": "Shop the Norix XB3636 / XB4242 laminate X-Base table with square top. Plain or game top with an X-base that defines each seat, for dayrooms and dining.",
+  "baseline": "baselines/tables-boulder/norix-laminate-x-base-table-with-square-top.json"
+ },
+ {
+  "handle": "norix-molded-x-base-table-with-round-top",
+  "html": "shopify-html/XBMR.html",
+  "subtitle": "Round Laminate Table Top with Molded Polyethylene X-Base That Defines Each Seating Position",
+  "seo_title": "Norix Molded X-Base Round Table - XB4200-MA / XB4800-MA",
+  "seo_desc": "Shop the Norix molded X-Base table with round top. 42 or 48 inch laminate or game top on a molded base with concealed hardware for dayrooms and dining.",
+  "baseline": "baselines/tables-boulder/norix-molded-x-base-table-with-round-top.json"
+ },
+ {
+  "handle": "norix-molded-x-base-table-with-square-top",
+  "html": "shopify-html/XBMS.html",
+  "subtitle": "Square Laminate Table Top with Molded Polyethylene X-Base That Defines Each Seating Position and Choice of Laminate, Game, or DuoForm Top",
+  "seo_title": "Norix Molded X-Base Square Table - XB3636-MA / XB4242-MA",
+  "seo_desc": "Shop the Norix molded X-Base table with square top. 36 or 42 inch laminate, game, or DuoForm top on a molded base with concealed hardware for dayrooms.",
+  "baseline": "baselines/tables-boulder/norix-molded-x-base-table-with-square-top.json"
+ },
+ {
+  "handle": "norix-leg-style-rectangle-table",
+  "html": "shopify-html/LSR.html",
+  "subtitle": "Rectangle Laminate Table with Welded Steel Legs for Dining Halls, Dayrooms, and Classrooms",
+  "seo_title": "Norix Leg Style Table with Rectangle Top - LS3072 / LS3096",
+  "seo_desc": "Shop the Norix LS3072 / LS3096 Leg Style rectangle table. Laminate top with molded edge on welded steel legs, with glides or bolt-down, for dining halls.",
+  "baseline": "baselines/tables-boulder/norix-leg-style-rectangle-table.json"
+ },
+ {
+  "handle": "norix-round-top-leg-style-table",
+  "html": "shopify-html/LSRD.html",
+  "subtitle": "48” Round Laminate Table with Welded Steel Legs and Plain or Game Top",
+  "seo_title": "Norix Leg Style Table with Round Top - LS4800 at Anchortex",
+  "seo_desc": "Shop the Norix LS4800 Leg Style round table. 48 inch laminate plain or game top on welded steel legs, with glides or bolt-down, for dayrooms and dining.",
+  "baseline": "baselines/tables-boulder/norix-round-top-leg-style-table.json"
+ },
+ {
+  "handle": "norix-square-top-leg-style-table",
+  "html": "shopify-html/LSS.html",
+  "subtitle": "Square Laminate Table with Welded Steel Legs and Plain or Game Top",
+  "seo_title": "Norix Leg Style Square Table - LS3636 / LS4242 at Anchortex",
+  "seo_desc": "Shop the Norix LS3636 / LS4242 Leg Style square table. Laminate plain or game top on welded steel legs, with glides or bolt-down, for dayrooms and dining.",
+  "baseline": "baselines/tables-boulder/norix-square-top-leg-style-table.json"
+ },
+ {
+  "handle": "norix-max-master-4-seat-round-table",
+  "html": "shopify-html/M44200.html",
+  "subtitle": "42” Round Table with 4 Attached Composite Seats for Dining Halls and Dayrooms",
+  "seo_title": "Norix Max-Master 4 Seat Round Table - M44200 at Anchortex",
+  "seo_desc": "Shop the Norix Max-Master M44200 4 seat round table. 42 inch laminate or stainless top with composite seats on steel legs for dining halls and dayrooms.",
+  "baseline": "baselines/tables-boulder/norix-max-master-4-seat-round-table.json"
+ },
+ {
+  "handle": "norix-max-master-6-seat-rectangle-table",
+  "html": "shopify-html/M63072.html",
+  "subtitle": "30”×72” Rectangle Table with 6 Attached Composite Seats for Dining Halls and Dayrooms",
+  "seo_title": "Norix Max-Master 6 Seat Rectangle Table - M63072 at Anchortex",
+  "seo_desc": "Shop the Norix Max-Master M63072 6 seat rectangle table. 30 x 72 inch laminate top with composite seats on curved steel legs for dining halls and dayrooms.",
+  "baseline": "baselines/tables-boulder/norix-max-master-6-seat-rectangle-table.json"
+ },
+ {
+  "handle": "norix-max-master-6-seat-round-table",
+  "html": "shopify-html/M65400.html",
+  "subtitle": "54” Round Table with 6 Attached Composite Seats for Dining Halls and Dayrooms",
+  "seo_title": "Norix Max-Master 6 Seat Round Table - M65400 at Anchortex",
+  "seo_desc": "Shop the Norix Max-Master M65400 6 seat round table. 54 inch laminate or stainless top with composite seats on steel legs for dining halls and dayrooms.",
+  "baseline": "baselines/tables-boulder/norix-max-master-6-seat-round-table.json"
+ },
+ {
+  "handle": "norix-max-master-8-seat-rectangle-table",
+  "html": "shopify-html/M83096.html",
+  "subtitle": "30”×96” Rectangle Table with 8 Attached Composite Seats for Dining Halls and Dayrooms",
+  "seo_title": "Norix Max-Master 8 Seat Rectangle Table - M83096 at Anchortex",
+  "seo_desc": "Shop the Norix Max-Master M83096 8 seat rectangle table. 30 x 96 inch laminate or game top with composite seats on steel legs for dining halls.",
+  "baseline": "baselines/tables-boulder/norix-max-master-8-seat-rectangle-table.json"
+ },
+ {
+  "handle": "norix-max-master-8-seat-round-table",
+  "html": "shopify-html/M86000.html",
+  "subtitle": "60” Round Table with 8 Attached Composite Seats for Dining Halls and Dayrooms",
+  "seo_title": "Norix Max-Master 8 Seat Round Table - M86000 at Anchortex",
+  "seo_desc": "Shop the Norix Max-Master M86000 8 seat round table. 60 inch laminate or game top with composite seats on curved steel legs for dining halls and dayrooms.",
+  "baseline": "baselines/tables-boulder/norix-max-master-8-seat-round-table.json"
+ },
+ {
+  "handle": "norix-rectangle-top-multi-purpose-table",
+  "html": "shopify-html/MPR.html",
+  "subtitle": "Rectangle Laminate Table on a Sealed Steel T-Base for Classrooms and Program Rooms",
+  "seo_title": "Norix Multi-Purpose Table with Rectangle Top at Anchortex",
+  "seo_desc": "Shop the Norix MP1860, MP2460, and MP3060 multi-purpose rectangle table. Laminate top on a sealed steel T-base with tamper-resistant glides for classrooms.",
+  "baseline": "baselines/tables-boulder/norix-rectangle-top-multi-purpose-table.json"
+ },
+ {
+  "handle": "norix-round-top-multi-purpose-table",
+  "html": "shopify-html/MPRD.html",
+  "subtitle": "Round Laminate Table on a Sealed Steel X-Base with Plain or Game Top",
+  "seo_title": "Norix Multi-Purpose Table with Round Top - MP3600 / MP4200",
+  "seo_desc": "Shop the Norix MP3600 / MP4200 multi-purpose round table. 36 or 42 inch laminate plain or game top on a sealed steel X-base for classrooms and dayrooms.",
+  "baseline": "baselines/tables-boulder/norix-round-top-multi-purpose-table.json"
+ },
+ {
+  "handle": "norix-square-top-multi-purpose-table",
+  "html": "shopify-html/MPS.html",
+  "subtitle": "Square Laminate Table on a Sealed Steel X-Base with Plain or Game Top",
+  "seo_title": "Norix Multi-Purpose Table with Square Top - MP3636 / MP4242",
+  "seo_desc": "Shop the Norix MP3636 / MP4242 multi-purpose square table. 36 or 42 inch laminate plain or game top on a sealed steel X-base for classrooms and dayrooms.",
+  "baseline": "baselines/tables-boulder/norix-square-top-multi-purpose-table.json"
+ },
+ {
+  "handle": "norix-oasis-cafeteria-table",
+  "html": "shopify-html/OASIS.html",
+  "subtitle": "4-Seat Rectangle Cluster Table with Fixed or Swivel Molded Seats for Dayrooms, Dining, and Visitation",
+  "seo_title": "Norix Oasis Cafeteria Table - O43048 / O43072 at Anchortex",
+  "seo_desc": "Shop the Norix Oasis cafeteria table with 4 fixed or swivel molded seats. 30 x 48 or 30 x 72 inch laminate or stainless top for dayrooms and dining halls.",
+  "baseline": "baselines/tables-boulder/norix-oasis-cafeteria-table.json"
+ },
+ {
+  "handle": "norix-stack-a-bunk-bed-platform",
+  "html": "shopify-html/B530.html",
+  "subtitle": "Stackable One-Piece Molded Sleep Surface for Overcrowding and Emergency Bunking",
+  "seo_title": "Norix Ironman Stack-A-Bunk Bed Platform at Anchortex",
+  "seo_desc": "Shop the Norix Ironman Stack-A-Bunk bed platform. One-piece molded, stackable sleep surface for overcrowding and emergency bunking, in two sizes.",
+  "baseline": "baselines/new-products/norix-stack-a-bunk-bed-platform.json"
+ },
+ {
+  "handle": "norix-evvolve-table",
+  "html": "shopify-html/EV.html",
+  "subtitle": "Ballasted Ribbed Molded Base Table with Laminate, Game, or DuoForm Top",
+  "seo_title": "Norix Evvolve Table with Round or Square Top at Anchortex",
+  "seo_desc": "Shop the Norix Evvolve table with a ribbed molded base. 36 to 48 inch round or square laminate, game, or DuoForm top, ballasted for dayrooms and dining.",
+  "baseline": "baselines/new-products/norix-evvolve-table.json"
+ },
+ {
+  "handle": "cortech-barracuda-box-inmate-property-storage",
+  "html": "shopify-html/CT-BARRACUDA.html",
+  "subtitle": "Stack-and-Nest Polypropylene Property Storage Box in Three Sizes for Correctional Facilities",
+  "seo_title": "Cortech Barracuda Box Inmate Property Storage Box at Anchortex",
+  "seo_desc": "Shop the Cortech Barracuda Box inmate property storage box. A one-piece polypropylene box in three sizes that stacks or nests, with locking hasps on both sides.",
+  "baseline": "baselines/cortech/cortech-barracuda-box-inmate-property-storage.json"
+ },
+ {
+  "handle": "cortech-barracuda-inmate-property-storage-box-lid",
+  "html": "shopify-html/CT-BARRACUDA-LID.html",
+  "subtitle": "Stackable Polypropylene Lids in Two Sizes for Cortech Barracuda Boxes",
+  "seo_title": "Cortech Barracuda Box Inmate Property Storage Box Lid",
+  "seo_desc": "Shop the Cortech Barracuda Box lid. One-piece polypropylene lids in two sizes that slide open, lock with the box hasp, and stack Barracuda property boxes.",
+  "baseline": "baselines/cortech/cortech-barracuda-inmate-property-storage-box-lid.json"
+ },
+ {
+  "handle": "cortech-master-box-lockable-inmate-property-storage",
+  "html": "shopify-html/CT-MASTERBOX.html",
+  "subtitle": "Polypropylene Property Storage Box with Built-In Combination Lock and Master Override Key",
+  "seo_title": "Cortech Master Box Lockable Property Storage Box at Anchortex",
+  "seo_desc": "Shop the Cortech Master Box lockable property storage box. Polypropylene box with a built-in combination lock and master override key, in three sizes.",
+  "baseline": "baselines/cortech/cortech-master-box-lockable-inmate-property-storage.json"
+ },
+ {
+  "handle": "cortech-master-box-lid-inmate-property-storage",
+  "html": "shopify-html/CT-MASTERBOX-LID.html",
+  "subtitle": "Stackable Polypropylene Lids in Two Sizes for Cortech Master Box Property Storage Boxes",
+  "seo_title": "Cortech Master Box Property Storage Box Lid at Anchortex",
+  "seo_desc": "Shop the Cortech Master Box lid. Polypropylene lids in two sizes with a tamper-resistant hasp hole, a sliding lid, and a stacking groove for Master Boxes.",
+  "baseline": "baselines/cortech/cortech-master-box-lid-inmate-property-storage.json"
+ },
+ {
+  "handle": "cortech-ez-bunk-stackable-platform-bed-sleep-surface",
+  "html": "shopify-html/CT-EZBUNK.html",
+  "subtitle": "One-Piece Molded Temporary Sleep Surface That Stacks 20 High in 7 Vertical Feet",
+  "seo_title": "Cortech EZ Bunk Stackable Platform Bed Sleep Surface at Anchortex",
+  "seo_desc": "Shop the Cortech EZ Bunk stackable sleep surface. A one-piece molded temporary bed for jails and shelters that stacks 20 high in 7 feet, in two colors.",
+  "baseline": "baselines/cortech/cortech-ez-bunk-stackable-platform-bed-sleep-surface.json"
+ },
+ {
+  "handle": "cortech-ventura-mirror",
+  "html": "shopify-html/CT-VENTURA.html",
+  "subtitle": "One-Piece Break-Resistant Acrylic Mirror with Integral Frame and Tamper-Resistant Fasteners",
+  "seo_title": "Cortech Ventura Acrylic Mirror - VM1115 / VM1520 / VM1824",
+  "seo_desc": "Shop the Cortech Ventura acrylic mirror. A one-piece, break-resistant mirror with an integral frame and tamper-resistant screws, in three sizes for corrections.",
+  "baseline": "baselines/cortech/cortech-ventura-mirror.json"
+ }
+]
