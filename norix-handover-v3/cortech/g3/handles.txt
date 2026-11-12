@@ -1,0 +1,10 @@
+cortech-484-endurance-wedge-table tables/endurance-wedge-table
+cortech-7901-endurance-floor-mounted-stool seating/endurance-floor-mounted-stool
+cortech-7201-endurance-open-chest endurance/endurance-open-chest
+cortech-7603-endurance-wall-mount-desk-w-laminate-top endurance/endurance-wall-mount-desk
+cortech-7602-endurance-night-table endurance/endurance-nightstand
+cortech-7111-endurance-4-shelf-wall-mount endurance/endurance-4-shelf
+cortech-7607-endurance-floor-mounted-desk endurance/endurance-freestanding-desk
+cortech-7614-endurance-2-shelf-wall-mounted-shelf endurance/endurance-2-shelf
+cortech-7605-endurance-wall-mounted-desk endurance/endurance-wall-mount-desk
+cortech-126484-endurance-cube-end-table seating/endurance-cube
