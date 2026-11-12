@@ -358,5 +358,13 @@
   "seo_title": "Cortech Endurance Steel Leg Laminate Table at Anchortex",
   "seo_desc": "Shop the Cortech Endurance steel leg laminate table. Square, round, or rectangle laminate tops on welded steel legs, with plain or game top options.",
   "baseline": "baselines/cortech/cortech-endurance-x-series-laminate-table-w-steel-legs.json"
+ },
+ {
+  "handle": "cortech-anchor-table-4-seat-round-top",
+  "html": "shopify-html/CT-ANCHOR-4.html",
+  "subtitle": "Fixed Group Seating Table with 42” Round or Square Laminate Top and Bolt-Down Steel Frame",
+  "seo_title": "Cortech Anchor 4-Seat Table - 42RDAB / 42SDAB at Anchortex",
+  "seo_desc": "Shop the Cortech Anchor 4-seat table. A 42” round or square laminate top with four molded seats on a bolt-down steel frame, with ADA versions.",
+  "baseline": "baselines/cortech/cortech-anchor-table-4-seat-round-top.json"
  }
 ]
