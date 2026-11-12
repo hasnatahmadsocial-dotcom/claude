@@ -342,5 +342,13 @@
   "seo_title": "Cortech Endurance X-Base Square Table - 66750 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance X-Base molded table with square top. A fully molded 42” square table with plain or game top, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-66750-endurance-square-top-table-w-x-base.json"
+ },
+ {
+  "handle": "cortech-endurance-x-series-laminate-table-w-xbase",
+  "html": "shopify-html/CT-XSERIES-XBASE.html",
+  "subtitle": "Square or Round Laminate Table on a Molded X-Base with Plain or Game Top for Dayrooms",
+  "seo_title": "Cortech Endurance X-Series Laminate Table with X-Base",
+  "seo_desc": "Shop the Cortech Endurance X-Series laminate table with molded X-base. Square or round laminate tops with plain or game top, for dayrooms and dining.",
+  "baseline": "baselines/cortech/cortech-endurance-x-series-laminate-table-w-xbase.json"
  }
 ]

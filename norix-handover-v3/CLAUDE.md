@@ -121,7 +121,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - Also check the options structure, image names, alt text and image order. Expected (Andrew-approved) SKU/price changes show as "changed"; say they're expected. "H1 en dash count 0" is expected when the H1 has no model numbers (Evvolve).
 - Store bot page ("Verifying your connection"): retry. If it persists when saving a baseline, use the earliest saved copy (e.g. cortech/live/*.json from Nov 10, which is before any change).
 - Product images: cdn.shopify.com is NOT reachable; download via `https://www.anchortex.com/cdn/shop/files/<name>?width=600` (older ones: /cdn/shop/products/<name>).
-- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **43** published products.
+- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **44** published products.
 - Report: ✅ list of everything that passed, ⚠️ list of what's missing, with exact values to set.
 
 ## Environment (cloud session)
@@ -145,6 +145,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - EZ Bunk (CT-EZBUNK, cortech-ez-bunk-stackable-platform-bed-sleep-surface): variants renamed "7501 - Blue Gray" / "7502 - Slate Blue" (Andrew "yes"), 40 → 39 lb (spec), photos added (Blue Gray uploaded as .webp, fine).
 - **66749 / 66751 X-Base Round** (CT-66749, cortech-66749-endurance-x-base-table-w-round-top), done Nov 12: Andrew's edits (Sabre Mount struck in intro, 42”/48” in meta), variants Solid→Plain Top, weights 55/55/60/60 (spec), 4 Cortech photos added. Source cortech/g2/pc2.py (Andrew's edits applied to all 4 commented tabs; pc2_before_andrew.py = doc version); HTML via cortech/g2/gen2.py.
 - **66750 X-Base Square** (CT-66750, cortech-66750-endurance-square-top-table-w-x-base), done Nov 12: Sabre Mount struck in intro, meta "42”" (applied from Andrew's 66749 edit), variant Solid→Plain Top, weights 59/59 (spec), library photo added (uploaded as .webp).
+- **X-Series Laminate X-Base** (CT-XSERIES-XBASE, cortech-endurance-x-series-laminate-table-w-xbase), done Nov 12: "Bull Nose Edge Colors", Custom Tops removed (Andrew: never direct to Cortech), variants/weights unchanged (Andrew), H1 without model numbers (en dash 0 expected), all 4 images kept: images 3/4 are NOT duplicates (laminate finishes chart vs Dura-Edge chart; my doc note was wrong, Andrew not told yet). Page chart shows 9 Dura-Edge colors (incl. Spectrum Red), spec 8.
 - Ventura Mirror (CT-VENTURA, cortech-ventura-mirror): Andrew struck the screw text from the model lines and added "tamper-resistant Torx screws included." to Mounting; weights stay 10 lb (Andrew "yes"); no series section (separate product).
 
 ## PENDING / OPEN (in order)
