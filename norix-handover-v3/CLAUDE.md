@@ -121,7 +121,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - Also check the options structure, image names, alt text and image order. Expected (Andrew-approved) SKU/price changes show as "changed"; say they're expected. "H1 en dash count 0" is expected when the H1 has no model numbers (Evvolve).
 - Store bot page ("Verifying your connection"): retry. If it persists when saving a baseline, use the earliest saved copy (e.g. cortech/live/*.json from Nov 10, which is before any change).
 - Product images: cdn.shopify.com is NOT reachable; download via `https://www.anchortex.com/cdn/shop/files/<name>?width=600` (older ones: /cdn/shop/products/<name>).
-- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **48** published products.
+- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **49** published products.
 - Report: ✅ list of everything that passed, ⚠️ list of what's missing, with exact values to set.
 
 ## Environment (cloud session)
@@ -150,6 +150,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **Anchor 4-Seat** (CT-ANCHOR-4, cortech-anchor-table-4-seat-round-top), done Nov 12: Andrew struck the ADA sentence in intro 2, meta 42”; variants renamed "42RDAB - 42” Round Top, U-legs" / "42SDAB - 42”×42” Square Top, U-legs" (Andrew: all Anchor variants are U-legs), weights 140/140 (Andrew yes for square). J-leg/U-leg text kept as in doc (Zeemal: Andrew read the doc before commenting, so no question to him; same for the other 3 Anchor tables). 3 images kept.
 - **Anchor 6-Seat Round** (CT-ANCHOR-6R, cortech-anchor-table-6-seat-round-top), done Nov 12: ADA sentence struck in intro 2, meta 48”, variant "48R6DAB - 48” Round Top, U-legs", 255 → 150 lb (spec), 3 images kept.
 - **Anchor 6-Seat Rectangle** (CT-ANCHOR-6X, cortech-anchor-table-6-seat-rectangle-top), done Nov 12: ADA sentence struck, meta 30”×72” (Andrew typed x; × used), variant "3072ADPB - 30”×72” Rectangle Top, U-legs", 255 → 200 lb (spec), 3 images kept.
+- **Anchor 8-Seat Rectangle** (CT-ANCHOR-8, cortech-anchor-table-8-seat-rectangle-top), done Nov 12: ADA sentence struck, meta 30”×96”, variant "3096ADPB - 30”×96” Rectangle Top, U-legs", 255 → 265 lb (spec), 3 images kept. All 4 Anchor tables now done.
 - Ventura Mirror (CT-VENTURA, cortech-ventura-mirror): Andrew struck the screw text from the model lines and added "tamper-resistant Torx screws included." to Mounting; weights stay 10 lb (Andrew "yes"); no series section (separate product).
 
 ## PENDING / OPEN (in order)

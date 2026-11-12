@@ -382,5 +382,13 @@
   "seo_title": "Cortech Anchor 6-Seat Rectangle Table - 3072ADPB at Anchortex",
   "seo_desc": "Shop the Cortech Anchor 6-seat rectangle table. A 30”×72” laminate top with six molded seats on a bolt-down welded steel frame, with an ADA version.",
   "baseline": "baselines/cortech/cortech-anchor-table-6-seat-rectangle-top.json"
+ },
+ {
+  "handle": "cortech-anchor-table-8-seat-rectangle-top",
+  "html": "shopify-html/CT-ANCHOR-8.html",
+  "subtitle": "Fixed Group Seating Table with 30”×96” Laminate Top and Bolt-Down Steel Frame",
+  "seo_title": "Cortech Anchor 8-Seat Rectangle Table - 3096ADPB at Anchortex",
+  "seo_desc": "Shop the Cortech Anchor 8-seat rectangle table. A 30”×96” laminate top with eight molded seats on a bolt-down welded steel frame, with an ADA version.",
+  "baseline": "baselines/cortech/cortech-anchor-table-8-seat-rectangle-top.json"
  }
 ]
