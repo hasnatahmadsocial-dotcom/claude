@@ -76,7 +76,7 @@ add(tab='66750 - Cortech Endurance X-Base Square Table',short='66750: Cortech En
  apps=apps('The Endurance X-Base Molded Table suits dining rooms, dayrooms, and activity rooms where a table has to stand up to hard daily use and frequent cleaning.',TBL_APPS,END_COLL),
  series=END_SERIES,
  mt='Cortech Endurance X-Base Square Table - 66750 at Anchortex',
- md='Shop the Cortech Endurance X-Base molded table with square top. A fully molded 42 inch square table with plain or game top, rated for outdoor use.',
+ md='Shop the Cortech Endurance X-Base molded table with square top. A fully molded 42” square table with plain or game top, rated for outdoor use.',
  notes=[SER_END2,
   'H1: I shortened your current H1 so it reads the same way as the round table page, with the model number at the end.',
   SOLID.format(ex='66750 - 42x42 Plain Top'),
