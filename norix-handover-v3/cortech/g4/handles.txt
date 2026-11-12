@@ -1,0 +1,12 @@
+cortech-136484-endurance-bench seating/endurance-bench
+cortech-7701-endurance-wall-mount-bunk beds/endurance-wall-bunk
+cortech-7600-8600-endurance-all-purpose-wall-mount-shelf-step shelving/endurance-all-purpose-shelf
+cortech-7300-endurance-locker-lockable-property-storage-unit endurance/endurance-locker
+cortech-6484-endurance-armless-crew-chair seating/endurance-crew-armless-chair
+cortech-7484-endurance-crew-chair-with-arms seating/endurance-crew-arm-chair
+cortech-7610-endurance-ada-compliant-wall-mounted-desk endurance/endurance-wall-mount-ada-desk
+cortech-8601-endurance-dual-station-wall-mount-desk endurance-desks/endurance-workstation-desk
+cortech-8602-endurance-wall-mount-work-station-seat room-furnishings/endurance-workstation-seat
+cortech-8700-endurance-ada-compliant-wall-mounted-slim-desk endurance/endurance-slim-ada-desk
+cortech-670s-endurance-cascade-table-42-round-top tables/endurance-cascade-base-table
+cortech-7611-endurance-ada-compliant-floor-mounted-desk NONE
