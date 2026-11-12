@@ -350,5 +350,13 @@
   "seo_title": "Cortech Endurance X-Series Laminate Table with X-Base",
   "seo_desc": "Shop the Cortech Endurance X-Series laminate table with molded X-base. Square or round laminate tops with plain or game top, for dayrooms and dining.",
   "baseline": "baselines/cortech/cortech-endurance-x-series-laminate-table-w-xbase.json"
+ },
+ {
+  "handle": "cortech-endurance-x-series-laminate-table-w-steel-legs",
+  "html": "shopify-html/CT-STEEL-LEG.html",
+  "subtitle": "Square, Round, or Rectangle Laminate Table with Welded Steel Legs for Dayrooms and Dining Areas",
+  "seo_title": "Cortech Endurance Steel Leg Laminate Table at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance steel leg laminate table. Square, round, or rectangle laminate tops on welded steel legs, with plain or game top options.",
+  "baseline": "baselines/cortech/cortech-endurance-x-series-laminate-table-w-steel-legs.json"
  }
 ]
