@@ -145,7 +145,7 @@ add(tab='Steel Leg - Cortech Endurance Laminate Table',short='Steel Leg: Cortech
   '**Top Sizes:** 36”×36” or 42”×42” square, 42” or 48” round, or 30”×72” or 30”×96” rectangle',
   '**Height:** 29”',
   '**Game Top:** Optional on the 36” and 42” square and the 48” round tables',
-  '**Color:** Gray top (other laminate finishes available on request)',
+  '**Color:** Gray top',
   CAL,'**Easy Cleaning:** Sound dampening, and easy to clean and maintain',
   '**Warranty:** 3-year warranty on the steel legs; 5-year warranty on the laminate top',ISO],
  models=['**36SDPS / 36SDGS – 36”×36” Square:** Plain or game top, Dura-Edge',
