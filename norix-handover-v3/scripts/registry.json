@@ -326,5 +326,13 @@
   "seo_title": "Cortech Ventura Acrylic Mirror - VM1115 / VM1520 / VM1824",
   "seo_desc": "Shop the Cortech Ventura acrylic mirror. A one-piece, break-resistant mirror with an integral frame and tamper-resistant screws, in three sizes for corrections.",
   "baseline": "baselines/cortech/cortech-ventura-mirror.json"
+ },
+ {
+  "handle": "cortech-66749-endurance-x-base-table-w-round-top",
+  "html": "shopify-html/CT-66749.html",
+  "subtitle": "One-Piece Molded 42” or 48” Round Table with X-Base for Dining Rooms and Dayrooms",
+  "seo_title": "Cortech Endurance X-Base Round Table - 66749 / 66751 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance X-Base molded table with round top. A fully molded 42” or 48” table with plain or game top, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-66749-endurance-x-base-table-w-round-top.json"
  }
 ]
