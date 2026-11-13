@@ -526,5 +526,13 @@
   "seo_title": "Cortech Endurance Crew Arm Chair - 7484 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Crew Arm Chair. A one-piece molded chair with integrated arms for dining halls and dayrooms, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-7484-endurance-crew-chair-with-arms.json"
+ },
+ {
+  "handle": "cortech-7610-endurance-ada-compliant-wall-mounted-desk",
+  "html": "shopify-html/CT-7610.html",
+  "subtitle": "One-Piece Molded ADA-Compliant Desk with a Laminate Top That Bolts to the Wall",
+  "seo_title": "Cortech Endurance ADA Laminate Desk - 7610 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Wall Mount ADA Desk. A one-piece molded ADA-compliant desk with a laminate top that bolts to the wall in cells and patient rooms.",
+  "baseline": "baselines/cortech/cortech-7610-endurance-ada-compliant-wall-mounted-desk.json"
  }
 ]
