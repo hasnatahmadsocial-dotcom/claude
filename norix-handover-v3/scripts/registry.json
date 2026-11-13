@@ -550,5 +550,13 @@
   "seo_title": "Cortech Endurance Workstation Desk - 8601 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Workstation Desk. A one-piece molded wall desk that pairs with workstation seats or works as a shelf, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-8601-endurance-dual-station-wall-mount-desk.json"
+ },
+ {
+  "handle": "cortech-8602-endurance-wall-mount-work-station-seat",
+  "html": "shopify-html/CT-8602.html",
+  "subtitle": "One-Piece Molded Wall Seat That Pairs with the Workstation Desk or Works as a Shelf",
+  "seo_title": "Cortech Endurance Workstation Seat - 8602 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Workstation Seat. A one-piece molded wall seat that pairs with the workstation desk or works as a shelf, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-8602-endurance-wall-mount-work-station-seat.json"
  }
 ]
