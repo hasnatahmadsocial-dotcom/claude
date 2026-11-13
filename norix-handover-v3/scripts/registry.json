@@ -430,5 +430,13 @@
   "seo_title": "Cortech Endurance Open Storage Chest - 7201 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Open Storage Chest. A one-piece molded shelving unit with 6.7 cu. ft. of open storage that bolts to the floor or wall.",
   "baseline": "baselines/cortech/cortech-7201-endurance-open-chest.json"
+ },
+ {
+  "handle": "cortech-7603-endurance-wall-mount-desk-w-laminate-top",
+  "html": "shopify-html/CT-7603.html",
+  "subtitle": "One-Piece Molded Desk with a Laminate or All-Plastic Top That Bolts to the Wall and Floor",
+  "seo_title": "Cortech Endurance Wall Mount Desk - 7603 / 7605 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Wall Mount Desk. A one-piece molded desk with a laminate top (7603) or all plastic (7605) that bolts to the wall and floor.",
+  "baseline": "baselines/cortech/cortech-7603-endurance-wall-mount-desk-w-laminate-top.json"
  }
 ]

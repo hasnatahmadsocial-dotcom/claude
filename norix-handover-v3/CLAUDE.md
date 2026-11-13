@@ -122,7 +122,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - Also check the options structure, image names, alt text and image order. Expected (Andrew-approved) SKU/price changes show as "changed"; say they're expected. "H1 en dash count 0" is expected when the H1 has no model numbers (Evvolve).
 - Store bot page ("Verifying your connection"): retry. If it persists when saving a baseline, use the earliest saved copy (e.g. cortech/live/*.json from Nov 10, which is before any change).
 - Product images: cdn.shopify.com is NOT reachable; download via `https://www.anchortex.com/cdn/shop/files/<name>?width=600` (older ones: /cdn/shop/products/<name>).
-- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **54** published products.
+- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **55** published products.
 - Report: ✅ list of everything that passed, ⚠️ list of what's missing, with exact values to set.
 
 ## Environment (cloud session)
@@ -157,6 +157,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **484 / 484S Wedge Table** (CT-484, cortech-484-endurance-wedge-table), done Nov 13: 484/484S 18 → 13 lb (spec), KIT 5 lb kept; worksheet U69/U100/U101 filled (13/27/19/16.5; KIT 5). 13 images kept; image 13 = OLD chart, Andrew said replace (no 18-color chart image yet). 484S price $94.40 = kit price, still unanswered.
 - **7901 Floor Mounted Stool** (CT-7901, cortech-7901-endurance-floor-mounted-stool), done Nov 13: doc text as written ("with hardware of your choice" kept; asked Zeemal whether to remove like Bench/7614), 8 lb already correct, worksheet U70 8/16.5/16.5/15.5. Old chart (image 2) kept until Andrew answers the 18-color chart question.
 - **7201 Open Storage Chest** (CT-7201, cortech-7201-endurance-open-chest), done Nov 13: "**Safety:** Ligature resistant design" added (Andrew yes), "cu. ft." with periods (Andrew's 7614 edit; also applied in pc3/pc4 to Nightstand, 4-Shelf, 2-Shelf, Locker), 60 → 58 lb, worksheet U71 58/30/18/42. Old chart (image 3) kept.
+- **7603 / 7605 Wall Mount Desk, combined** (CT-7603, cortech-7603-endurance-wall-mount-desk-w-laminate-top), done Nov 13 per Andrew "rewrite this to combine 7603 / 7605": new H1 "…Laminate Top or All Plastic – 7603 / 7605", variant 2 ADDED "7605 - All Plastic" (SKU C601629-01, $1,100.80/$1,376 copied from the 7605 page, 35 lb); variant 1 50 → 35 lb. review.py flags "new variant" + "variant count 2 vs 1": EXPECTED. The 7605 page (cortech-7605-endurance-wall-mounted-desk) is still live with the same SKU C601629-01 until Andrew deletes/redirects it. Worksheet U72 and U79 = 35/36/24/29. pc3.py 7603 entry rewritten (old doc version in pc3_before_andrew.py).
 - Ventura Mirror (CT-VENTURA, cortech-ventura-mirror): Andrew struck the screw text from the model lines and added "tamper-resistant Torx screws included." to Mounting; weights stay 10 lb (Andrew "yes"); no series section (separate product).
 
 ## PENDING / OPEN (in order)
