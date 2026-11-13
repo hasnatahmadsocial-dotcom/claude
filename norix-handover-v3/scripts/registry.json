@@ -518,5 +518,13 @@
   "seo_title": "Cortech Endurance Crew Armless Chair - 6484 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Crew Armless Chair. A one-piece molded chair for dining halls and dayrooms, rated for outdoor use, with optional bolt-down kit.",
   "baseline": "baselines/cortech/cortech-6484-endurance-armless-crew-chair.json"
+ },
+ {
+  "handle": "cortech-7484-endurance-crew-chair-with-arms",
+  "html": "shopify-html/CT-7484.html",
+  "subtitle": "One-Piece Molded Chair with Integrated Arms for Dining Halls and Dayrooms, with Optional Bolt-Down Kit",
+  "seo_title": "Cortech Endurance Crew Arm Chair - 7484 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Crew Arm Chair. A one-piece molded chair with integrated arms for dining halls and dayrooms, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-7484-endurance-crew-chair-with-arms.json"
  }
 ]
