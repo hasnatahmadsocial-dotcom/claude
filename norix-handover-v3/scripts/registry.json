@@ -454,5 +454,13 @@
   "seo_title": "Cortech Endurance 4-Shelf Wall Mount Storage Unit - 7111",
   "seo_desc": "Shop the Cortech Endurance 4-Shelf Wall Mount Storage Unit. One-piece molded wall shelving with 4.75 cu. ft. of open storage for patient rooms and cells.",
   "baseline": "baselines/cortech/cortech-7111-endurance-4-shelf-wall-mount.json"
+ },
+ {
+  "handle": "cortech-7607-endurance-floor-mounted-desk",
+  "html": "shopify-html/CT-7607.html",
+  "subtitle": "One-Piece Molded Freestanding or Floor-Mounted Desk with Optional Laminate Top",
+  "seo_title": "Cortech Endurance Floor Mounted Desk - 7607 / 7608 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Floor Mounted Desk. A one-piece molded desk that stands alone or bolts to the floor, all plastic or with a laminate top.",
+  "baseline": "baselines/cortech/cortech-7607-endurance-floor-mounted-desk.json"
  }
 ]
