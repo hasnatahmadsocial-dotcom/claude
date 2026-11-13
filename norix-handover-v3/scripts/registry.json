@@ -502,5 +502,13 @@
   "seo_title": "Cortech Endurance Wall Shelf / Step - 7600 / 8600 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance All Purpose Shelf. A one-piece molded wall shelf in two sizes that can also be installed as a step to an upper wall bunk.",
   "baseline": "baselines/cortech/cortech-7600-8600-endurance-all-purpose-wall-mount-shelf-step.json"
+ },
+ {
+  "handle": "cortech-7300-endurance-locker-lockable-property-storage-unit",
+  "html": "shopify-html/CT-7300.html",
+  "subtitle": "Molded Property Storage Locker with Combination Lock, Anti-Ligature Clothes Shelf, and No Metal Hinges",
+  "seo_title": "Cortech Endurance Locker - 7300 / 7200 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Locker. A molded 7.75 cu. ft. property storage locker with combination lock, anti-ligature clothes shelf, and no metal hinges.",
+  "baseline": "baselines/cortech/cortech-7300-endurance-locker-lockable-property-storage-unit.json"
  }
 ]
