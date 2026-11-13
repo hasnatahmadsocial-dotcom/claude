@@ -542,5 +542,13 @@
   "seo_title": "Cortech Endurance ADA Wall Mount Desk - 7611 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance ADA Wall Mount Desk. A one-piece molded ADA-compliant desk that bolts to the wall and floor, for cells and patient rooms.",
   "baseline": "baselines/cortech/cortech-7611-endurance-ada-compliant-floor-mounted-desk.json"
+ },
+ {
+  "handle": "cortech-8601-endurance-dual-station-wall-mount-desk",
+  "html": "shopify-html/CT-8601.html",
+  "subtitle": "One-Piece Molded Wall Desk That Pairs with Workstation Seats or Works as a Shelf",
+  "seo_title": "Cortech Endurance Workstation Desk - 8601 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Workstation Desk. A one-piece molded wall desk that pairs with workstation seats or works as a shelf, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-8601-endurance-dual-station-wall-mount-desk.json"
  }
 ]
