@@ -122,7 +122,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - Also check the options structure, image names, alt text and image order. Expected (Andrew-approved) SKU/price changes show as "changed"; say they're expected. "H1 en dash count 0" is expected when the H1 has no model numbers (Evvolve).
 - Store bot page ("Verifying your connection"): retry. If it persists when saving a baseline, use the earliest saved copy (e.g. cortech/live/*.json from Nov 10, which is before any change).
 - Product images: cdn.shopify.com is NOT reachable; download via `https://www.anchortex.com/cdn/shop/files/<name>?width=600` (older ones: /cdn/shop/products/<name>).
-- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **60** published products.
+- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **61** published products.
 - Report: ✅ list of everything that passed, ⚠️ list of what's missing, with exact values to set.
 
 ## Environment (cloud session)
@@ -163,6 +163,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **7607 / 7608 Floor Mounted Desk** (CT-7607, cortech-7607-endurance-floor-mounted-desk), done Nov 13: intro "also called the Freestanding Desk or Floor Mount Desk" (Andrew), hardware rule, 50 → 47 lb both (7608 weight unanswered; spec gives one weight), worksheet U76:X77 47/36/24/29, chart swapped (img 3).
 - **7614 2-Shelf Wall Mounted Shelf** (CT-7614, cortech-7614-endurance-2-shelf-wall-mounted-shelf), done Nov 13: Andrew struck the intro mounting sentence, cu. ft., hardware rule, 30 → 20 lb, worksheet U78 20/35/15/24, chart swapped (img 4).
 - **126484 / 126484S Cube** (CT-126484, cortech-126484-endurance-cube-end-table), done Nov 13: 27 → 56 lb (Andrew: go with spec), hardware rule, "do not use loose sand" (Andrew's 670S wording), worksheet U81:X82 56/24/24/15 (Y Outdoor), chart swapped (img 2).
+- **136484 Bench** (CT-136484, cortech-136484-endurance-bench), done Nov 13: Andrew struck "with hardware of your choice, " in intro 2, install ends "Hardware not included", 50 → 35 lb, worksheet U83 35/48/21/18, chart swapped (img 2). Source cortech/g4/pc4.py; HTML via cortech/g4/gen4.py.
 - Ventura Mirror (CT-VENTURA, cortech-ventura-mirror): Andrew struck the screw text from the model lines and added "tamper-resistant Torx screws included." to Mounting; weights stay 10 lb (Andrew "yes"); no series section (separate product).
 
 - **18-COLOR CHART (Andrew, Nov 13: "Yes, go ahead and make an 18-color chart")**: images/Cortech-Endurance-18-Color-Chart.jpg (1620×960, 6×3 swatches, Cortech website hex colors, names under squares; script images/make_color_chart.py). Replaces the old 12-color chart ("Cortech_Endurance_colors_*.jpg" / "Cortech_48_Endurance_Wedge_Table-color-options.jpg") on every Endurance page, same position, no alt text. SWAPPED and verified live Nov 13 on 668S (now img 5), 484 (img 13), 7901 (img 2), 7201 (img 3), 7603 (img 2): new chart last, old chart deleted. review.py/check_all flag "IMAGES removed: 1" on these 5: EXPECTED (Andrew approved). Every new Endurance set: swap the old chart for this one.

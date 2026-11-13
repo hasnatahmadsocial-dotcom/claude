@@ -478,5 +478,13 @@
   "seo_title": "Cortech Endurance Cube End Table - 126484 / 126484S at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Cube. A one-piece molded end table and filler piece for dayrooms and lounges, with optional ballast doors and outdoor rating.",
   "baseline": "baselines/cortech/cortech-126484-endurance-cube-end-table.json"
+ },
+ {
+  "handle": "cortech-136484-endurance-bench",
+  "html": "shopify-html/CT-136484.html",
+  "subtitle": "One-Piece Molded 48” Bench That Bolts to the Floor, with Optional Cuff Rings",
+  "seo_title": "Cortech Endurance Molded Bench - 136484 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Bench. A one-piece molded 48” bench that bolts to the floor for intake, holding, and waiting areas, with optional cuff rings.",
+  "baseline": "baselines/cortech/cortech-136484-endurance-bench.json"
  }
 ]
