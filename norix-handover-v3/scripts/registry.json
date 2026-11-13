@@ -470,5 +470,13 @@
   "seo_title": "Cortech Endurance 2-Shelf Wall Mounted Shelf - 7614 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance 2-Shelf Wall Mounted Shelf. A one-piece molded wall shelf with 2 cu. ft. of open storage for patient rooms, cells, and housing units.",
   "baseline": "baselines/cortech/cortech-7614-endurance-2-shelf-wall-mounted-shelf.json"
+ },
+ {
+  "handle": "cortech-126484-endurance-cube-end-table",
+  "html": "shopify-html/CT-126484.html",
+  "subtitle": "One-Piece Molded End Table and Filler Piece for Dayrooms, with Optional Ballast Doors",
+  "seo_title": "Cortech Endurance Cube End Table - 126484 / 126484S at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Cube. A one-piece molded end table and filler piece for dayrooms and lounges, with optional ballast doors and outdoor rating.",
+  "baseline": "baselines/cortech/cortech-126484-endurance-cube-end-table.json"
  }
 ]
