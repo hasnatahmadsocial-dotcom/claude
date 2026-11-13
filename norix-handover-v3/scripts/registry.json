@@ -406,5 +406,13 @@
   "seo_title": "Cortech Endurance Cylinder Base Table - 668S / 668GTS",
   "seo_desc": "Shop the Cortech Endurance cylinder base molded table. A fully molded 42” round table with plain or game top, rated for outdoor use and UV stabilized.",
   "baseline": "baselines/cortech/cortech-668-endurance-42-cylinder-base-table.json"
+ },
+ {
+  "handle": "cortech-484-endurance-wedge-table",
+  "html": "shopify-html/CT-484.html",
+  "subtitle": "One-Piece Molded End and Corner Table for Dayrooms and Lounges, with Optional Ballast Doors",
+  "seo_title": "Cortech Endurance Wedge Table - 484 / 484S at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Wedge Table. A one-piece molded end and corner table for dayrooms and lounges, with optional ballast doors and bolt-down kit.",
+  "baseline": "baselines/cortech/cortech-484-endurance-wedge-table.json"
  }
 ]
