@@ -462,5 +462,13 @@
   "seo_title": "Cortech Endurance Floor Mounted Desk - 7607 / 7608 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Floor Mounted Desk. A one-piece molded desk that stands alone or bolts to the floor, all plastic or with a laminate top.",
   "baseline": "baselines/cortech/cortech-7607-endurance-floor-mounted-desk.json"
+ },
+ {
+  "handle": "cortech-7614-endurance-2-shelf-wall-mounted-shelf",
+  "html": "shopify-html/CT-7614.html",
+  "subtitle": "One-Piece Molded Wall Shelf with 2 cu. ft. of Open Storage for Patient Rooms and Cells",
+  "seo_title": "Cortech Endurance 2-Shelf Wall Mounted Shelf - 7614 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance 2-Shelf Wall Mounted Shelf. A one-piece molded wall shelf with 2 cu. ft. of open storage for patient rooms, cells, and housing units.",
+  "baseline": "baselines/cortech/cortech-7614-endurance-2-shelf-wall-mounted-shelf.json"
  }
 ]
