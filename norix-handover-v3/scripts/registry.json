@@ -494,5 +494,13 @@
   "seo_title": "Cortech Endurance Wall Mount Bunk - 7701 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Wall Mount Bunk. A one-piece molded bunk for a 30”×75” mattress, tested to 2,000 lbs, with optional safety rails and ladder.",
   "baseline": "baselines/cortech/cortech-7701-endurance-wall-mount-bunk.json"
+ },
+ {
+  "handle": "cortech-7600-8600-endurance-all-purpose-wall-mount-shelf-step",
+  "html": "shopify-html/CT-7600.html",
+  "subtitle": "One-Piece Molded Wall Shelf That Can Also Be Installed as a Step to an Upper Bunk",
+  "seo_title": "Cortech Endurance Wall Shelf / Step - 7600 / 8600 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance All Purpose Shelf. A one-piece molded wall shelf in two sizes that can also be installed as a step to an upper wall bunk.",
+  "baseline": "baselines/cortech/cortech-7600-8600-endurance-all-purpose-wall-mount-shelf-step.json"
  }
 ]

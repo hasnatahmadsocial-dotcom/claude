@@ -1,3 +1,4 @@
+OK_NAMES={'7600 - Shelf / Step','8600 - Shelf / Step 2.0'}  # Andrew approved Nov 13
 import json,sys,urllib.request,random,time,collections
 H=sys.argv[1:]
 for h in H:
@@ -20,6 +21,6 @@ for h in H:
         elif pr and abs(pr-ca*0.8)>0.01: iss.append(f'price not 80% of compare-at {v["sku"]} {pr} vs {ca}')
         if v['grams'] in (115666,0): iss.append(f'weight 255/0 {v["sku"]} {t}')
         if 'Solid' in t: iss.append(f'Solid in name {v["sku"]} {t}')
-        if t.count(' / ')>=len(p['options']): iss.append(f'odd name {t}')
+        if t.count(' / ')>=len(p['options']) and t not in OK_NAMES: iss.append(f'odd name {t}')
     print(('OK  ' if not iss else 'FIX ')+p['title'][:70], f'({len(p["variants"])} var)')
     for i in iss: print('    -',i)
