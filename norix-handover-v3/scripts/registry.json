@@ -446,5 +446,13 @@
   "seo_title": "Cortech Endurance Nightstand - 7602 / 7609 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Nightstand. A one-piece molded bedside table with 2 cu. ft. of open shelving, a plain or laminate top, and floor or wall mounting.",
   "baseline": "baselines/cortech/cortech-7602-endurance-night-table.json"
+ },
+ {
+  "handle": "cortech-7111-endurance-4-shelf-wall-mount",
+  "html": "shopify-html/CT-7111.html",
+  "subtitle": "One-Piece Molded Wall Shelving with 4.75 cu. ft. of Open Storage for Patient Rooms and Cells",
+  "seo_title": "Cortech Endurance 4-Shelf Wall Mount Storage Unit - 7111",
+  "seo_desc": "Shop the Cortech Endurance 4-Shelf Wall Mount Storage Unit. One-piece molded wall shelving with 4.75 cu. ft. of open storage for patient rooms and cells.",
+  "baseline": "baselines/cortech/cortech-7111-endurance-4-shelf-wall-mount.json"
  }
 ]
