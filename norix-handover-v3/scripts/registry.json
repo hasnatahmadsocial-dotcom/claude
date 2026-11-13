@@ -486,5 +486,13 @@
   "seo_title": "Cortech Endurance Molded Bench - 136484 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Bench. A one-piece molded 48” bench that bolts to the floor for intake, holding, and waiting areas, with optional cuff rings.",
   "baseline": "baselines/cortech/cortech-136484-endurance-bench.json"
+ },
+ {
+  "handle": "cortech-7701-endurance-wall-mount-bunk",
+  "html": "shopify-html/CT-7701.html",
+  "subtitle": "One-Piece Molded Wall Bunk for Single or Double Bunking, with Optional Safety Rails and Ladder",
+  "seo_title": "Cortech Endurance Wall Mount Bunk - 7701 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Wall Mount Bunk. A one-piece molded bunk for a 30”×75” mattress, tested to 2,000 lbs, with optional safety rails and ladder.",
+  "baseline": "baselines/cortech/cortech-7701-endurance-wall-mount-bunk.json"
  }
 ]
