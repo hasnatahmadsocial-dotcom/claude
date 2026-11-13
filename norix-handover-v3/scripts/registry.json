@@ -398,5 +398,13 @@
   "seo_title": "Cortech Structured Seating Beam Seating System at Anchortex",
   "seo_desc": "Shop Cortech Structured Seating. Molded polyethylene beam seating in 1 to 4 seat layouts, with or without arms, on a welded steel frame for lobbies.",
   "baseline": "baselines/cortech/cortech-structured-seating-connected-beam-seating.json"
+ },
+ {
+  "handle": "cortech-668-endurance-42-cylinder-base-table",
+  "html": "shopify-html/CT-668.html",
+  "subtitle": "One-Piece Molded 42” Round Table on a Cylinder Base for Dining Rooms and Dayrooms",
+  "seo_title": "Cortech Endurance Cylinder Base Table - 668S / 668GTS",
+  "seo_desc": "Shop the Cortech Endurance cylinder base molded table. A fully molded 42” round table with plain or game top, rated for outdoor use and UV stabilized.",
+  "baseline": "baselines/cortech/cortech-668-endurance-42-cylinder-base-table.json"
  }
 ]
