@@ -510,5 +510,13 @@
   "seo_title": "Cortech Endurance Locker - 7300 / 7200 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Locker. A molded 7.75 cu. ft. property storage locker with combination lock, anti-ligature clothes shelf, and no metal hinges.",
   "baseline": "baselines/cortech/cortech-7300-endurance-locker-lockable-property-storage-unit.json"
+ },
+ {
+  "handle": "cortech-6484-endurance-armless-crew-chair",
+  "html": "shopify-html/CT-6484.html",
+  "subtitle": "One-Piece Molded Armless Chair for Dining Halls and Dayrooms, with Optional Bolt-Down Kit",
+  "seo_title": "Cortech Endurance Crew Armless Chair - 6484 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Crew Armless Chair. A one-piece molded chair for dining halls and dayrooms, rated for outdoor use, with optional bolt-down kit.",
+  "baseline": "baselines/cortech/cortech-6484-endurance-armless-crew-chair.json"
  }
 ]
