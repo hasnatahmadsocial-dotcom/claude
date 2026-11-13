@@ -414,5 +414,13 @@
   "seo_title": "Cortech Endurance Wedge Table - 484 / 484S at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Wedge Table. A one-piece molded end and corner table for dayrooms and lounges, with optional ballast doors and bolt-down kit.",
   "baseline": "baselines/cortech/cortech-484-endurance-wedge-table.json"
+ },
+ {
+  "handle": "cortech-7901-endurance-floor-mounted-stool",
+  "html": "shopify-html/CT-7901.html",
+  "subtitle": "One-Piece Molded Stool That Bolts to the Floor for Cells, Desks, and Secure Areas",
+  "seo_title": "Cortech Endurance Floor Mounted Stool - 7901 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Floor Mounted Stool. A one-piece molded stool that bolts to the floor for cells, desks, intake areas, and other secure spaces.",
+  "baseline": "baselines/cortech/cortech-7901-endurance-floor-mounted-stool.json"
  }
 ]
