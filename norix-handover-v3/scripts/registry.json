@@ -390,5 +390,13 @@
   "seo_title": "Cortech Anchor 8-Seat Rectangle Table - 3096ADPB at Anchortex",
   "seo_desc": "Shop the Cortech Anchor 8-seat rectangle table. A 30”×96” laminate top with eight molded seats on a bolt-down welded steel frame, with an ADA version.",
   "baseline": "baselines/cortech/cortech-anchor-table-8-seat-rectangle-top.json"
+ },
+ {
+  "handle": "cortech-structured-seating-connected-beam-seating",
+  "html": "shopify-html/CT-STRUCTURED.html",
+  "subtitle": "Molded Polyethylene Beam Seating in 1 to 4 Seats for Lobbies, Waiting Rooms, and Dayrooms",
+  "seo_title": "Cortech Structured Seating Beam Seating System at Anchortex",
+  "seo_desc": "Shop Cortech Structured Seating. Molded polyethylene beam seating in 1 to 4 seat layouts, with or without arms, on a welded steel frame for lobbies.",
+  "baseline": "baselines/cortech/cortech-structured-seating-connected-beam-seating.json"
  }
 ]

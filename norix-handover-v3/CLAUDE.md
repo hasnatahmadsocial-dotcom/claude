@@ -121,7 +121,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - Also check the options structure, image names, alt text and image order. Expected (Andrew-approved) SKU/price changes show as "changed"; say they're expected. "H1 en dash count 0" is expected when the H1 has no model numbers (Evvolve).
 - Store bot page ("Verifying your connection"): retry. If it persists when saving a baseline, use the earliest saved copy (e.g. cortech/live/*.json from Nov 10, which is before any change).
 - Product images: cdn.shopify.com is NOT reachable; download via `https://www.anchortex.com/cdn/shop/files/<name>?width=600` (older ones: /cdn/shop/products/<name>).
-- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **49** published products.
+- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **50** published products.
 - Report: ✅ list of everything that passed, ⚠️ list of what's missing, with exact values to set.
 
 ## Environment (cloud session)
@@ -151,6 +151,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **Anchor 6-Seat Round** (CT-ANCHOR-6R, cortech-anchor-table-6-seat-round-top), done Nov 12: ADA sentence struck in intro 2, meta 48”, variant "48R6DAB - 48” Round Top, U-legs", 255 → 150 lb (spec), 3 images kept.
 - **Anchor 6-Seat Rectangle** (CT-ANCHOR-6X, cortech-anchor-table-6-seat-rectangle-top), done Nov 12: ADA sentence struck, meta 30”×72” (Andrew typed x; × used), variant "3072ADPB - 30”×72” Rectangle Top, U-legs", 255 → 200 lb (spec), 3 images kept.
 - **Anchor 8-Seat Rectangle** (CT-ANCHOR-8, cortech-anchor-table-8-seat-rectangle-top), done Nov 12: ADA sentence struck, meta 30”×96”, variant "3096ADPB - 30”×96” Rectangle Top, U-legs", 255 → 265 lb (spec), 3 images kept. All 4 Anchor tables now done.
+- **Structured Seating** (CT-STRUCTURED, cortech-structured-seating-connected-beam-seating), done Nov 13: variant 7 renamed "42 - 4 seats, with arms" (Andrew yes), warranty 3 years (Andrew: spec sheet), Cortech photo 45BGG added as image 2 "Cortech-Structured-Seating-45-4-Seat-with-Arms-Blue-Gray-Angle-View.jpg" (1000×1000). Weights unchanged (no Cortech weights). H1 has no model numbers, so "H1 en dash count 0" is EXPECTED.
 - Ventura Mirror (CT-VENTURA, cortech-ventura-mirror): Andrew struck the screw text from the model lines and added "tamper-resistant Torx screws included." to Mounting; weights stay 10 lb (Andrew "yes"); no series section (separate product).
 
 ## PENDING / OPEN (in order)
