@@ -1,0 +1,227 @@
+######## cortech-kangaroo-cart
+TITLE: Cortech Kangaroo Cart
+SUB: Cortech USA CC200, CC783, CC680, CC280, CC720, CC620, CC2, CC116 Kangaroo Cart
+TAGS: cortech-kitchen-food-service, cortech-usa, janitorial-prison-carts, kitchen-food-service, Laundry Carts and Hampers, prison-janitorial
+OPTS: [('Color', ['CC116 - Black Repro Material', 'CC2 - White Food Grade Material', 'CC720 - Green Food Grade Material', 'CC280 - Gray Food Grade Material', 'CC620 - Blue Food Grade Material', 'CC200 - Blue/Gray Flame Retardant Material', 'CC783 - Green Flame Retardant Material', 'CC680 - Blue Flame Retardant Material'])]
+ V 1 'CC116 - Black Repro Material' C601525-01 700.80 876.00 255.0 lb
+ V 2 'CC2 - White Food Grade Material' C601525-02 718.40 898.00 255.0 lb
+ V 3 'CC720 - Green Food Grade Material' C601525-03 718.40 898.00 255.0 lb
+ V 4 'CC280 - Gray Food Grade Material' C601525-04 718.40 898.00 255.0 lb
+ V 5 'CC620 - Blue Food Grade Material' C601525-05 718.40 898.00 255.0 lb
+ V 6 'CC200 - Blue/Gray Flame Retardant Material' C601525-06 820.80 1026.00 255.0 lb
+ V 7 'CC783 - Green Flame Retardant Material' C601525-07 820.80 1026.00 255.0 lb
+ V 8 'CC680 - Blue Flame Retardant Material' C601525-08 820.80 1026.00 255.0 lb
+IMGS: ['cortech-kangaroo.png']
+BODY:  | The Kangaroo Cart is a rotationally molded plastic delivery cart that provides unmatched durability and versatility. The Cart has a 1000 lb. load rating/15 bushel capacity. The Cart has both push and pull handles on both ends, and has a drain plug for easy cleaning. There are also The Cart is perfect for laundry, garbage collection, material handling, or use as a janitor cart. The Kangaroo Cart is manufactured for use in any intense use or high abuse application. | | | Indoor or outdoor use | | Uses: laundry collection and delivery, garbage collection, material handling, recycling bin, general delivery cart, material handling cart, food processing, beverage service container (manufactured with insulated material), janitor cart | | Heavy Duty - .200 Nominal Wall Thickness | | 1,000 lbs. Load Rating/15 Bushel Capacity | | Heavy Duty Casters Secured with Stainless Steel, | Tamper-Proof Hardware | | | Push Pull Handles On Both Sides | | Handles Accommodate Utility Use - Hanging Trigger Spray Bottle Holders / | Storage of Can Liners, Cleaning Instruments, etc. | | | Drain Plug for Easy Cleaning | | Handles and Bottom can be Field-Drilled for Additional Drain Holes | | Manufactured Three Ways: Flame Retardant (Passes Cal 133), | General Use, and Recycled Material. Call for FR test results | | | Span Design on Sides And Bottom for Increased Rigidity | | No Wood or Metal Components | | 3 variations: | | Flame retardant (passes Cal 133) | | General Use | | Recycled material |
+######## cortech-c1717-chuckwagon-tray-transport-cart
+TITLE: Cortech Chuckwagon Tray Transport Cart - C1717
+SUB: Cortech USA C1717 Chuckwagon Tray Transport Cart
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Options', ['C1717 - Without Locking Hasp', 'C1717LH - With Locking Hasp'])]
+ V 1 'C1717 - Without Locking Hasp' C601385-01 7086.40 8858.00 310.0 lb
+ V 2 'C1717LH - With Locking Hasp' C601385-02 7459.20 9324.00 310.0 lb
+IMGS: ['Cortech_C1717_Cart.jpg']
+BODY:  | The Cortech Chuckwagon food delivery cart is a one piece, insulated food tray delivery cart designed for continuous, intensive use in the toughest environments, making it the perfect fit for any Correctional Facility, Prison, or Jail's food delivery needs. The Chuckwagon's insulated food tray delivery cart, has a true one piece molded cavity with no seams, no welded walls and no adhesives. The walls of the cart are filled with high grade insulation for maximum thermal retention. When used with either the Rock Food Trays or The X-Tray, the hot stays hot and the cold stays cold! The two insulated, hinge-less, sliding doors are easily removed for cleaning. The Chuckwagon is specially formulated with high impact polyethylene for maximum strength and impact resistance and is also chemically resistant to hazardous fluids and stains. The two insulated sliding doors, which are easily removed for cleaning, can be locked closed with the optional locking hasp. | | | Accommodates any tray up to 9 | ½" | x 14 | ½" | | | Raised top edge surface safely holds more trays, beverage servers and wash racks | | Push/Pull Handles for easy navigation | | Optional tamper-proof locking door latch hasp system (C1717LH) | | Highest quality non-marring kingpin-less casters with quick change out design | | Holds 102 X-Trays, 108 Rock 2.0 Trays or 132 Rock trays (sold separately) | | Built-in wall bumpers | | Solid one-piece sliding doors. No dangerous hinges | | Available in plastic or stainle
+######## cortech-c1716-chuckwagon-jr-tray-transport-cart
+TITLE: Cortech Chuckwagon Jr. Tray Transport Cart - C1716
+SUB: Cortech USA C1716
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Options', ['C1716 - No Locking Hasp Doors', 'C1716LH - With Locking Hasp Doors'])]
+ V 1 'C1716 - No Locking Hasp Doors' C601387-01 4849.60 6062.00 195.0 lb
+ V 2 'C1716LH - With Locking Hasp Doors' C601387-02 5408.00 6760.00 195.0 lb
+IMGS: ['Cortech-Chuckwagon-Jr-cart.jpg']
+BODY:  | The Cortech Chuckwagon Jr. food delivery cart is a one piece, insulated food tray delivery cart designed for continuous, intensive use in the toughest environments, making it the perfect fit for any Correctional Facility, Prison, or Jail's food delivery needs. The Chuckwagon Jr. insulated food tray delivery cart, has a true one piece molded cavity with no seams, no welded walls and no adhesives. The walls of the cart are filled with high grade insulation for maximum thermal retention. When used with either the Rock Food Trays or The X-Tray, the hot stays hot and the cold stays cold! The two insulated, hinge-less, sliding doors are easily removed for cleaning. The Chuckwagon Jr. is specially formulated with high impact polyethylene for maximum strength and impact resistance and is also chemically resistant to hazardous fluids and stains. The two insulated sliding doors, which are easily removed for cleaning, can be locked closed with the optional locking hasp. | | | Accommodates any tray up to 9 1/2 x 14 1/2 | | Raised top edge surface safely holds more trays, beverage servers and wash racks | | Handle slots for easy navigation | | Optional tamper-proof locking door latch system (order C1716LH) | | Highest quality non-marring kingpin-less casters with quick change out design | | Holds 60 X-Trays or 80 Rock trays (sold separately) | | Built-in wall bumpers | | Solid one-piece sliding doors. No dangerous hinges | | Manufactured to ISO Quality Standards in the USA. | | D
+######## cortech-2000-the-rock-insulated-food-tray
+TITLE: Cortech The Rock Insulated Food Tray - 2000
+SUB: Cortech USA 2000C, 2000DG, 2000TC, 2000O
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Color', ['2000C - Chocolate Brown', '2000O - Orange', '2000TC - Terra Cotta', '2000DG - Dark Grey'])]
+ V 1 '2000C - Chocolate Brown' C601388-01 280.00 350.00 24.0 lb
+ V 2 '2000O - Orange' C601388-02 280.00 350.00 24.0 lb
+ V 3 '2000TC - Terra Cotta' C601388-03 280.00 350.00 24.0 lb
+ V 4 '2000DG - Dark Grey' C601388-04 280.00 350.00 24.0 lb
+IMGS: ['Rock-Tray-Orange.jpg']
+BODY:  | The Cortech Rock Tray has a 10 year manufacturers warranty against breakage, cracking, or leakage. You can fit 132 trays in the Chuckwagon, 80 trays in the Chuckwagon Jr., and 156 trays in the Tray Master. The Rock Tray is ideal for use in all correctional facilities, prisons, and jails. | | | The radius corners and softly beveled bottom make it easier to eat from and easier to clean. | | Made from an insulated material, THE ROCK has no internal insulation, which means it will not absorb water. | | THE ROCK is manufactured with an FDA Approved Material and built to ISO Quality Standards. | | THE ROCK carries a 10 Year Warranty Against Breakage, Cracking or Leaking. | | Ideal for continuous, intensive use in extreme environments! | | Available colors: 2000C Chocolate Brown, 2000DG Dark Grey, 2000TC Terra Cotta, and 2000O Orange. | | | Five | | insulated food compartments and two condiment compartments, 2.25” deep. | | | | Will stack with or without lids (sold separately). | | | Packed 10 per case, must buy in full cases. Price is per case. | | The Rock one-piece seamless design insulated food tray, has been tested in correctional facilities with over 350 different menus. The 5 compartments have proven that they can handle any correctional meal, plus with the 2 additional condiment compartments, use of bulk condiment portions will yield a savings that can pay for the tray itself. | | | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional 
+######## cortech-3000-x-tray-insulated-food-tray
+TITLE: Cortech X-Tray Insulated Food Tray - 3000
+SUB: Cortech USA 3000C, 3000DG, 3000TC, 3000O
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Color', ['3000C - Chocolate Brown', '3000O - Orange', '3000TC - Terra Cotta', '3000DG - Dark Grey'])]
+ V 1 '3000C - Chocolate Brown' C601389-01 308.80 386.00 24.0 lb
+ V 2 '3000O - Orange' C601389-02 308.80 386.00 24.0 lb
+ V 3 '3000TC - Terra Cotta' C601389-03 308.80 386.00 24.0 lb
+ V 4 '3000DG - Dark Grey' C601389-04 308.80 386.00 24.0 lb
+IMGS: ['Cortech_3000C_Tray.jpg']
+BODY:  | The Cortech X-TRAY is an insulated food tray, TRUE One-Piece, seamless design with added features. The Tray has 5 compartments and 2 condiment compartments for bulk use (cost savings realized). It also has tongue and groove sealed compartments for superior temperature control (process patented), and a raised utensil slot for delivery convenience. The tray utilizes 2 top to bottom of the feeding surface; and ONLY weighs 1.75 lbs. The durability of the X-TRAY is that of our Rock Tray, plus these extra features. For your X-Treme Tray needs, the X-TRAY is your solution. The X-Tray is ideal for all correctional facilities, prisons, and jails. | | | X-TRAY is the LIGHTEST insulated food tray in the industry at just 1.75 lbs. | | Tongue and groove patent pending design seals entire perimeter AND all individual compartments for the tightest seal available. Non-discriminatory in stacking! | | Overall Dimension (14-1/4" x 9-1/2" x 2-1/4") 2" total food depth from top to bottom. | | X-TRAYs patented one piece design features easy to eat from, easy to clean and easy to maintain correctional food tray. | | Raised utensil slot for delivery convenience. | | Highest Breakage Resistance Available. 1/4" minimum wall thickness. | | X-TRAY is manufactured with FDA Approved insulated material, and is built to ISO Quality Standards. | | Condiment cavities for bulk instead of individual portion packets. Cost Savings Realized. | | Available colors: 3000C Chocolate Brown, 3000DG Dark Grey, 3
+######## cortech-3000l-x-tray-food-tray-lid
+TITLE: Cortech Lid for X-Tray Insulated Food Tray - 3000L
+SUB: Cortech USA 3000CL, 3000DGL, 3000TCL, 3000OL
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Color', ['3000CL - Chocolate Brown', '3000OL - Orange', '3000TCL - Terra Cotta', '3000DGL - Dark Grey'])]
+ V 1 '3000CL - Chocolate Brown' C601390-01 187.20 234.00 15.0 lb
+ V 2 '3000OL - Orange' C601390-02 187.20 234.00 15.0 lb
+ V 3 '3000TCL - Terra Cotta' C601390-03 187.20 234.00 15.0 lb
+ V 4 '3000DGL - Dark Grey' C601390-04 187.20 234.00 15.0 lb
+IMGS: ['Cortech_3000CL_Tray.jpg']
+BODY:  | This lid is designed to seal Cortech X-Tray food trays. | | | Tongue and groove patent pending design seals entire perimeter AND all individual compartments for the tightest seal available | | Non-discriminatory in stacking! | | Colors: 3000CL Brown, 3000DGL Dark Grey, 3000TCL Terra Cotta, 3000OL Orange | | Packed 10 per case, must buy in full cases. Price is per case | | | | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | 
+######## cortech-2500-the-rock-2-0-insulated-food-tray
+TITLE: Cortech The Rock 2.0 Insulated Food Tray - 2500
+SUB: Cortech USA 2500 The Rock 2.0 Insulated Food Tray for Institutional Use
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Color', ['2500C - Chocolate Brown', '2500O - Orange', '2500TC - Terra Cotta', '2500DG - Dark Grey'])]
+ V 1 '2500C - Chocolate Brown' C601391-01 318.40 398.00 24.0 lb
+ V 2 '2500O - Orange' C601391-02 318.40 398.00 24.0 lb
+ V 3 '2500TC - Terra Cotta' C601391-03 318.40 398.00 24.0 lb
+ V 4 '2500DG - Dark Grey' C601391-04 318.40 398.00 24.0 lb
+IMGS: ['Rock2C.jpg']
+BODY:  | The Rock Tray 2.0 is a one piece food tray, that has no seams or internal insulation; which means it will not absorb liquids. The Rock 2.0 food tray has the same footprint as the original Rock, but has deeper food compartments. The Rock 2.0 stacks and can work in conjunction with the current Rock and Rock Lid. The radius corners and beveled edges make the food tray easier to eat from and easier to clean. The Rock 2.0 carries a 10 year manufacturers warranty, and is available in 4 colors; brown, dark gray, terracotta, and orange. | | THE ROCK 2, Cortech's true one-piece seamless design insulated food tray, has been tested in correctional facilities with over 350 different menus. The 5 compartments have proven that they can handle any correctional meal, plus with the 2 additional condiment compartments, use of bulk condiment portions will yield a savings that can pay for the tray itself. | | | The radius corners and softly beveled bottom make it easier to eat from and easier to clean. | | Made from an insulated material, THE ROCK 2 has no internal insulation, which means it will not absorb water. | | THE ROCK II is manufactured with an FDA Approved Material and built to ISO Quality Standards. | | THE ROCK II carries a 10 Year Warranty Against Breakage, Cracking or Leaking. | | Ideal for continuous, intensive use in extreme environments! | | Packed 10 per case, must buy in full cases. Price is per case. | | | | About Cortech USA by Correctional Technologies: | | Cortech
+######## cortech-c1719-the-tray-master-food-delivery-cart
+TITLE: Cortech Tray Master Food Delivery Cart - C1719
+SUB: Cortech USA C1719
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Options', ['C1719'])]
+ V 1 'C1719' C601630-01 4662.40 5828.00 245.0 lb
+IMGS: ['Cortech-TrayMaster.jpg']
+BODY:  | The Cortech Tray Master is the most versatile non-insulated food delivery cart available. This food delivery cart will eliminate straps, eliminate maintenance costs, and provide correctional facilities and jails with the high capacity food delivery cart they need. The cart comes with 90 degree dual-lock doors, providing easy and efficient insertion and removal of food trays. The cart can hold 108 Cortech X-Trays and 156 Cortech Rock Trays. The Tray Master is the perfect fit for any Correctional Facility, Prison, or Jails food delivery needs. | | Applications: Corrections, Behavioral Health, Mental Health, Law Enforcement, Schools and Universities, Military, Intensive-Use Environments, Recreational Facilities | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | | | | | 
+######## cortech-lid-for-rock-and-rock-2-0-food-trays
+TITLE: Cortech Lid for Rock and Rock 2.0 Food Trays
+SUB: Cortech USA 2000CL, 2000DGL, 2000TCL, 2000OL
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Color', ['2000CL - Chocolate Brown', '2000OL - Orange', '2000TCL - Terra Cotta', '2000DGL - Dark Grey'])]
+ V 1 '2000CL - Chocolate Brown' C601631-01 172.80 216.00 15.0 lb
+ V 2 '2000OL - Orange' C601631-02 172.80 216.00 15.0 lb
+ V 3 '2000TCL - Terra Cotta' C601631-03 172.80 216.00 15.0 lb
+ V 4 '2000DGL - Dark Grey' C601631-04 172.80 216.00 15.0 lb
+IMGS: ['Cortech_2000CL_Tray.jpg']
+BODY:  | | This lid is designed to seal Cortech Rock food trays and Rock 2 trays. | | Tongue and groove patent pending design seals entire perimeter AND all individual compartments for the tightest seal available. | | Non-discriminatory in stacking! | | Available colors: 2000CL Chocolate Brown, 2000DGL Dark Grey, 2000TCL Terra Cotta, and 2000OL Orange. | | Price is per piece | | Sold 10 per case | | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | | | | | 
+######## cortech-bmx5-bevmax-beverage-dispenser
+TITLE: Cortech BevMax Beverage Dispenser - BMX5
+SUB: Cortech USA BMX5BN, BMX5GY, BMX5BK, BMX5GT, BMX5OR BevMax Beverage Dispenser
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Color', ['BMX5BN - Brown', 'BMX5GY - Gray', 'BMX5BK - Black', 'BMX5GT - Granite', 'BMX5OR - Orange'])]
+ V 1 'BMX5BN - Brown' C601632-01 392.00 490.00 28.0 lb
+ V 2 'BMX5GY - Gray' C601632-02 392.00 490.00 28.0 lb
+ V 3 'BMX5BK - Black' C601632-03 392.00 490.00 28.0 lb
+ V 4 'BMX5GT - Granite' C601632-04 392.00 490.00 28.0 lb
+ V 5 'BMX5OR - Orange' C601632-05 392.00 490.00 28.0 lb
+IMGS: ['Cortech-Bevmax.jpg']
+BODY:  | The Cortech BevMax Beverage Dispenser is one of the toughest and most durable bulk beverage dispensers available today. The BevMax Dispenser has a 5 gallon capacity, and is designed for maximum thermal retention. The one piece base design, provides an almost indestructible container. The lid and base combination can accommodate locks or tie wraps to provide a tamper resistant closure. The Cortech BevMax Beverage Dispenser also comes with molded in handles for easy transport, as well as having the ability to stack on one another. The material is made of an FDA approved high density polyethylene, and is manufactured according to ISO Quality Standards. | | | Five (5) Gallon Capacity. | | Manufactured with FDA approved material. | | Insulated for maximum temperature retention longer than traditional bulk beverage dispensers. | | One piece seamless design housing and lid are both rotationally molded with virgin high density polyethylene. | | Virtually indestructible. | | No gasketing required. | | Twist-on lockable lid can accommodate key / combination locks or tie wraps for tamper resistant closure. | | Molded in handles for easier transport/lifting. | | Stackable. | | Heavy duty 2 way spigot. | | Vented for smooth dispensing of liquids. | | Accommodates most popular coffee cup sizes and 20 oz. tumblers. | | Sanitary easy to clean and store. | | Available colors: BMX5BN Brown, BMX5GY Grey, BMX5BK Black, BMX5GT Granite, and BMX5OR Orange. | | Manufactured to ISO Quality S
+######## cortech-cc200l-lid-for-kangaroo-cart
+TITLE: Cortech Kangaroo Cart Lid
+SUB: Cortech USA Kangaroo Cart Lids CC200L, CC783L, CC680L, CC280L, CC720L, CC620L, CC2L, CC116L
+TAGS: cortech-kitchen-food-service, cortech-usa, janitorial-prison-carts, kitchen-food-service, Laundry Carts and Hampers, prison-janitorial
+OPTS: [('Color', ['CC116L - Black Repro Material', 'CC2L - White Food Grade Material', 'CC720L - Green Food Grade Material', 'CC280L - Gray Food Grade Material', 'CC620L - Blue Food Grade Material', 'CC200L - Blue/Gray Flame Retardant Material', 'CC783L - Green Flame Retardant Material', 'CC680L - Blue Flame Retardant Material'])]
+ V 1 'CC116L - Black Repro Material' C601646-01 284.80 356.00 20.0 lb
+ V 2 'CC2L - White Food Grade Material' C601646-02 284.80 356.00 20.0 lb
+ V 3 'CC720L - Green Food Grade Material' C601646-03 284.80 356.00 20.0 lb
+ V 4 'CC280L - Gray Food Grade Material' C601646-04 284.80 356.00 20.0 lb
+ V 5 'CC620L - Blue Food Grade Material' C601646-05 284.80 356.00 20.0 lb
+ V 6 'CC200L - Blue/Gray Flame Retardant Material' C601646-06 299.20 374.00 20.0 lb
+ V 7 'CC783L - Green Flame Retardant Material' C601646-07 299.20 374.00 20.0 lb
+ V 8 'CC680L - Blue Flame Retardant Material' C601646-08 299.20 374.00 20.0 lb
+IMGS: ['Cortech-CC200L-kangaroo-cart-lid.jpg']
+BODY:  | | This lid is designed to cover and seal Cortech Kangaroo Carts (sold separately) | | Tongue and groove patent pending design seals entire perimeter AND all individual compartments for the tightest seal available. | | Specify color and material type: | | | CC200L - Blue Gray - Flame Retardant | | CC783L - Green - Flame Retardant | | CC680L - Blue - Flame Retardant | | CC280L - Blue Gray - General Use | | CC720L - Green - General Use | | CC620L - Blue - General Use | | CC2L - White - General Use | | CC116L - Repro Black - 100% Recycled material | | | | | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | 
+######## cortech-cobra-mini-can-trash-receptacle
+TITLE: Cortech Cobra Mini Can Trash Receptacle - 710, 714
+SUB: Cortech USA 710, 714 Cobra Mini-Can Trash Cans
+TAGS: cortech-usa, prison-janitorial
+OPTS: [('Size', ['710 - 10 quart', '714 - 14 quart']), ('Color', ['Black', 'Grey', 'Blue', 'Green', 'Brown'])]
+ V 1 '710 - 10 quart / Black' C602008-01 313.60 392.00 255.0 lb
+ V 2 '710 - 10 quart / Grey' C602008-02 313.60 392.00 255.0 lb
+ V 3 '710 - 10 quart / Blue' C602008-03 313.60 392.00 255.0 lb
+ V 4 '710 - 10 quart / Green' C602008-04 313.60 392.00 255.0 lb
+ V 5 '710 - 10 quart / Brown' C602008-05 313.60 392.00 255.0 lb
+ V 6 '714 - 14 quart / Black' C602008-06 321.60 402.00 255.0 lb
+ V 7 '714 - 14 quart / Grey' C602008-07 321.60 402.00 255.0 lb
+ V 8 '714 - 14 quart / Blue' C602008-08 321.60 402.00 255.0 lb
+ V 9 '714 - 14 quart / Green' C602008-09 321.60 402.00 255.0 lb
+ V 10 '714 - 14 quart / Brown' C602008-10 321.60 402.00 255.0 lb
+IMGS: ['Cortech_Endurance_colors_89b0fdaa-5f4c-417e-a944-14c310022f80.jpg']
+BODY:  | Cortech Cobra Mini Can trash bins are virtually UNBREAKABLE and are the toughest trash receptacle available, making them ideal for continuous use in extreme environments. | | | Rolled rim for extra strength and to secure liners | | Rotationally molded structural polyethylene for maximum strength while maintaining flexibility | | Two sizes: | | | 710 - 10 quart | | 714 - 14 quart | | | Virtually unbreakable and won't dent, rust or chip | | Flame Retardant (Passes Cal 133). Call for test results | | 0.20 Nominal wall thickness | | Easy to clean | | Colors: | Aqua, Black, Blue Gray, Brown, Gray, Green, Indigo, Midnight Blue, Sand, Slate Blue, Stone Gray | | | Packed in packs of 6 units, must buy full packs, price is per pack | | | The Cobra Mini Can passes the Cal 133 Burn Test, and is also available in a food grade material for general use. | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | 
+######## cortech-c1720-chuckwagon-max-tray-transport-cart
+TITLE: Cortech Chuckwagon Max Tray Transport Cart with Stainless Steel Base - C1720
+SUB: Cortech USA C1720
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Type', ['C1720 - Without Locking Hasp', 'C1720LH - With Locking Hasp', 'C1720TH - With Tow & Hitch', 'C1720LHTH - With Locking Hasp + Tow & Hitch'])]
+ V 1 'C1720 - Without Locking Hasp' C602009-01 11188.80 13986.00 310.0 lb
+ V 2 'C1720LH - With Locking Hasp' C602009-02 11283.20 14104.00 310.0 lb
+ V 3 'C1720TH - With Tow & Hitch' C602009-03 14545.60 18182.00 310.0 lb
+ V 4 'C1720LHTH - With Locking Hasp + Tow & Hitch' C602009-04 14918.40 18648.00 310.0 lb
+IMGS: ['Cortech-C1718-Chuckwagon_20Max7.jpg']
+BODY:  | The Cortech Chuckwagon Max food delivery cart is a one piece, insulated food tray delivery cart with a metal base. Chuckwagon Max is designed for continuous, intensive use in the toughest environments. The Cart is a one piece plastic cart, the insulated walls provide maximum heat retention. The two sliding doors are insulated, and also have the option of adding a locking feature. When using Cortech trays, hot food stays hot and cold food stays cold. The Chuckwagon Max is an innovative, insulated meal tray delivery cart, making it the perfect fit for any Correctional Facility, Prison, or Jail's food delivery needs. | | | Accommodates any tray up to 9 1/2" x 14 1/2" | | Raised top edge surface safely holds more trays, beverage servers and wash racks | | Push/Pull Handles for easy navigation | | Available options: | | | locking hasp doors (C1720LH) | | tow & hitch (C1720TH) | | tow & hitch and locking doors (C1720LHTH) | | | Highest quality non-marring kingpin-less casters with quick change out design | | Holds 120 X-Trays, 120 Rock 2.0 Trays or 150 Rock trays! (sold separately) | | Built-in wall bumpers | | Solid one-piece sliding doors. No dangerous hinges | | Available with locking hasp or without locking hasp for security | | Manufactured to ISO Quality Standards in the USA. | | Stainless steel base | | Applications: Corrections, Behavioral Health, Mental Health, Law Enforcement, Schools and Universities, Military, Intensive-Use Environments, Recreational Facilities
+######## cortech-2000xf-the-rock-flexible-insulated-food-tray-with-cor-flex
+TITLE: Cortech The Rock Flexible Insulated Food Tray
+SUB: Cortech USA 2000CF, 2000DGF, 2000TCF, 2000OF The Rock Flexible Insulated Food Tray with Cor-Flex
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Color', ['2000CF - Chocolate Brown', '2000OF - Orange', '2000TCF - Terra Cotta', '2000DGF - Dark Grey'])]
+ V 1 '2000CF - Chocolate Brown' C601395-01 457.60 572.00 20.0 lb
+ V 2 '2000OF - Orange' C601395-02 457.60 572.00 20.0 lb
+ V 3 '2000TCF - Terra Cotta' C601395-03 457.60 572.00 20.0 lb
+ V 4 '2000DGF - Dark Grey' C601395-04 457.60 572.00 20.0 lb
+IMGS: ['CortechRockFlexibleTraywithCOR-FLEX.jpg']
+BODY:  | Cortech Rock Flexible Trays with Cor-Flex have a 2 year manufacturers warranty. You can fit 132 trays in the Chuckwagon, 80 trays in the Chuckwagon Jr., and 156 trays in the Tray Master. The Cortech Rock Flexible Food Tray is ideal for use in all correctional facilities, prisons, and jails. | | | The radius corners and softly beveled bottom make it easier to eat from and easier to clean. | | Made from an insulated material, has no internal insulation, which means it will not absorb water. | | Constructed of high impact, no break, polypropylene. Made with FDA Approved material and built to ISO Quality Standards in the US. | | 2 Year Warranty | | | Five insulated food compartments and two condiment compartments, 2.25” deep. | | | | Will stack with or without lids (sold separately). | | | Colors: 2000CF Chocolate Brown, 2000DGF Dark Grey, 2000TCF Terra Cotta, and 2000OF Orange. | | | Packed 10 per case, must buy in full cases. Price is per piece | | | | THE ROCK, Cortech's true one-piece seamless design insulated food tray, has been tested in correctional facilities with over 350 different menus. The 5 compartments have proven that they can handle any correctional meal, plus with the 2 additional condiment compartments, use of bulk condiment portions will yield a savings that can pay for the tray itself. | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for u
+######## cortech-2000xfl-flexible-lid-for-rock-trays-with-cor-flex
+TITLE: Cortech Lid for Rock Trays with Flexible Cor-Flex
+SUB: Cortech USA 2000CLF, 2000DGLF, 2000TCLF, 2000OLF
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Color', ['2000CLF -  Chocolate Brown', '2000OLF - Orange', '2000TCLF - Terra Cotta', '2000DGLF - Dark Grey'])]
+ V 1 '2000CLF -  Chocolate Brown' C601396-01 320.00 400.00 10.0 lb
+ V 2 '2000OLF - Orange' C601396-02 320.00 400.00 10.0 lb
+ V 3 '2000TCLF - Terra Cotta' C601396-03 320.00 400.00 10.0 lb
+ V 4 '2000DGLF - Dark Grey' C601396-04 320.00 400.00 10.0 lb
+IMGS: ['Cortech_2000CL_Tray_13c6e833-4686-4b52-a029-41f8a889f518.jpg']
+BODY:  | | This lid is designed to fit Cortech's flexible Cor-Flex Rock food trays | | Constructed of high impact, no break, polypropylene. Made with FDA Approved material and built to ISO Quality Standards in the US. | | Available colors: 2000CLF Chocolate Brown, 2000DGLF Dark Grey, 2000TCLF Terra Cotta, and 2000OLF Orange. | | Packed 10 per case, must buy in full cases. Price is per piece | | | | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | 
+######## cortech-cobra-can-flame-retardant-trash-receptacle
+TITLE: Cortech Cobra Can Flame Retardant Trash Receptacle
+SUB: Cortech USA FR Cobra Trash Cans - Flame Retardant Trash Receptacle
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service, prison-janitorial, prison-janitorial-trash-cans
+OPTS: [('Size', ['20200FR - 20 gal Gray', '22200FR - 22 gal Gray', '25200FR - 25 gal Gray', '30200FR - 30 gal Gray', '35200FR - 35 gal Gray', '40200FR - 40 gal Gray', '45200FR - 45 gal Gray', '50200FR - 50 gal Gray', '55200FR - 55 gal Gray'])]
+ V 1 '20200FR - 20 gal Gray' C601098-01 289.60 362.00 255.0 lb
+ V 2 '22200FR - 22 gal Gray' C601098-02 289.60 362.00 255.0 lb
+ V 3 '25200FR - 25 gal Gray' C601098-03 289.60 362.00 255.0 lb
+ V 4 '30200FR - 30 gal Gray' C601098-04 289.60 362.00 255.0 lb
+ V 5 '35200FR - 35 gal Gray' C601098-05 355.20 444.00 255.0 lb
+ V 6 '40200FR - 40 gal Gray' C601098-06 355.20 444.00 255.0 lb
+ V 7 '45200FR - 45 gal Gray' C601098-07 355.20 444.00 255.0 lb
+ V 8 '50200FR - 50 gal Gray' C601098-08 355.20 444.00 255.0 lb
+ V 9 '55200FR - 55 gal Gray' C601098-09 355.20 444.00 255.0 lb
+IMGS: ['cobra-22-gallon-flame-retardant-trash-can-gray-22200fr-cort-6.jpg']
+BODY:  | The Cortech Cobra Trash Can is virtually UNBREAKABLE and is the toughest trash receptacle available, making it ideal for continuous use in extreme environments. Its flame-retardant material passes the Cal 133 Burn Test. Also available in Food Grade / General Use version. | | | 360° molded-in continuous handles surround the entire can perimeter and underside for easier lifting | | | Rotationally molded structural polyethylene for maximum strength while maintaining flexibility | | Virtually unbreakable and won't dent, rust or chip | | Molded-in floor glides reduce floor scratching when dragged across the floor | | Flame Retardant (Passes Cal 133) | | 0.22" Nominal wall thickness | | Easy to clean and maintain with damp cloth | | Color: Blue Gray (also available in Green and Blue) | | | | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | 
+######## cortech-cobra-trash-can-dolly
+TITLE: Cortech Cobra Trash Can Dolly
+SUB: Cortech USA DCC, DCCL Cobra Can Dolly for Trash Cans
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service, prison-janitorial, prison-janitorial-trash-cans
+OPTS: [('Size', ['DCC - 20-30 gal', 'DCCL - 35-55 gal'])]
+ V 1 'DCC - 20-30 gal' C601094-01 224.00 280.00 255.0 lb
+ V 2 'DCCL - 35-55 gal' C601094-02 224.00 280.00 255.0 lb
+IMGS: ['Cortech_DCC_Cobra_Can_Dolly.jpg']
+BODY:  | | Molded dolly with rolling castors | | Can be used with Cortech Cobra Can trash cans | | | Available in 2 sizes: | | DCC - 20-30 gallon cans | | DCCL - 35-55 gallon cans | | | | | | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | 
+######## cortech-cobra-can-food-grade-general-use-trash-receptacle
+TITLE: Cortech Cobra Can Food Grade Trash Receptacle - General Use
+SUB: Cortech USA Cobra Trash Cans - Trash Receptacle Suitable For Food Service or General Use
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service, prison-janitorial, prison-janitorial-trash-cans
+OPTS: [('Type', ['20620B - 20 gal Blue', '22620B - 22 gal Blue', '25620B - 25 gal Blue', '30620B - 30 gal Blue', '35620B - 35 gal Blue', '40620B - 40 gal Blue', '45620B - 45 gal Blue', '50620B - 50 gal Blue', '55620B - 55 gal Blue'])]
+ V 1 '20620B - 20 gal Blue' C601095-01 252.80 316.00 255.0 lb
+ V 2 '22620B - 22 gal Blue' C601095-02 252.80 316.00 255.0 lb
+ V 3 '25620B - 25 gal Blue' C601095-03 252.80 316.00 255.0 lb
+ V 4 '30620B - 30 gal Blue' C601095-04 252.80 316.00 255.0 lb
+ V 5 '35620B - 35 gal Blue' C601095-05 299.20 374.00 255.0 lb
+ V 6 '40620B - 40 gal Blue' C601095-06 299.20 374.00 255.0 lb
+ V 7 '45620B - 45 gal Blue' C601095-07 299.20 374.00 255.0 lb
+ V 8 '50620B - 50 gal Blue' C601095-08 299.20 374.00 255.0 lb
+ V 9 '55620B - 55 gal Blue' C601095-09 299.20 374.00 255.0 lb
+IMGS: ['Cortech_Cobra_55gal_55620_Blue.jpg']
+BODY:  | The Cortech Cobra Food Grade/General Use Trash Can is virtually UNBREAKABLE and is the toughest trash receptacle available, making it ideal for continuous use in extreme environments. | | | 360° molded-in continuous handles surround the entire can perimeter and underside for easier lifting | | | Rotationally molded structural polyethylene for maximum strength while maintaining flexibility | | Virtually unbreakable and won't dent, rust or chip | | | Molded-in floor glides reduce floor scratching when dragged across the floor | | 0.22" Nominal wall thickness | | Easy to clean and maintain with damp cloth | | Resistant to stains | | Colors: Green, Blue, Red, White, Yellow, Black | | | | | | | About Cortech USA by Correctional Technologies: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | 
+######## cortech-meal-tray-drying-rack
+TITLE: Cortech Meal Tray Drying Rack
+SUB: Cortech USA 96090 / 96704 / 96087 / 96705 / 96706 / 96707 Meal Tray Drying Rack
+TAGS: cortech-kitchen-food-service, cortech-usa, kitchen-food-service
+OPTS: [('Capacity', ['96090 - 120 Trays', '96704 - 150 Trays', '96087 - 180 Trays', '96705 - 200 Trays', '96706 - 216 Trays', '96707 - 288 Trays'])]
+ V 1 '96090 - 120 Trays' C601093-01 4100.00 4100.00 255.0 lb
+ V 2 '96704 - 150 Trays' C601093-02 5528.00 6910.00 255.0 lb
+ V 3 '96087 - 180 Trays' C601093-03 5864.00 7330.00 255.0 lb
+ V 4 '96705 - 200 Trays' C601093-04 5920.00 7400.00 255.0 lb
+ V 5 '96706 - 216 Trays' C601093-05 6680.00 8350.00 255.0 lb
+ V 6 '96707 - 288 Trays' C601093-06 7576.00 9470.00 255.0 lb
+IMGS: ['Cortech-Meal-Tray-Drying-Rack.jpg']
+BODY:  | Cortech highly durable, aluminum meal tray drying racks are offered in various sizes to facilitate the needs of any kitchen. The racks are designed with custom inserts that separate individual pans or trays, allowing air to circulate freely for more efficient drying and storage. | | | Framework constructed of 1 | ½ | ″ x 1 | ¾ | ″ aluminum wall tubing | | Angle tray guides are .09″ thick and are spaced on 1 | ½ | ″ and 2 | ¾ | ″ centers | | 6″ x 2″ platform-type swivel casters | | Three and four shelf units available. All-welded and fabricated to accommodate required tray or pan capacities | | All Guides .09" Thick and Radius for Safety | | Lifetime Guarantee against rust and corrosion | | Ships knocked down to save shipping costs. Some assembly required | | | | | About Cortech USA: | | Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments. | 
