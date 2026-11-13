@@ -566,5 +566,13 @@
   "seo_title": "Cortech Endurance Slim ADA Wall Mount Desk - 8700 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Slim ADA Desk. A space-saving one-piece molded ADA-compliant desk for corner or standard wall mounting in cells and patient rooms.",
   "baseline": "baselines/cortech/cortech-8700-endurance-ada-compliant-wall-mounted-slim-desk.json"
+ },
+ {
+  "handle": "cortech-670s-endurance-cascade-table-42-round-top",
+  "html": "shopify-html/CT-670S.html",
+  "subtitle": "Fully Molded 42” Round Table with a Flowing Cascade Base, Plain or Game Top, Rated for Outdoor Use",
+  "seo_title": "Cortech Endurance Cascade Base Table - 670S / 670GTS at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Cascade Base Table. A fully molded 42” round table with a flowing base, plain or game top, and floor mount or ballast options.",
+  "baseline": "baselines/cortech/cortech-670s-endurance-cascade-table-42-round-top.json"
  }
 ]
