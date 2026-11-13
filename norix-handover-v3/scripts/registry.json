@@ -422,5 +422,13 @@
   "seo_title": "Cortech Endurance Floor Mounted Stool - 7901 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Floor Mounted Stool. A one-piece molded stool that bolts to the floor for cells, desks, intake areas, and other secure spaces.",
   "baseline": "baselines/cortech/cortech-7901-endurance-floor-mounted-stool.json"
+ },
+ {
+  "handle": "cortech-7201-endurance-open-chest",
+  "html": "shopify-html/CT-7201.html",
+  "subtitle": "One-Piece Molded Open Shelving Unit with 6.7 cu. ft. of Storage for Patient Rooms and Cells",
+  "seo_title": "Cortech Endurance Open Storage Chest - 7201 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Open Storage Chest. A one-piece molded shelving unit with 6.7 cu. ft. of open storage that bolts to the floor or wall.",
+  "baseline": "baselines/cortech/cortech-7201-endurance-open-chest.json"
  }
 ]

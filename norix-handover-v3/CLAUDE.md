@@ -122,7 +122,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - Also check the options structure, image names, alt text and image order. Expected (Andrew-approved) SKU/price changes show as "changed"; say they're expected. "H1 en dash count 0" is expected when the H1 has no model numbers (Evvolve).
 - Store bot page ("Verifying your connection"): retry. If it persists when saving a baseline, use the earliest saved copy (e.g. cortech/live/*.json from Nov 10, which is before any change).
 - Product images: cdn.shopify.com is NOT reachable; download via `https://www.anchortex.com/cdn/shop/files/<name>?width=600` (older ones: /cdn/shop/products/<name>).
-- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **53** published products.
+- After a product passes, add it to scripts/registry.json. `bash scripts/check_all.sh` re-checks all **54** published products.
 - Report: ✅ list of everything that passed, ⚠️ list of what's missing, with exact values to set.
 
 ## Environment (cloud session)
@@ -156,6 +156,7 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **668S / 668GTS Cylinder Base** (CT-668, cortech-668-endurance-42-cylinder-base-table), done Nov 13: models list 668/668S/668GT/668GTS (Andrew), variant 1 Solid→Plain Top, 255 → 38 lb both, meta 42”, SEO title without "at Anchortex" (would be 66). 5 images kept; image 5 is the OLD 12-color chart (Andrew didn't answer on this tab).
 - **484 / 484S Wedge Table** (CT-484, cortech-484-endurance-wedge-table), done Nov 13: 484/484S 18 → 13 lb (spec), KIT 5 lb kept; worksheet U69/U100/U101 filled (13/27/19/16.5; KIT 5). 13 images kept; image 13 = OLD chart, Andrew said replace (no 18-color chart image yet). 484S price $94.40 = kit price, still unanswered.
 - **7901 Floor Mounted Stool** (CT-7901, cortech-7901-endurance-floor-mounted-stool), done Nov 13: doc text as written ("with hardware of your choice" kept; asked Zeemal whether to remove like Bench/7614), 8 lb already correct, worksheet U70 8/16.5/16.5/15.5. Old chart (image 2) kept until Andrew answers the 18-color chart question.
+- **7201 Open Storage Chest** (CT-7201, cortech-7201-endurance-open-chest), done Nov 13: "**Safety:** Ligature resistant design" added (Andrew yes), "cu. ft." with periods (Andrew's 7614 edit; also applied in pc3/pc4 to Nightstand, 4-Shelf, 2-Shelf, Locker), 60 → 58 lb, worksheet U71 58/30/18/42. Old chart (image 3) kept.
 - Ventura Mirror (CT-VENTURA, cortech-ventura-mirror): Andrew struck the screw text from the model lines and added "tamper-resistant Torx screws included." to Mounting; weights stay 10 lb (Andrew "yes"); no series section (separate product).
 
 ## PENDING / OPEN (in order)
