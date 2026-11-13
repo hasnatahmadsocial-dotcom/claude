@@ -438,5 +438,13 @@
   "seo_title": "Cortech Endurance Wall Mount Desk - 7603 / 7605 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Wall Mount Desk. A one-piece molded desk with a laminate top (7603) or all plastic (7605) that bolts to the wall and floor.",
   "baseline": "baselines/cortech/cortech-7603-endurance-wall-mount-desk-w-laminate-top.json"
+ },
+ {
+  "handle": "cortech-7602-endurance-night-table",
+  "html": "shopify-html/CT-7602.html",
+  "subtitle": "One-Piece Molded Bedside Table with Open Shelving and Optional Laminate Top",
+  "seo_title": "Cortech Endurance Nightstand - 7602 / 7609 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance Nightstand. A one-piece molded bedside table with 2 cu. ft. of open shelving, a plain or laminate top, and floor or wall mounting.",
+  "baseline": "baselines/cortech/cortech-7602-endurance-night-table.json"
  }
 ]
