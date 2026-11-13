@@ -534,5 +534,13 @@
   "seo_title": "Cortech Endurance ADA Laminate Desk - 7610 at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Wall Mount ADA Desk. A one-piece molded ADA-compliant desk with a laminate top that bolts to the wall in cells and patient rooms.",
   "baseline": "baselines/cortech/cortech-7610-endurance-ada-compliant-wall-mounted-desk.json"
+ },
+ {
+  "handle": "cortech-7611-endurance-ada-compliant-floor-mounted-desk",
+  "html": "shopify-html/CT-7611.html",
+  "subtitle": "One-Piece Molded ADA-Compliant Desk That Bolts to the Wall and Floor",
+  "seo_title": "Cortech Endurance ADA Wall Mount Desk - 7611 at Anchortex",
+  "seo_desc": "Shop the Cortech Endurance ADA Wall Mount Desk. A one-piece molded ADA-compliant desk that bolts to the wall and floor, for cells and patient rooms.",
+  "baseline": "baselines/cortech/cortech-7611-endurance-ada-compliant-floor-mounted-desk.json"
  }
 ]
