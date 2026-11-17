@@ -272,3 +272,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - BevMax BMX5: set given Nov 17 (models 1 line '5-Gallon BevMax:', install removed, Granite stays (on PL), weight 28->18 per doc, photos: brown = live image, so 2 new (stacked, granite) images/cortech-bmx5/; sheet U190:X194 = 18/17.5/17.5/19.5).
   - BevMax BMX5 PUBLISHED Nov 17 14:33 (3 images). Next: CC Series L Kangaroo Cart Lid (tab 49).
   - Kangaroo Lid CC Series L: set given Nov 17 (models 3 horizontal lines like the cart, install removed, rename ONLY Food Grade -> General Use (Andrew yes; note did not ask about CC200L Blue/Gray or CC116L Black Repro, so those stay), no photo, weight 20 unchanged; sheet U195:U202 = 20).
+  - Kangaroo Lid PUBLISHED Nov 17 14:38. Next: 710 / 714 Cobra Mini Can (tab 50).
