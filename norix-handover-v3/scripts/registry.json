@@ -718,5 +718,13 @@
   "seo_title": "Cortech Cobra Can Heavy Duty Trash Receptacle at Anchortex",
   "seo_desc": "Shop the Cortech Cobra Can. A virtually unbreakable molded trash can in nine sizes from 20 to 55 gallons, in flame retardant or food grade material.",
   "baseline": "baselines/cortech/cortech-cobra-can-flame-retardant-trash-receptacle.json"
+ },
+ {
+  "handle": "cortech-meal-tray-drying-rack",
+  "html": "shopify-html/CT-DryingRack.html",
+  "subtitle": "Mobile Aluminum Rack for Drying and Storing 120 to 288 Meal Trays",
+  "seo_title": "Cortech Aluminum Meal Tray Drying Rack at Anchortex",
+  "seo_desc": "Shop the Cortech Meal Tray Drying Rack. A mobile aluminum rack on casters for drying and storing 120 to 288 meal trays, with a lifetime rust warranty.",
+  "baseline": "baselines/cortech/cortech-meal-tray-drying-rack.json"
  }
 ]
