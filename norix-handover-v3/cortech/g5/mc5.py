@@ -18,7 +18,7 @@ def content(d):
        ('h2','Revised Product Description'),('p','Headings marked [H2] should be set as H2 on the page.')]
     p+=[('p',x) for x in d['intro']]+[('b1',x) for x in d['bullets']]
     p.append(('p','**Available Models and Options**')); p+=[('b1',x) for x in d['models']]
-    p.append(('p','**Installation and Options**')); p+=[('b1',x) for x in d['install']]
+    if d['install']: p.append(('p','**Installation and Options**')); p+=[('b1',x) for x in d['install']]
     p+=d['apps']+d['series']+[('h3','[H2] About Cortech'),('p',CTF)]
     p+=[('h2','Meta Title and Description'),('p',f"**Meta title ({len(d['mt'])} characters):** {d['mt']}"),('p',f"**Meta description ({len(d['md'])} characters):** {d['md']}")]
     p.append(('h2','Notes and Questions')); p+=[('n1',x) for x in d['notes']]
