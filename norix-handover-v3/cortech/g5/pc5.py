@@ -38,7 +38,7 @@ TRASH_APPS=['Housing units, dayrooms, and common areas in correctional facilitie
 TCOL='**Colors:** Brown, Dark Gray, Terracotta, or Orange (custom colors available on request)'
 FDA='**Food Safety:** Made with FDA-approved material'
 NOBLEACH='**Care:** Do not use bleach on the trays'
-CASE10='**Packaging:** Sold in cases of 10'
+CASE10='**Packaging:** Sold in cases of 10. Price is per case'
 W5='**Warranty:** 5-year factory warranty'
 W3='**Warranty:** 3-year factory warranty'
 W10Y='**Warranty:** 10-year factory warranty'
@@ -187,8 +187,8 @@ add(tab='2000 - Cortech Rock Insulated Food Tray',short='2000: Cortech Rock Insu
   '**Stacking:** Stacks with or without lids',
   '**Cart Capacity:** 150 Rock Trays (96 with lids) in the Chuckwagon, 88 (56 with lids) in the Chuckwagon Jr., or 156 in the Tray Master',
   FDA,NOBLEACH,TCOL,CASE10,W5,ISO],
- models=['**2000C – Brown:** Rock Tray','**2000DG – Dark Gray:** Rock Tray','**2000TC – Terracotta:** Rock Tray','**2000O – Orange:** Rock Tray','**Lids:** Matching Rock lids sold separately'],
- install=[NOASM[1]],
+ models=['**Rock Tray:** 2000C - Brown, 2000DG - Dark Gray, 2000TC - Terracotta, 2000O - Orange','**Lids:** Matching Rock lids sold separately'],
+ install=[],
  apps=apps('The Rock suits facilities that serve meals on trays and need a tray that will not crack or absorb water.',TRAY_APPS,FS_COLL),
  series=FS_SERIES,
  mt='Cortech Rock Insulated Food Tray - 2000 at Anchortex',

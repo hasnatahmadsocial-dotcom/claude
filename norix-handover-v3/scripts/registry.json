@@ -614,5 +614,13 @@
   "seo_title": "Cortech Chuckwagon Jr. Insulated Tray Cart - C1716 at Anchortex",
   "seo_desc": "Shop the Cortech Chuckwagon Jr. A compact one-piece insulated food tray delivery cart that holds up to 88 trays, with sliding doors and optional hasp.",
   "baseline": "baselines/cortech/cortech-c1716-chuckwagon-jr-tray-transport-cart.json"
+ },
+ {
+  "handle": "cortech-2000-the-rock-insulated-food-tray",
+  "html": "shopify-html/CT-2000.html",
+  "subtitle": "Seamless One-Piece Insulated Meal Tray with Five Food and Two Condiment Compartments",
+  "seo_title": "Cortech Rock Insulated Food Tray - 2000 at Anchortex",
+  "seo_desc": "Shop the Cortech Rock Tray. A seamless one-piece insulated meal tray with five food and two condiment compartments that stacks with or without lids.",
+  "baseline": "baselines/cortech/cortech-2000-the-rock-insulated-food-tray.json"
  }
 ]
