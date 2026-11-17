@@ -1,0 +1,371 @@
+====================================================================================================
+HANDLE cortech-86484-razorback-stackable-chair | id 6236337668284
+TITLE Cortech Razorback - Stackable Chair - High‑Strength Rotationally Molded Polypropylene - Model 86484
+SUB Cortech USA 86484BK, 86484B, 86484FG, 86484T, 86484SB, 86484P, 86484BG, 86484GN, 86884BN  Razorback Stackable Chair
+SEO T Cortech Razorback - Stackable Chair - High‑Strength Rotationally Molded Polypropylene - Model 86484 at Anchortex
+SEO D Cortech’s Razorback Stackable Chair features a High‑Strength Rotationally Molded construction designed for behavioral health settings. Anchortex offers a selection of intensive‑use facility furniture.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-activity-rooms, bh-behavioral-health-care-furniture-for-waiting-rooms, bh-behavioral-health-care-furniture-group-dayrooms, cd-furn-dayroom, cd-furn-lobby, cd-furn-visitation, cortech-usa, Prison-Furniture
+OPTIONS [('Style', ['86484'])]
+  V 1 '86484' C601521-01 89.60 112.00 255.0 lb
+  IMG 1 cortech-86484bk.jpg 283 400 | Cortech 86484 Razorback Stackable Chair
+  IMG 2 cortech-razorback.jpg 233 295 | Cortech 86484 Razorback Stackable Chair
+  IMG 3 Cortech_86484_Razorback_Chair_colors.jpg 792 108 | Cortech 86484 Razorback Stackable Chair
+BODY:
+The Cortech RazorBack Chair is a one piece injection molded plastic stack chair designed for extreme environments. The RazorBack Chair is ideal for use as Correctional Facility Furniture, Detention Furniture, Behavioral Health Furniture, and Mental Health Furniture. The RazorBack Chair is also a perfect fit for Schools and Universities, Residential Institutions, Public Safety Facilities and any intense use application. 
+Durable, one piece, injection molded design for increased strength
+Flame retardant (passes Cal 133 burn test)
+1500 lb. static load
+Passes ASTM F1561-03
+Cost effective economical
+Easy to clean
+Constructed with high impact "no break" polypropylene
+Light weight - only 8 lbs
+Stackable space saving storage
+Ergonomic low back design - more resistant to chair leaning or rockering
+Muscle-Back Legs include pilot hole for field drilling to enable bolt down option
+Manufactured to ISO Quality Standards
+10 year warranty
+Colors: 86484BK Black, 86484B Buff, 86484FG Fog Gray, 86484T Teal, 86484SB Slate Blue, 86484P Plum, 86484BG Blue Gray, 86484GN Green, 86884BN Brown
+Optional chair dolly (Cortech DY9000, sold separately)
+About Cortech USA by Correctional Technologies:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Razorback-Chair-Spec-Sheet.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/051821_CORTECH_BED_RISER_wBED_REVEL_BLUE.webp', 'https://cortechusa.com/wp-content/uploads/86484B-3.jpg', 'https://cortechusa.com/wp-content/uploads/86484BG-3.jpg', 'https://cortechusa.com/wp-content/uploads/86484BK-3.jpg', 'https://cortechusa.com/wp-content/uploads/86484BN-3.jpg', 'https://cortechusa.com/wp-content/uploads/86484FG-3.jpg', 'https://cortechusa.com/wp-content/uploads/86484GN-2.jpg', 'https://cortechusa.com/wp-content/uploads/86484P-3.jpg', 'https://cortechusa.com/wp-content/uploads/86484SB-3.jpg', 'https://cortechusa.com/wp-content/uploads/86484T-3.jpg', 'https://cortechusa.com/wp-content/uploads/86484T-4.jpg', 'https://cortechusa.com/wp-content/uploads/Pushing-RB-Dolly.webp', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg', 'https://cortechusa.com/wp-content/uploads/d3d61f2b-5a56-40e6-aa88-46b24332e3a3.png']
+====================================================================================================
+HANDLE cortech-96484-sabre-sectional-lounge-chair | id 6236337963196
+TITLE Cortech Sabre Sectional Lounge Chair - One-Piece Rotationally Molded - Model 96484
+SUB Cortech USA 96484 Sabre Sectional Lounge Chair
+SEO T Cortech Sabre Sectional Lounge Chair - One-Piece Rotationally Molded - Model 96484 at Anchortex
+SEO D Cortech’s Sabre Sectional Lounge Chair supports an impact‑resistant and risk‑mitigating seating solution. Discover top‑tier selection and dependable sourcing for behavioral health through Anchortex.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-activity-rooms, bh-behavioral-health-care-furniture-for-waiting-rooms, bh-behavioral-health-care-furniture-group-dayrooms, cd-furn-dayroom, cd-furn-lobby, cd-furn-visitation, cortech-usa, Prison-Furniture
+OPTIONS [('Options', ['96484 - No Access Door', '96484S - With Access Door'])]
+  V 1 '96484 - No Access Door' C601522-01 596.80 746.00 40.0 lb
+  V 2 '96484S - With Access Door' C601522-02 718.40 898.00 40.0 lb
+  IMG 1 cortech-96484sb.jpg 400 395 | Cortech 96484 Sabre Sectional Lounge Chair
+  IMG 2 cortech-saber.jpg 400 180 | Cortech 96484 Sabre Sectional Lounge Chair
+  IMG 3 Cortech_96484_Sabre_Chair_burgundy.jpg 578 550 | Cortech 96484 Sabre Sectional Lounge Chair
+  IMG 4 Cortech_96484_Sabre_Chair_midnight-blue.jpg 632 558 | Cortech 96484 Sabre Sectional Lounge Chair
+  IMG 5 Cortech_96484_Sabre_Chair_gray.jpg 600 565 | Cortech 96484 Sabre Sectional Lounge Chair
+  IMG 6 Cortech_96484_Sabre_Chair_brown.jpg 626 587 | Cortech 96484 Sabre Sectional Lounge Chair
+  IMG 7 Cortech_Sabre_chair_colors.jpg 862 218 | Cortech 96484 Sabre Sectional Lounge Chair
+BODY:
+The Cortech Sabre Chair has an extreme load capacity and is designed to stand alone or be ganged together. The ergonomic design provides maximum comfort using rotational molding technology. The Sabre Chair is perfect for Schools, Universities, Park and Recreational Facilities, Mental and Behavioral Health Facilities, and any intense use environment. Use for individual and group seating configurations.
+Durable, one piece, rotationally molded design for increased strength. Constructed of high impact no break UV stabilized polyethylene. No steel or wood components.
+Integral plinth base for increased stability and floor mounting integrity
+Dimensions: 33"H x 31"W x 32"D
+Can be "ganged" or bolted together, in place, as well as to the floor via concealed pilot holes
+Easy to clean, sanitize, and maintain. Resistant to stains 
+Flame Retardant (passes Cal 133) . Test reports available upon request
+Tested to ISO 22196 showing a >99% reduction in bacteria
+1500 lb. static load (Test reports available upon request).
+Specify with or without ballast access door:
+96484 - without ballast door
+96484S - with access door for adding supplemental weight to chair on site
+Colors: Aqua, Black, Blue Gray, Brown, Burgundy, Gray, Green, Indigo, Midnight Blue, Sand, Slate Blue, Stone Gray
+10 Year Warranty
+Manufactured to ISO Quality Standards in the USA
+Categories: Behavioral Health Chairs, Furniture, Rotationally Molded Furniture, Behavioral/Mental Health Furniture, Commercial, Correctional Furniture, Corrections, Corrections Seating, Mental Health Furniture, Schools and Universities, Detention Centers, Correctional Facilities
+About Cortech USA by Correctional Technologies:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Sabre-Chair-Installation-Instructions.pdf', 'https://cortechusa.com/wp-content/uploads/Sabre-Chair-spec-sheet.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/051821_CORTECH_BED_RISER_wBED_REVEL_BLUE.webp', 'https://cortechusa.com/wp-content/uploads/686a5b7a-4a74-43f6-a4c8-0e20cf192b3c.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484AQ.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484BGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484BKS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484BNS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484BY.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484CL-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484CV-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484GN.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484GY.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484IG.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484MB.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484MS-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484OC-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484SB.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484SD.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484SE-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484SG.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_96484TD-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sabre_Lounge_Chair_v4.png', 'https://cortechusa.com/wp-content/uploads/Crew-Arm-Chair-cropped.jpg', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg']
+====================================================================================================
+HANDLE cortech-106484-sentinel-arm-chair | id 6236338225340
+TITLE Cortech Sentinel - Chair with Dual Arm-Rests - One-Piece Rotationally Molded Design - Model 106484
+SUB Cortech USA 106484 Sentinel Arm Chair for Individual and Group Seating
+SEO T Cortech Sentinel - Chair with Dual Arm-Rests - One-Piece Rotationally Molded Design - Model 106484 at Anchortex
+SEO D Cortech’s Sentinel Chair with Dual Arm-Rests is designed to stand alone or bolted together in group seating. Anchortex supports behavioral health and intensive‑use facilities with furniture solutions.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-activity-rooms, bh-behavioral-health-care-furniture-for-waiting-rooms, bh-behavioral-health-care-furniture-group-dayrooms, cd-furn-dayroom, cd-furn-lobby, cd-furn-visitation, cortech-usa, Prison-Furniture
+OPTIONS [('Options', ['106484 - No Access Door', '106484S - With Access Door'])]
+  V 1 '106484 - No Access Door' C601523-01 513.60 642.00 40.0 lb
+  V 2 '106484S - With Access Door' C601523-02 606.40 758.00 40.0 lb
+  IMG 1 Cortech-106484-sentinal-arm-chair-blue-grey.jpg 768 768 | Cortech 106484 Sentinel Arm Chair
+  IMG 2 Cortech_106484_Sentinel_Armchair_midnight-blue.jpg 622 613 | Cortech 106484 Sentinel Arm Chair
+  IMG 3 Cortech_106484_Sentinel_Armchair_aqua.jpg 626 610 | Cortech 106484 Sentinel Arm Chair
+  IMG 4 Cortech_106484_Sentinel_Armchair_indigo.jpg 656 637 | Cortech 106484 Sentinel Arm Chair
+  IMG 5 Cortech_Sentinel_chair_colors.jpg 1367 207 | Cortech 106484 Sentinel Arm Chair
+BODY:
+The Cortech Sentinel Arm Chair is a one-piece, rotationally molded chair designed to stand alone or be bolted together in group seating areas. Ergonomically designed and infused with CORx antimicrobial compound, the Sentinel Chair is a safe solution for frequent, continuous use in intensive environments.  The Sentinel Chair is ideal for use as Correctional Facility Furniture, Behavioral Health Furniture, Detention Furniture, Mental Health Furniture, Residential Institution Furniture, and Public Safety Facilities Furniture. Use for 
+Individual and Group Seating configurations.
+Durable, one piece, rotationally molded design for increased strength. Constructed of high impact no break UV stabilized polyethylene. No steel or wood components
+Can be used as stand alone or be ganged together
+Can be bolted together or in place to the floor, via concealed pilot holes
+Can be easily filled with sand through optional ballast door on site to weigh down. Secures with tamper-proof screws
+Dimensions: 33"H x 24"W x 24"D
+Manufactured to ISO Quality Standards in the USA
+Resistant to stains
+Easy to clean, sanitize, and maintain
+Flame Retardant (passes Cal 133) (Test reports available upon request)
+1500 lb. static load (Test reports available upon request)
+Specify with or without ballast access door:
+Without: 106484GR Green, 106484BK Black, 106484G Gray, 106484BR Brown, 106484BG Blue-Gray, 106484SB Slate Blue
+With access door: 106484GRS Green, 106484BKS Black, 106484GS Gray, 106484BRS Brown, 106484BGS Blue-Gray, 106484SBS Slate Blue
+Colors: Aqua, Black, Blue Gray, Brown, Burgundy, Gray, Green, Indigo, Midnight Blue, Sand, Slate Blue, Stone Gray
+10 Year Warranty
+Categories: Behavioral Health Chairs, Furniture, Rotationally Molded Furniture, Behavioral/Mental Health Furniture, Commercial, Correctional Furniture, Corrections, Corrections Seating, Mental Health Furniture, Schools and Universities, Detention Centers, Correctional Facilities
+About Cortech USA by Correctional Technologies:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Sentinel-Arm-Chair-spec-sheet.pdf', 'https://cortechusa.com/wp-content/uploads/Sentinel-Chair-Installation-Instructions.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/23aeb85c-566e-4a1f-a1f9-818408c9436f.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Cobra_Mini_Can_14qt_710OC.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484AQS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484BGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484BKS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484BNS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484BYS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484GNS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484GYS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484IGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484S.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484SBS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484SDS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chair_106484SGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chairs_106484CL-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chairs_106484CV-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chairs_106484MS-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chairs_106484OC-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chairs_106484SE-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Arm_Chairs_106484TD-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Midnight-Blue-Sentinels-w-Stone-Gray-Cylinder-Base-Table-resized.jpg', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg', 'https://cortechusa.com/wp-content/uploads/TPDS1.jpg']
+====================================================================================================
+HANDLE cortech-116484-sentinel-armless-chair | id 6236578349244
+TITLE Cortech Sentinel Durable Armless Chair - 116484
+SUB Cortech USA 116484 Sentinel Armless Chair for Individual and Group Seating
+SEO T Cortech Sentinel Durable Armless Chair - 116484 at Anchortex
+SEO D Best prices on Cortech Sentinel Armless Chairs! Shop Anchortex for durable, safe furniture for behavioral health, rehab facilities & shelters.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-activity-rooms, bh-behavioral-health-care-furniture-for-waiting-rooms, bh-behavioral-health-care-furniture-group-dayrooms, cd-furn-dayroom, cd-furn-lobby, cd-furn-visitation, cortech-usa, Prison-Furniture
+OPTIONS [('Options', ['116484 - No Access Door', '116484S - With Access Door'])]
+  V 1 '116484 - No Access Door' C601625-01 472.00 590.00 35.0 lb
+  V 2 '116484S - With Access Door' C601625-02 560.00 700.00 35.0 lb
+  IMG 1 Cortech-116484BK.jpg 510 510 | Cortech 116484 Sentinel Armless Chair
+  IMG 2 Cortech_116484_Sentinel_Armless_Chair_green.jpg 540 572 | Cortech 116484 Sentinel Armless Chair
+  IMG 3 Cortech_116484_Sentinel_Armless_Chair_brown.jpg 520 552 | Cortech 116484 Sentinel Armless Chair
+  IMG 4 Cortech_116484_Sentinel_Armless_Chair_blue-gray.jpg 511 533 | Cortech 116484 Sentinel Armless Chair
+  IMG 5 Cortech_Sentinel_chair_colors_bca915af-ccd8-4045-8f33-8d2d7572b630.jpg 1367 207 | Cortech 116484 Sentinel Armless Chair
+BODY:
+The Cortech Sentinel Arm Chair is a one-piece, rotationally molded chair designed to stand alone or be bolted together in group seating areas. Ergonomically designed and infused with CORx antimicrobial compound, the Sentinel Chair is a safe solution for frequent, continuous use in intensive environments.  The Sentinel Chair is ideal for use as Correctional Facility Furniture, Behavioral Health Furniture, Detention Furniture, Mental Health Furniture, Residential Institution Furniture, and Public Safety Facilities Furniture. Use for 
+Individual and Group Seating configurations.
+Durable, one piece, rotationally molded design for increased strength. Constructed of high impact no break UV stabilized polyethylene. No steel or wood components
+Can be used as stand alone or be ganged together
+Can be bolted together or in place to the floor, via concealed pilot holes
+Dimensions: 33"H x 24"W x 24"D
+Can be easily filled with sand through optional ballast door on site to weigh down. Secures with tamper-proof screws
+Manufactured to ISO Quality Standards in the USA
+Resistant to stains
+Easy to clean, sanitize, and maintain
+Flame Retardant (passes Cal 133) (Test reports available upon request)
+1500 lb. static load (Test reports available upon request)
+Specify with or without ballast access door:
+116484 - without ballast door
+116484S - with access door
+Colors: Aqua, Black, Blue Gray, Brown, Burgundy, Gray, Green, Indigo, Midnight Blue, Sand, Slate Blue, Stone Gray
+10 Year Warranty
+Categories: Behavioral Health Chairs, Furniture, Rotationally Molded Furniture, Behavioral/Mental Health Furniture, Commercial, Correctional Furniture, Corrections, Corrections Seating, Mental Health Furniture, Schools and Universities, Detention Centers, Correctional Facilities
+About Cortech USA by Correctional Technologies:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Sentinel-Armless-Chair-spec-sheet.pdf', 'https://cortechusa.com/wp-content/uploads/Sentinel-Chair-Installation-Instructions.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/7602BG-1.webp', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484AQS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484BGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484BKS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484BNS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484BY.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484GNS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484GYS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484IGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484MBS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484SBS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484SDS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chair_116484SGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chairs_116484CL-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chairs_116484CV-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chairs_116484MS-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chairs_116484OC-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chairs_116484SE-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Sentinel_Armless_Chairs_116484TD-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/MasterBox.jpg', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg', 'https://cortechusa.com/wp-content/uploads/VenturaMirror.jpg', 'https://cortechusa.com/wp-content/uploads/eb79ff5c-3873-4b0a-9193-7ce3fde6875b.jpg']
+====================================================================================================
+HANDLE cortech-146484-radial-rocker-chair | id 6236627665084
+TITLE Cortech Radial Rocker - Rocking Chair - One-Piece Rotationally Molded Polyethylene - Model 146484
+SUB Cortech USA 146484 Radial Rocker Chair
+SEO T Cortech Radial Rocker - Rocking Chair - One-Piece Rotationally Molded Polyethylene - Model 146484 at Anchortex
+SEO D Cortech’s Radial Rocker Chair features one-piece rotationally molded polyethylene construction with a low center of gravity. Anchortex provides a leading selection of anti‑ligature seating.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-activity-rooms, bh-behavioral-health-care-furniture-for-waiting-rooms, bh-behavioral-health-care-furniture-group-dayrooms, cd-furn-dayroom, cd-furn-lobby, cd-furn-visitation, cortech-usa, Prison-Furniture
+OPTIONS [('Style', ['146484 - without Ballast Access Door', '146484S - with Ballast Access Door'])]
+  V 1 '146484 - without Ballast Access Door' C601640-01 825.60 1032.00 70.0 lb
+  V 2 '146484S - with Ballast Access Door' C601640-02 932.80 1166.00 70.0 lb
+  IMG 1 Cortech_146484_Radial_Rocker_slate-blue.jpg 556 476 | Cortech 146484 Radial Rocker Chair
+  IMG 2 Cortech_146484_Radial_Rocker_indigo.jpg 536 482 | Cortech 146484 Radial Rocker Chair
+  IMG 3 Cortech_146484_Radial_Rocker_burgundy.jpg 562 466 | Cortech 146484 Radial Rocker Chair
+  IMG 4 Cortech_146484_Radial_Rocker_black.jpg 557 481 | Cortech 146484 Radial Rocker Chair
+  IMG 5 Cortech_146484_Radial_Rocker_colors.jpg 1392 138 | Cortech 146484 Radial Rocker Chair
+BODY:
+The Cortech Radial Rocker Chair is a rocking chair that is ergonomically designed for maximum comfort and safety. The Rocker is a durable, one piece, rotationally molded plastic chair with no steel or wood components. The low center of gravity provides stability and a smooth rocking motion. The Cortech Radial Rocker has a 56 rocking radius, which allows for a bigger rocking motion. The chair passes the Cal 133 flammability test, is stain resistant, and is manufactured right here in the USA.
+10 Year Warranty (Warranty valid on manufacturing defects only)
+Durable, one piece, rotationally molded design for increased strength
+Constructed of high impact no break polyethylene. No steel or wood components
+Lower Center of Gravity improves stability and creates a smoother sway
+Seat Height of 17" is an ergonomic standard
+Manufactured to ISO Quality Standards in the USA.
+Resistant to all stains.
+Easy to clean and maintain.
+Flame Retardant (passes Cal 133) (Test reports available upon request).
+1500 lb. static load (Test reports available upon request).
+Available colors:
+Without access door: 146484BK Black, 146484BG Blue Gray, 146484BN Brown, 146484GN Green, 146484GY Gray, 146484SB Slated Blue, 146484SD Sand
+With access door: 146484BKS Black, 146484BGS Blue Gray, 146484BNS Brown, 146484GNS Green, 146484GYS Gray, 146484SBS Slated Blue, 146484SDS Sand
+About Cortech USA by Correctional Technologies:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Radial-Rocker-spec-sheet.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/667b1267-47e3-41be-be9a-5b4a5e535da1.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484AQS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484BGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484BKS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484BNS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484BYS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484CL-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484CV-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484GNS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484GYS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484IGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484MBS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484MS-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484OC-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484SBS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484SDS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484SE-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484SGS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Radial_Rocker_146484TD-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/Mix-Seating-2.jpg', 'https://cortechusa.com/wp-content/uploads/Radial-Rocker-BH-Overcast.jpg', 'https://cortechusa.com/wp-content/uploads/Radial-Rocker-in-school.jpg', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg']
+====================================================================================================
+HANDLE cortech-330-summit-stool | id 9175477879020
+TITLE Cortech Summit Compact Stool - One-Piece Rotationally Molded - Model 330
+SUB Cortech 330 Summit Stool for Behavioral Health Care Facilities
+SEO T Cortech Summit Compact Stool - One-Piece Rotationally Molded - Model 330 at Anchortex
+SEO D Cortech’s Summit Rotationally Molded Stool provides durable seating with safe edges and easy cleanability for behavioral health. Discover top‑tier selection and dependable sourcing through Anchortex.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-patient-rooms, cd-furn-cell, cortech-endurance, cortech-usa, Prison-Furniture
+OPTIONS [('Style', ['330 - No ballast door', '330S - Ballast door'])]
+  V 1 '330 - No ballast door' C601222-01 368.00 460.00 15.0 lb
+  V 2 '330S - Ballast door' C601222-02 508.80 636.00 255.0 lb
+  IMG 1 Cortech_330_Summit_Stool-Overcast.png 276 313 | None
+  IMG 2 Cortech_330_Summit_Stool-Moss.png 249 312 | None
+  IMG 3 Cortech_Summit_Colors.png 600 182 | None
+  IMG 4 Cortech_Summit_Colors2.png 1329 180 | None
+BODY:
+The Cortech Summit Stool delivers compact, molded seating with optional soft-touch comfort for behavioral health spaces. Durable, easy to clean, and designed for flexible layouts. Calming design, safe edges, and easy cleanability for high-use spaces. Designed to stand alone or be arranged in groups.
+Durable, one piece, rotationally molded design for maximum strength. Constructed of high impact “no break” polyethylene. No steel or wood components
+Residential-inspired form for therapeutic environments
+Rounded edges and smooth surfaces enhance safety
+Options:
+Available in Veldura version with soft-touch exterior (order style 331)
+Model 330S has a ballast door that secures with tamper-resistant screws and can be used to add sandbags on-site (loose sand not recommended)
+Factory weighting available
+Inherently antimicrobial and easy to clean
+Sound dampening
+One-piece molded frame with no metal or wood components
+Dimensions: 18"H x 20"W x 21"D
+Flame retardant (passes UL 94 HB)
+GREENGUARD Gold Certified for low chemical emissions
+Lifetime Warranty
+Made in the USA to ISO Quality Standards
+Colors: 
+Aqua, Black, Blue Gray, Brown, Burgundy, Canvas, Claylight, Gray, Green, Indigo, Midnight Blue, Moss, Overcast, Sand, Seagrass, Slate Blue, Stone Gray, Tide
+The Summit Stool provides a compact, supportive seating option for behavioral health and other secure environments. Its simple form and softened geometry help maintain a calm, residential feel while supporting a wide range of room layouts. Because of its smaller footprint, the Cortech Summit Stool works well in patient rooms, dayrooms, group spaces, and shared areas where flexibility is important.
+The molded construction eliminates seams and joints that could be tampered with, supporting safety in high-acuity settings. The stool can be specified with a Veldura soft-touch surface, which adds comfort and a warm tactile experience without sacrificing durability. In addition, the Summit Stool can be factory weighted or filled on site using approved material. Loose sand should not be used. This added weight improves stability during daily use.
+The Summit Stool coordinates with other Cortech Summit seating and tables, allowing facilities to create cohesive, human-centered environments. Its cleanability, strength, and calming design make it a dependable choice for spaces that support healing and safety.
+About Cortech Summit Furniture:
+The Cortech Summit Series intense use furniture line is ideal for use as behavioral health furniture and 
+Behavioral Healthcare 
+mental health furniture. The Cortech Summit Furniture Series is also a perfect fit for residential institutions, public safety facilities and any intense or high abuse applications such as drug and alcohol rehabilitation centers and addiction treatment centers.
+About Cortech USA:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Stool-Side-Table-Bolt-Down-Installation-Instructions.pdf', 'https://cortechusa.com/wp-content/uploads/Summit-Floor-Stool-spec-sheet.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/Bed-1.0.webp', 'https://cortechusa.com/wp-content/uploads/Cortech_Endurance_Open_Chest_7201OC-2.jpg', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg', 'https://cortechusa.com/wp-content/uploads/Summit-Stools-Preschool.jpg', 'https://cortechusa.com/wp-content/uploads/ddcfad57-bd0e-4aaa-92d0-2565e8ad7d54.jpg']
+====================================================================================================
+HANDLE cortech-331-summit-veldura-stool | id 9175477944556
+TITLE Cortech Summit Stool with Veldura - One-Piece Rotationally Molded - Model 331
+SUB Cortech 331 Summit Veldura Stool with Soft-Touch Exterior for Behavioral Health Care Facilities
+SEO T Cortech Summit Stool with Veldura - One-Piece Rotationally Molded - Model 331 at Anchortex
+SEO D Cortech’s Summit Veldura Rotationally Molded Stool offers durability and safe rounded edges for behavioral health and safe environments. Anchortex provides unmatched product selection.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-patient-rooms, cd-furn-cell, cortech-endurance, cortech-usa, Prison-Furniture
+OPTIONS [('Style', ['311 - No ballast door', '311S - Ballast door'])]
+  V 1 '311 - No ballast door' C601227-01 739.20 924.00 255.0 lb
+  V 2 '311S - Ballast door' C601227-02 880.00 1100.00 255.0 lb
+  IMG 1 Cortech_331_Summit_Veldura_Stool-Black.png 278 356 | None
+  IMG 2 Cortech_331_Summit_Veldura_Stool-Green.png 256 309 | None
+  IMG 3 Cortech_Summit_Colors_45355c1a-ef70-4505-94de-bdf504f51896.png 385 117 | None
+  IMG 4 Cortech_Summit_Colors2.png 1329 180 | None
+BODY:
+The Cortech Summit Accent Chair for individual and group seating with Veldura soft-touch exterior combines ergonomic comfort with molded durability for behavioral health. Calming design, safe edges, and easy cleanability for high-use spaces.  Designed to stand alone or be arranged in groups. 
+Durable, one piece, rotationally molded design for maximum strength. Constructed of high impact “no break” polyethylene. No steel or wood components
+Veldura soft-touch exterior
+Residential-inspired form for therapeutic environments
+Rounded edges and smooth surfaces enhance safety
+Options:
+Available in Standard version without Veldura soft-touch exterior (order style 310)
+Model 311S has a ballast door that secures with tamper-resistant screws and can be used to add sandbags on-site (loose sand not recommended)
+Factory weighting available 
+Inherently antimicrobial and easy to clean
+Sound dampening
+One-piece molded frame with no metal or wood components
+Dimensions: 18"H x 20"W x 21"D
+Flame retardant (passes UL 94 HB)
+GREENGUARD Gold Certified for low chemical emissions
+Lifetime Warranty.
+Made in the USA to ISO Quality Standards.
+Colors: 
+Aqua, Black, Blue Gray, Brown, Burgundy, Canvas, Claylight, Gray, Green, Indigo, Midnight Blue, Moss, Overcast, Sand, Seagrass, Slate Blue, Stone Gray, Tide
+The Summit Stool provides a compact, supportive seating option for behavioral health and other secure environments. Its simple form and softened geometry help maintain a calm, residential feel while supporting a wide range of room layouts. Because of its smaller footprint, the Cortech Summit Stool works well in patient rooms, dayrooms, group spaces, and shared areas where flexibility is important.
+The molded construction eliminates seams and joints that could be tampered with, supporting safety in high-acuity settings. The stool can be specified with a Veldura soft-touch surface, which adds comfort and a warm tactile experience without sacrificing durability. In addition, the Summit Stool can be factory weighted or filled on site using approved material. Loose sand should not be used. This added weight improves stability during daily use.
+The Summit Stool coordinates with other Cortech Summit seating and tables, allowing facilities to create cohesive, human-centered environments. Its cleanability, strength, and calming design make it a dependable choice for spaces that support healing and safety.
+About Cortech Summit Furniture:
+The Cortech Summit Series intense use furniture line is ideal for use as behavioral health furniture and 
+Behavioral Healthcare 
+mental health furniture. The Cortech Summit Furniture Series is also a perfect fit for residential institutions, public safety facilities and any intense or high abuse applications such as drug and alcohol rehabilitation centers and addiction treatment centers.
+About the Cortech Veldura Finish:
+The Summit Series' Veldura finish provides the user with a soft and calming seat solution.  Cortech accomplishes this exceptional feel without compromising durability or cleaning.  The Veldura finish also provides a visual contrast between the seating surface area and the seat base.
+About Cortech USA:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Stool-Side-Table-Bolt-Down-Installation-Instructions.pdf', 'https://cortechusa.com/wp-content/uploads/Summit-Floor-Stool-spec-sheet.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/Bed-1.0.webp', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg', 'https://cortechusa.com/wp-content/uploads/Summit-Veldura-Stool-Tide-scaled.jpg', 'https://cortechusa.com/wp-content/uploads/ddcfad57-bd0e-4aaa-92d0-2565e8ad7d54.jpg']
+====================================================================================================
+HANDLE cortech-100-100s3-solstice-behavioral-health-bed | id 8748749783276
+TITLE Cortech Solstice - Behavioral Health Bed - One‑Piece Rotationally Molded Design - Models 100 / 100S3
+SUB Cortech USA 100 / 100S3 Solstice Bed for Behavioral Healthcare Facilities
+SEO T Cortech Solstice - Behavioral Health Bed - One‑Piece Rotationally Molded Design - Models 100 / 100S3 at Anchortex
+SEO D Cortech’s Solstice Behavioral Health Bed is available in standard on 3 door models. Anchortex provides a full range of anti‑ligature furniture designed for demanding behavioral health environments.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-patient-rooms, cd-furn-cell, cortech-usa, Patient Safety Beds & Bed Restraints, Prison-Furniture, safety-bed
+OPTIONS [('Style', ['100 - Standard', '100S3 - 3 Doors'])]
+  V 1 '100 - Standard' C601076-01 1838.40 2298.00 145.0 lb
+  V 2 '100S3 - 3 Doors' C601076-02 2273.60 2842.00 145.0 lb
+  IMG 1 Cortech-100AQ-Solstice-Bed-Aqua.webp 800 800 | None
+  IMG 2 Cortech-Solstice-colors.png 632 55 | None
+BODY:
+The Cortech Solstice Bed merges unparalleled strength and durability with a more familiar, home-like design to enhance patient comfort and security.  Depending on the environment, it can be bolted to the floor or weighted with sand through optional underside ballast doors.
+Durable, one-piece, rotationally molded design for increased strength
+Constructed of high impact “no break” polyethylene
+Molded-in, raised head and footboards to prevent mattresses from sliding
+Designed for use with a 36” x 75” mattress
+Optional underside ballast doors (3 doors) for adding weight with sandbags (sandbags sold separately, loose sand not recommended) - order model 100S3
+Option to bolt to the floor via concealed pilot holes and hardware of your choice
+Easy to clean, sanitize, and maintain
+GREENGUARD Gold Certified
+Noise Generation Test RAL-AN23-010 conclude half as many decibels produced in comparison to steel
+Flame Retardant (passes Cal 133)
+Test reports available upon request
+Manufactured to ISO Quality Standards in the USA
+10-Year Factory Warranty
+Patent Pending
+About Cortech USA:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Solstice-Bed-spec-sheet.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/051821_CORTECH_ALL_PURPOSE_SHELF_20_SURF_GREEN.webp', 'https://cortechusa.com/wp-content/uploads/051821_CORTECH_BED_RISER_wBED_REVEL_BLUE.webp', 'https://cortechusa.com/wp-content/uploads/7501-1.webp', 'https://cortechusa.com/wp-content/uploads/7602BG-1.webp', 'https://cortechusa.com/wp-content/uploads/83c7279f-90e9-4336-a0f4-5904c942843d.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100AQ.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100BG.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100BK.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100BN.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100BY.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100CL.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100CV.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100GN.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100GY.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100IG.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100MB.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100MS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100OC.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100SB.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100SD.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100SE.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100SG.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_100TD.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Bed_Endurance_Wall_Mount_ADA_Desk_SG_Lifestyle-1.jpg', 'https://cortechusa.com/wp-content/uploads/Pinnacle.jpg', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg', 'https://cortechusa.com/wp-content/uploads/Solstice-Bed-Ballast-Doors.webp', 'https://cortechusa.com/wp-content/uploads/Solstice-Bed-Sideview.webp', 'https://cortechusa.com/wp-content/uploads/Solstice-Bed.webp']
+====================================================================================================
+HANDLE cortech-101-101s3-solstice-safetyguard-behavioral-health-bed-with-guardrails | id 8748754993388
+TITLE Cortech Solstice Safetyguard Durable Behavioral Health Bed with Guardrails - 101 / 101S3
+SUB Cortech USA 101 / 101S Solstice Safetyguard Bed - molded bed for fall-risk patients in behavioral health settings
+SEO T Cortech Solstice Safetyguard Durable Behavioral Health Bed with Guardrails - 101 / 101S3 at Anchortex
+SEO D Best prices on Cortech Solstice Safetyguard Behavioral Health Beds! Shop Anchortex for durable, safe furniture for behavioral health care environments.
+TAGS Behavioral Healthcare Furniture, bh-behavioral-health-care-furniture-patient-rooms, cd-furn-cell, cortech-usa, Patient Safety Beds & Bed Restraints, Prison-Furniture, safety-bed
+OPTIONS [('Style', ['101 - Standard', '101S3 - Ballastable'])]
+  V 1 '101 - Standard' C601080-01 2220.80 2776.00 150.0 lb
+  V 2 '101S3 - Ballastable' C601080-02 2620.80 3276.00 145.0 lb
+  IMG 1 Cortech-101AQ-Solstice-Safeguard-Bed-Aqua.webp 800 800 | None
+  IMG 2 Cortech-Solstice-colors.png 632 55 | None
+BODY:
+The Cortech Solstice Safeguard Bed emulates the therapeutic aesthetic of the Cortech Solstice Bed with added features to protect behavioral health patients from fall-related injuries.  Its innovative design features raised, molded-in wall panels running partially along each bed length to aid in fall prevention.
+Durable, one-piece, rotationally molded design for increased strength
+Constructed of high impact “no break” polyethylene
+Molded-in, raised head and footboard to prevent mattresses from sliding
+Seamless, raised wall panels run partially along both lengths of the bed to prevent falls and fall-related injuries
+Designed for use with a 36” x 75” mattress (sold separately)
+Optional underside ballast doors (3 doors) for adding weight with sandbags (sandbags sold separately, loose sand not recommended) - order model 101S3
+Option to bolt to the floor via concealed pilot holes and hardware of your choice (not included)
+Easy to clean, sanitize, and maintain
+GREENGUARD Gold Certified
+Noise Generation Test RAL-AN23-010 conclude half as many decibels produced in comparison to steel
+Flame Retardant (passes Cal 133)
+Manufactured to ISO Quality Standards in the USA
+10-Year Factory Warranty
+Patent Pending
+About Cortech USA:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/Solstice-SAFEGUARD-Bed-spec-sheet.pdf', 'https://cortechusa.com/wp-content/uploads/Solstice-Safeguard-Bed-Installation-Instructions.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/3db0068a-3438-4de6-a4fb-205fce156221.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Endurance_Open_Chest_7201OC-2.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101AQ.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101BG.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101BK.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101BN.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101BY.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101GN.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101GY.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101IG.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101MB.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101SB.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101SD.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_101SG.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard-Bed_Lifestyle_101MB-e1764111087694.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard_Bed_101CL.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard_Bed_101CV.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard_Bed_101MS.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard_Bed_101OC.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard_Bed_101SE.jpg', 'https://cortechusa.com/wp-content/uploads/Cortech_Solstice_Safeguard_Bed_101TD.jpg', 'https://cortechusa.com/wp-content/uploads/Pinnacle.jpg', 'https://cortechusa.com/wp-content/uploads/Revit-Logo.jpg']
+====================================================================================================
+HANDLE cortech-hmp-ligature-resistant-hookmax-wall-hooks | id 8748769050860
+TITLE Cortech Ligature Resistant HookMax+ Wall Hooks - HMP
+SUB Cortech USA HMP Hookmax Plus Anti-Ligature Wall Hooks
+SEO T Cortech Ligature Resistant HookMax+ Wall Hooks - HMP at Anchortex
+SEO D Best prices on Cortech Ligature Resistant HookMax+ Wall Hooks! Shop Anchortex for durable, safe supplies for behavioral health care and corrections facilities.
+TAGS bh-behavioral-health-care-facility-furnishings, bh-behavioral-health-care-furniture-patient-rooms, bh-facility-hardware, cd-furn-cell, corrections-facility-hardware, cortech-usa, detention-cell-hardware, Suicide Prevention & Protection, washroom
+OPTIONS [('Style', ['HMP - Pack of 5'])]
+  V 1 'HMP - Pack of 5' C601083 196.80 246.00 5.0 lb
+  IMG 1 Cortech-HMP-Hookmax-Plus.webp 440 440 | None
+BODY:
+The HookMax+ is a ligature resistant hook that releases at maximum 20 lb load.  Once released, the hook bends, forcing ligature to slide off, and then retains its shape.
+Ligature resistant hooks made of PC/ABS (core) and TPU (outer piece)
+Dimensions: H 2.05in x W 1.24in x D .85in
+360° Release at maximum 20lbs
+Resistant to alcohol and most detergents
+Available in a variety of colors
+3 Year Warranty applies to ascribed use; Full Warranty against manufacturing defects
+Sold in packs of 5. Price is per pack
+About Cortech HookMax Series Anti-Ligature Hooks
+Cortech's innovative ligature-resistant hooks for Behavioral Health and Correctional Environments - the HookMax and HookMax Plus - are carefully constructed with a PC/ABS core material and a flexible yet robust TPU outer material. Unlike a typical hook, the HookMax and HookMax Plus safely bend and release ligature at a maximum of 10lb and 20 lbs, respectively. Once the ligature slides off, the hooks retain their shape and function for continued use.  Each ligature resistant hook has a “normalized” design to invoke comfort. However, the unique choice of materials combined with specific details makes them both safe and functional for many applications, including both individual resident rooms and common areas alike.
+About Cortech USA:
+Cortech USA (Correctional Technologies) manufactures products that are exceptionally durable, designed for use in compassionate and normative behavioral healthcare, corrections, law enforcement, heavy use commercial and industrial environments, parks and recreation, schools, universities, hospitals, emergency and homeless shelters, and other institutions and facilities where safety and durability matter. Cortech products are ideal for extreme use and intensive use environments.
+BODY LINKS []
+CORTECH PDFs ['https://cortechusa.com/wp-content/uploads/HookMax-Plus-Spec-Sheet.pdf']
+CORTECH IMGS ['https://cortechusa.com/wp-content/uploads/06bf31ff-6bd1-42ae-8103-df583418de70.jpg', 'https://cortechusa.com/wp-content/uploads/7501-1.webp', 'https://cortechusa.com/wp-content/uploads/Board-w-hooks-Max10_grey_towels_wall_440x440.webp', 'https://cortechusa.com/wp-content/uploads/C280211JAIL.tif.jpg', 'https://cortechusa.com/wp-content/uploads/HSI169-Board-w-hooks-Max5-2-tiled-wall_440x440_edited.webp', 'https://cortechusa.com/wp-content/uploads/VenturaMirror.jpg', 'https://cortechusa.com/wp-content/uploads/barracuda_medium.png', 'https://cortechusa.com/wp-content/uploads/cobra-22-gallon-flame-retardant-trash-can-gray-22200fr-cort-6.jpg']
