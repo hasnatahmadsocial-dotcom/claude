@@ -277,3 +277,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - Mini Can: text live OK Nov 17 14:44; 3 images uploaded but chart is image 1 (asked Zeemal to move chart last). Color variants still waiting on Andrew.
   - Mini Can image order still chart first at 14:45 (asked to fix). C1720 Chuckwagon Max: set given Nov 17 (only Andrew mark = photo yes; weight 310->300 per doc; +1 photo images/cortech-c1720/; sheet U213:X216 = 300/56/31/64).
   - C1720 PUBLISHED Nov 17 14:48 (2 images). Mini Can chart still image 1. Next: 2000F Rock with Cor-Flex (tab 52).
+  - Mini Can images fixed Nov 17 15:05: 710 Overcast, 714 blue, chart last. PUBLISHED except color variants (waiting on Andrew: 18 colors w/ new SKUs vs rename Grey/Blue). Cortech alt for 714MB = '14 QT BLUE TRASH CAN' (my 'Midnight Blue' file name was from the MB code).
