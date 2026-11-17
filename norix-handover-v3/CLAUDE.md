@@ -275,3 +275,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - Kangaroo Lid PUBLISHED Nov 17 14:38. Next: 710 / 714 Cobra Mini Can (tab 50).
   - Mini Can 710/714: set given Nov 17 (install removed; weight 255 stays, T203 note per Andrew 'Make a note on the spreadsheet'; photos +2 (714 Midnight Blue, 710 Overcast) images/cortech-710/ and swap old chart for 18-color chart; COLOR VARIANTS: Andrew 'yes' to match Cortech but unclear (36 variants w/ new SKUs vs rename 5; Blue has no single Cortech match) -> asked Zeemal to confirm with Andrew; variants NOT changed yet).
   - Mini Can: text live OK Nov 17 14:44; 3 images uploaded but chart is image 1 (asked Zeemal to move chart last). Color variants still waiting on Andrew.
+  - Mini Can image order still chart first at 14:45 (asked to fix). C1720 Chuckwagon Max: set given Nov 17 (only Andrew mark = photo yes; weight 310->300 per doc; +1 photo images/cortech-c1720/; sheet U213:X216 = 300/56/31/64).
