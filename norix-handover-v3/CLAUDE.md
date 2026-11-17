@@ -254,3 +254,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - live/: Anchortex product JSON for the 7 Cortech products as of Nov 10 (before any change)
   - site/: spec sheets, product pages, catalogs (text)
 - **Group 5 push (Nov 17)**: order = doc tabs 39..58 (FR + Dolly skipped, merged into Combined). Variant table in every set now includes SKU, weight, size L×W×H, price (Zeemal asked). Kangaroo Cart PUBLISHED Nov 17 (models in Andrew's 3-line format, variants renamed General Use / Blue Gray / Repro Black, 52 lb; sheet U157:X164). C1717: set given (md "up to 150 trays", 250 lb, 2 Cortech photos images/cortech-c1717/; sheet already 250/56/31/64).
+  - C1717 PUBLISHED Nov 17 (3 images; Door-Open is #2, Doors-Closed #3, no alt text). C1716: set given (md "up to 88 trays", 195 lb, photo images/cortech-c1716/, sheet U167:X168 = 195/43/30/59).

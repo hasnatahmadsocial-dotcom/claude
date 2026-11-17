@@ -159,7 +159,7 @@ add(tab='C1716 - Cortech Chuckwagon Jr. Delivery Cart',short='C1716: Cortech Chu
  apps=apps('The Chuckwagon Jr. suits smaller housing units and facilities that need an insulated tray cart with a smaller footprint.',CART_APPS,FS_COLL),
  series=FS_SERIES,
  mt='Cortech Chuckwagon Jr. Insulated Tray Cart - C1716 at Anchortex',
- md='Shop the Cortech Chuckwagon Jr. A compact one-piece insulated food tray delivery cart that holds up to 88 Rock Trays, with sliding doors and optional hasp.',
+ md='Shop the Cortech Chuckwagon Jr. A compact one-piece insulated food tray delivery cart that holds up to 88 trays, with sliding doors and optional hasp.',
  notes=[SER_FS,
   'H1: Cortech calls it the Chuckwagon Jr. Insulated Food Tray Delivery Cart, so I used that and added the C1716LH.',
   'Weight: your variants are set to 195 lbs, which matches the Cortech spec sheet.',

@@ -606,5 +606,13 @@
   "seo_title": "Cortech Chuckwagon Insulated Tray Cart - C1717 at Anchortex",
   "seo_desc": "Shop the Cortech Chuckwagon. A one-piece insulated food tray delivery cart that holds up to 150 trays, with sliding doors and an optional locking hasp.",
   "baseline": "baselines/cortech/cortech-c1717-chuckwagon-tray-transport-cart.json"
+ },
+ {
+  "handle": "cortech-c1716-chuckwagon-jr-tray-transport-cart",
+  "html": "shopify-html/CT-C1716.html",
+  "subtitle": "Compact One-Piece Insulated Cart That Holds Up to 88 Rock Trays, with Sliding Doors and an Optional Locking Hasp",
+  "seo_title": "Cortech Chuckwagon Jr. Insulated Tray Cart - C1716 at Anchortex",
+  "seo_desc": "Shop the Cortech Chuckwagon Jr. A compact one-piece insulated food tray delivery cart that holds up to 88 trays, with sliding doors and optional hasp.",
+  "baseline": "baselines/cortech/cortech-c1716-chuckwagon-jr-tray-transport-cart.json"
  }
 ]
