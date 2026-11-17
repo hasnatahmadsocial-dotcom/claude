@@ -125,7 +125,7 @@ add(tab='C1717 - Cortech Chuckwagon Delivery Cart',short='C1717: Cortech Chuckwa
  apps=apps('The Chuckwagon suits large facilities that deliver hot and cold meals on trays from a central kitchen.',CART_APPS,FS_COLL),
  series=FS_SERIES,
  mt='Cortech Chuckwagon Insulated Tray Cart - C1717 at Anchortex',
- md='Shop the Cortech Chuckwagon. A one-piece insulated food tray delivery cart that holds up to 150 Rock Trays, with sliding doors and an optional locking hasp.',
+ md='Shop the Cortech Chuckwagon. A one-piece insulated food tray delivery cart that holds up to 150 trays, with sliding doors and an optional locking hasp.',
  notes=[SER_FS,
   'H1: Cortech calls it the Chuckwagon Insulated Food Tray Delivery Cart, so I used that and added the C1717LH.',
   'Weight: your variants are set to 310 lbs. The Cortech spec sheet says 250 lbs, so I used 250 lbs.',
