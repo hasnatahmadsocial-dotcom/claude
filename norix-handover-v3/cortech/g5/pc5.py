@@ -458,7 +458,7 @@ add(tab='710 / 714 - Cortech Cobra Mini Can',short='710 / 714: Cortech Cobra Min
   '**Packaging:** Sold in cases of 6',
   LIFE,ISO],
  models=['**710 – 10 Quart:** Cobra Mini Can, case of 6','**714 – 14 Quart:** Cobra Mini Can, case of 6'],
- install=[NOASM[1]],
+ install=[],
  apps=apps('The Cobra Mini Can suits rooms that need a small trash can that will not break.',
   ['Cells and housing units in correctional facilities and jails','Patient rooms in behavioral healthcare facilities and psychiatric hospitals','Offices, bathrooms, and other small rooms in secure facilities'],MINI_COLL),
  series=FM_SERIES,

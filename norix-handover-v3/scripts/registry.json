@@ -678,5 +678,13 @@
   "seo_title": "Cortech Kangaroo Cart Lid in Three Materials at Anchortex",
   "seo_desc": "Shop the Cortech Kangaroo Cart Lid. A lid for the Kangaroo All Purpose Delivery Cart in flame retardant, general use, or recycled material and six colors.",
   "baseline": "baselines/cortech/cortech-cc200l-lid-for-kangaroo-cart.json"
+ },
+ {
+  "handle": "cortech-cobra-mini-can-trash-receptacle",
+  "html": "shopify-html/CT-710.html",
+  "subtitle": "Virtually Unbreakable One-Piece Molded 10 or 14 Quart Trash Can, Sold in Cases of 6",
+  "seo_title": "Cortech Cobra Mini Can Trash Receptacle - 710 / 714 at Anchortex",
+  "seo_desc": "Shop the Cortech Cobra Mini Can. A virtually unbreakable one-piece molded 10 or 14 quart trash can that will not dent, rust, or chip. Sold in cases of 6.",
+  "baseline": "baselines/cortech/cortech-cobra-mini-can-trash-receptacle.json"
  }
 ]
