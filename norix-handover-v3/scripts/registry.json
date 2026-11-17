@@ -622,5 +622,13 @@
   "seo_title": "Cortech Rock Insulated Food Tray - 2000 at Anchortex",
   "seo_desc": "Shop the Cortech Rock Tray. A seamless one-piece insulated meal tray with five food and two condiment compartments that stacks with or without lids.",
   "baseline": "baselines/cortech/cortech-2000-the-rock-insulated-food-tray.json"
+ },
+ {
+  "handle": "cortech-3000-x-tray-insulated-food-tray",
+  "html": "shopify-html/CT-3000.html",
+  "subtitle": "Seamless One-Piece Insulated Meal Tray with Tongue and Groove Compartments That Seal with the Lid",
+  "seo_title": "Cortech X-Tray Insulated Food Tray - 3000 at Anchortex",
+  "seo_desc": "Shop the Cortech X-Tray. A seamless one-piece insulated meal tray with tongue and groove compartments that seal with the lid, at just 1¾ lbs per tray.",
+  "baseline": "baselines/cortech/cortech-3000-x-tray-insulated-food-tray.json"
  }
 ]
