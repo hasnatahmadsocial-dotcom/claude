@@ -646,5 +646,13 @@
   "seo_title": "Cortech Rock 2.0 Insulated Food Tray - 2500 at Anchortex",
   "seo_desc": "Shop the Cortech Rock 2.0 Tray. A seamless one-piece insulated meal tray with deeper compartments, the same footprint as the Rock, and the same lids.",
   "baseline": "baselines/cortech/cortech-2500-the-rock-2-0-insulated-food-tray.json"
+ },
+ {
+  "handle": "cortech-c1719-the-tray-master-food-delivery-cart",
+  "html": "shopify-html/CT-C1719.html",
+  "subtitle": "One-Piece Molded Tray Cart That Holds Up to 156 Rock Trays, with 90° Dual-Lock Doors",
+  "seo_title": "Cortech Tray Master Food Tray Delivery Cart - C1719 at Anchortex",
+  "seo_desc": "Shop the Cortech Tray Master. A one-piece molded non-insulated tray delivery cart that holds up to 156 trays, with 90° Dual-Lock doors.",
+  "baseline": "baselines/cortech/cortech-c1719-the-tray-master-food-delivery-cart.json"
  }
 ]
