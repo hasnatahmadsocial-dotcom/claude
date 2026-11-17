@@ -280,3 +280,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - Mini Can images fixed Nov 17 15:05: 710 Overcast, 714 blue, chart last. PUBLISHED except color variants (waiting on Andrew: 18 colors w/ new SKUs vs rename Grey/Blue). Cortech alt for 714MB = '14 QT BLUE TRASH CAN' (my 'Midnight Blue' file name was from the MB code).
   - Rock Cor-Flex 2000F: set given Nov 17 (price per case, install removed, renamed (yes); NO combine-colors note on this tab, so models stay separate bullets; no photo; weight 20 unchanged; sheet U217:X220 = 20/14.25/9.5/1.75).
   - Rock Cor-Flex 2000F PUBLISHED Nov 17. Next: 2000CLF Cor-Flex lid (tab 53).
+  - Cor-Flex lid 2000CLF: set given Nov 17 (price per case, install removed, renames per note: '2000CLF -  Chocolate Brown'->'2000CLF - Brown' (double space fixed), Dark Grey->Dark Gray, Terra Cotta STAYS (Cor-Flex spec says Terra Cotta); no combine note; no photo; weight 10 unchanged; sheet U221:U224 = 10).

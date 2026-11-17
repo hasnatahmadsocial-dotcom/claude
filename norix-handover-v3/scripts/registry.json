@@ -702,5 +702,13 @@
   "seo_title": "Cortech Rock Food Tray with Cor-Flex - 2000F at Anchortex",
   "seo_desc": "Shop the Cortech Rock Tray with Cor-Flex. A seamless one-piece insulated meal tray of pliable Cor-Flex material with five food and two condiment compartments.",
   "baseline": "baselines/cortech/cortech-2000xf-the-rock-flexible-insulated-food-tray-with-cor-flex.json"
+ },
+ {
+  "handle": "cortech-2000xfl-flexible-lid-for-rock-trays-with-cor-flex",
+  "html": "shopify-html/CT-2000CLF.html",
+  "subtitle": "Pliable Cor-Flex Lid for the Cortech Rock Tray with Cor-Flex, in Four Colors",
+  "seo_title": "Cortech Rock Insulated Food Tray Lid with Cor-Flex at Anchortex",
+  "seo_desc": "Shop the Cortech Rock Tray Lid with Cor-Flex. A pliable Cor-Flex lid for the Cortech Rock Tray with Cor-Flex, sold in cases of 10 in four colors.",
+  "baseline": "baselines/cortech/cortech-2000xfl-flexible-lid-for-rock-trays-with-cor-flex.json"
  }
 ]

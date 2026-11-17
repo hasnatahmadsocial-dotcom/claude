@@ -558,7 +558,7 @@ add(tab='2000CLF - Cortech Rock Tray Lid with Cor-Flex',short='2000CLF / 2000DGL
   '**Material:** Cor-Flex, made with FDA-approved material',
   TCOL,CASE10,ISO],
  models=['**2000CLF – Brown:** Cor-Flex lid','**2000DGLF – Dark Gray:** Cor-Flex lid','**2000TCLF – Terracotta:** Cor-Flex lid','**2000OLF – Orange:** Cor-Flex lid'],
- install=[NOASM[1]],
+ install=[],
  apps=apps('The Cor-Flex lid suits facilities that deliver meals on Rock Trays with Cor-Flex and need covered, stackable trays.',TRAY_APPS,FS_COLL),
  series=FS_SERIES,
  mt='Cortech Rock Insulated Food Tray Lid with Cor-Flex at Anchortex',
