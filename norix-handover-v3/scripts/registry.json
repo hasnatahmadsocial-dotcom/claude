@@ -638,5 +638,13 @@
   "seo_title": "Cortech X-Tray Insulated Food Tray Lid - 3000L at Anchortex",
   "seo_desc": "Shop the Cortech X-Tray Lid. A lid for the Cortech X-Tray that seals the entire perimeter and every compartment, sold in cases of 10 in four colors.",
   "baseline": "baselines/cortech/cortech-3000l-x-tray-food-tray-lid.json"
+ },
+ {
+  "handle": "cortech-2500-the-rock-2-0-insulated-food-tray",
+  "html": "shopify-html/CT-2500.html",
+  "subtitle": "Seamless One-Piece Insulated Meal Tray with Deeper Compartments, Same Footprint and Lids as the Rock",
+  "seo_title": "Cortech Rock 2.0 Insulated Food Tray - 2500 at Anchortex",
+  "seo_desc": "Shop the Cortech Rock 2.0 Tray. A seamless one-piece insulated meal tray with deeper compartments, the same footprint as the Rock, and the same lids.",
+  "baseline": "baselines/cortech/cortech-2500-the-rock-2-0-insulated-food-tray.json"
  }
 ]
