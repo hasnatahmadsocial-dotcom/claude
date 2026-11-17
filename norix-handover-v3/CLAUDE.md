@@ -264,3 +264,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - X-Tray Lid 3000L: set given Nov 17 (price per case, colors combined in 1 bullet, install removed, variants renamed Brown/Dark Gray/Terracotta (Andrew yes), 3 photos images/cortech-3000l/; weight 15 unchanged; sheet U177:U180 = 15, L/W/H blank (no lid size in spec)).
   - X-Tray Lid 3000L PUBLISHED Nov 17 14:06 (4 images). Next: 2500 Rock 2.0 (tab 45).
   - Rock 2.0 2500: set given Nov 17 (price per case, colors combined, install removed, variants renamed (Andrew yes), photos: only Rock2O_square is new; new-rock-2.0-food-tray.jpg = the live image, other Cortech image is the spec sheet graphic; weight 24 unchanged; sheet U181:X184 = 24/14.25/9.5/2.25).
+  - Rock 2.0 2500 PUBLISHED Nov 17 14:11 (2 images). Next: C1719 Tray Master (tab 46).
