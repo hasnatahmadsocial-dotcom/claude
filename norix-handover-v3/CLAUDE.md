@@ -266,3 +266,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - Rock 2.0 2500: set given Nov 17 (price per case, colors combined, install removed, variants renamed (Andrew yes), photos: only Rock2O_square is new; new-rock-2.0-food-tray.jpg = the live image, other Cortech image is the spec sheet graphic; weight 24 unchanged; sheet U181:X184 = 24/14.25/9.5/2.25).
   - Rock 2.0 2500 PUBLISHED Nov 17 14:11 (2 images). Next: C1719 Tray Master (tab 46).
   - Tray Master C1719: set given Nov 17 (install removed, meta 'up to 156 trays' = 135 chars, below 140 but Andrew's strike; weight 245->240 per doc; Cortech doors-open photo = same as live image, so no photo added; sheet U185:X185 = 240/67/32/54).
+  - Tray Master C1719 PUBLISHED Nov 17 14:14 (meta 135 flagged, expected per Andrew's strike). Next: 2000CL Rock lid (tab 47).
