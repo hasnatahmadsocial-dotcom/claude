@@ -260,3 +260,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **Zeemal Nov 17: ONLY apply Andrew's doc comments; add nothing of my own** (no extra alt text, no extra worksheet comments, no extra renames). Removed my T169 Rock weight comment. Doc re-read nov17e: no changes since nov17d; no margin comments in the doc.
   - Rock 2000 PUBLISHED Nov 17 13:56 (7 images; uploaded lids first, then trays). Next: 3000 X-Tray (tab 43).
   - X-Tray 3000: set given Nov 17 (price per case, colors combined, install removed, 4 photos images/cortech-3000/; NO variant rename: Andrew did not answer that note on this tab; weight 24 unchanged; sheet U173:X176 = 24/14.25/9.5/2.25).
+  - X-Tray 3000 PUBLISHED Nov 17 14:01 (5 images). Next: 3000L X-Tray Lid (tab 44).
