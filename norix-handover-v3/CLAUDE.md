@@ -281,3 +281,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - Rock Cor-Flex 2000F: set given Nov 17 (price per case, install removed, renamed (yes); NO combine-colors note on this tab, so models stay separate bullets; no photo; weight 20 unchanged; sheet U217:X220 = 20/14.25/9.5/1.75).
   - Rock Cor-Flex 2000F PUBLISHED Nov 17. Next: 2000CLF Cor-Flex lid (tab 53).
   - Cor-Flex lid 2000CLF: set given Nov 17 (price per case, install removed, renames per note: '2000CLF -  Chocolate Brown'->'2000CLF - Brown' (double space fixed), Dark Grey->Dark Gray, Terra Cotta STAYS (Cor-Flex spec says Terra Cotta); no combine note; no photo; weight 10 unchanged; sheet U221:U224 = 10).
+  - Cor-Flex lid 2000CLF PUBLISHED Nov 17. Next: Cobra Can Combined (tab 57).
