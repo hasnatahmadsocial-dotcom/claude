@@ -574,5 +574,13 @@
   "seo_title": "Cortech Endurance Cascade Base Table - 670S / 670GTS at Anchortex",
   "seo_desc": "Shop the Cortech Endurance Cascade Base Table. A fully molded 42” round table with a flowing base, plain or game top, and floor mount or ballast options.",
   "baseline": "baselines/cortech/cortech-670s-endurance-cascade-table-42-round-top.json"
+ },
+ {
+  "handle": "cortech-kangaroo-cart",
+  "html": "shopify-html/CT-CC-Kangaroo.html",
+  "subtitle": "One-Piece Molded 15-Bushel Cart for Laundry, Trash, and Material Handling, in Three Materials",
+  "seo_title": "Cortech Kangaroo All Purpose Delivery Cart at Anchortex",
+  "seo_desc": "Shop the Cortech Kangaroo Cart. A one-piece molded 15-bushel cart with a 1,000 lb load rating for laundry, trash, and material handling, indoors or out.",
+  "baseline": "baselines/cortech/cortech-kangaroo-cart.json"
  }
 ]
