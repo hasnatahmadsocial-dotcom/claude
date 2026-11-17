@@ -528,7 +528,7 @@ add(tab='2000F - Cortech Rock Tray with Cor-Flex',short='2000F: Cortech Rock Ins
   '**Stacking:** Stacks with or without lids',
   NOBLEACH,TCOL,CASE10,W5,ISO],
  models=['**2000CF – Brown:** Rock Tray with Cor-Flex','**2000DGF – Dark Gray:** Rock Tray with Cor-Flex','**2000TCF – Terracotta:** Rock Tray with Cor-Flex','**2000OF – Orange:** Rock Tray with Cor-Flex','**Lids:** Matching Cor-Flex lids sold separately'],
- install=[NOASM[1]],
+ install=[],
  apps=apps('The Rock with Cor-Flex suits facilities that want the Rock Tray in a pliable material.',TRAY_APPS,FS_COLL),
  series=FS_SERIES,
  mt='Cortech Rock Food Tray with Cor-Flex - 2000F at Anchortex',

@@ -694,5 +694,13 @@
   "seo_title": "Cortech Chuckwagon Max Insulated Tray Cart - C1720 at Anchortex",
   "seo_desc": "Shop the Cortech Chuckwagon Max. A one-piece insulated food tray delivery cart on a stainless steel base, with optional locking hasp and tow and hitch.",
   "baseline": "baselines/cortech/cortech-c1720-chuckwagon-max-tray-transport-cart.json"
+ },
+ {
+  "handle": "cortech-2000xf-the-rock-flexible-insulated-food-tray-with-cor-flex",
+  "html": "shopify-html/CT-2000F.html",
+  "subtitle": "Seamless One-Piece Insulated Meal Tray Made of Pliable Cor-Flex Material",
+  "seo_title": "Cortech Rock Food Tray with Cor-Flex - 2000F at Anchortex",
+  "seo_desc": "Shop the Cortech Rock Tray with Cor-Flex. A seamless one-piece insulated meal tray of pliable Cor-Flex material with five food and two condiment compartments.",
+  "baseline": "baselines/cortech/cortech-2000xf-the-rock-flexible-insulated-food-tray-with-cor-flex.json"
  }
 ]
