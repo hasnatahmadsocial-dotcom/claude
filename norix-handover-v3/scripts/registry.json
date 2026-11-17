@@ -670,5 +670,13 @@
   "seo_title": "Cortech BevMax Insulated Beverage Dispenser - BMX5 at Anchortex",
   "seo_desc": "Shop the Cortech BevMax. A stackable 5-gallon insulated beverage dispenser molded in one piece, with a lockable twist-on lid and a 2-way spigot.",
   "baseline": "baselines/cortech/cortech-bmx5-bevmax-beverage-dispenser.json"
+ },
+ {
+  "handle": "cortech-cc200l-lid-for-kangaroo-cart",
+  "html": "shopify-html/CT-CCL.html",
+  "subtitle": "Lid for the Cortech Kangaroo Cart in Flame Retardant, General Use, or Recycled Material",
+  "seo_title": "Cortech Kangaroo Cart Lid in Three Materials at Anchortex",
+  "seo_desc": "Shop the Cortech Kangaroo Cart Lid. A lid for the Kangaroo All Purpose Delivery Cart in flame retardant, general use, or recycled material and six colors.",
+  "baseline": "baselines/cortech/cortech-cc200l-lid-for-kangaroo-cart.json"
  }
 ]
