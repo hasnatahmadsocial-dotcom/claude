@@ -654,5 +654,13 @@
   "seo_title": "Cortech Tray Master Food Tray Delivery Cart - C1719 at Anchortex",
   "seo_desc": "Shop the Cortech Tray Master. A one-piece molded non-insulated tray delivery cart that holds up to 156 trays, with 90° Dual-Lock doors.",
   "baseline": "baselines/cortech/cortech-c1719-the-tray-master-food-delivery-cart.json"
+ },
+ {
+  "handle": "cortech-lid-for-rock-and-rock-2-0-food-trays",
+  "html": "shopify-html/CT-2000CL.html",
+  "subtitle": "Lid That Fits Both the Cortech Rock and Rock 2.0 Insulated Food Trays, in Four Colors",
+  "seo_title": "Cortech Rock and Rock 2.0 Food Tray Lid at Anchortex",
+  "seo_desc": "Shop the Cortech Rock Tray Lid. Fits both the Cortech Rock and Rock 2.0 insulated food trays, and allows lidded trays to stack. Sold in cases of 10.",
+  "baseline": "baselines/cortech/cortech-lid-for-rock-and-rock-2-0-food-trays.json"
  }
 ]
