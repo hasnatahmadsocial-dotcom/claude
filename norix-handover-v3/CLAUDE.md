@@ -269,3 +269,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - Tray Master C1719 PUBLISHED Nov 17 14:14 (meta 135 flagged, expected per Andrew's strike). Next: 2000CL Rock lid (tab 47).
   - C1719 meta fixed by Zeemal (was '135trays'), re-check OK. Rock lid 2000CL: set given Nov 17 (Andrew's meta rewrite, price per case, colors combined 'Rock Lid:', install removed, renamed (yes), 3 lid photos images/cortech-2000cl/; weight 15 unchanged; sheet U186:U189 = 15).
   - Rock lid 2000CL PUBLISHED Nov 17 14:28 (4 images). H1 has no model numbers (en dash 0 expected). Next: BMX5 BevMax (tab 48).
+  - BevMax BMX5: set given Nov 17 (models 1 line '5-Gallon BevMax:', install removed, Granite stays (on PL), weight 28->18 per doc, photos: brown = live image, so 2 new (stacked, granite) images/cortech-bmx5/; sheet U190:X194 = 18/17.5/17.5/19.5).

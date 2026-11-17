@@ -662,5 +662,13 @@
   "seo_title": "Cortech Rock and Rock 2.0 Food Tray Lid at Anchortex",
   "seo_desc": "Shop the Cortech Rock Tray Lid. Fits both the Cortech Rock and Rock 2.0 insulated food trays, and allows lidded trays to stack. Sold in cases of 10.",
   "baseline": "baselines/cortech/cortech-lid-for-rock-and-rock-2-0-food-trays.json"
+ },
+ {
+  "handle": "cortech-bmx5-bevmax-beverage-dispenser",
+  "html": "shopify-html/CT-BMX5.html",
+  "subtitle": "Stackable 5-Gallon Insulated Beverage Dispenser with a Lockable Twist-On Lid",
+  "seo_title": "Cortech BevMax Insulated Beverage Dispenser - BMX5 at Anchortex",
+  "seo_desc": "Shop the Cortech BevMax. A stackable 5-gallon insulated beverage dispenser molded in one piece, with a lockable twist-on lid and a 2-way spigot.",
+  "baseline": "baselines/cortech/cortech-bmx5-bevmax-beverage-dispenser.json"
  }
 ]
