@@ -261,3 +261,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
   - Rock 2000 PUBLISHED Nov 17 13:56 (7 images; uploaded lids first, then trays). Next: 3000 X-Tray (tab 43).
   - X-Tray 3000: set given Nov 17 (price per case, colors combined, install removed, 4 photos images/cortech-3000/; NO variant rename: Andrew did not answer that note on this tab; weight 24 unchanged; sheet U173:X176 = 24/14.25/9.5/2.25).
   - X-Tray 3000 PUBLISHED Nov 17 14:01 (5 images). Next: 3000L X-Tray Lid (tab 44).
+  - X-Tray Lid 3000L: set given Nov 17 (price per case, colors combined in 1 bullet, install removed, variants renamed Brown/Dark Gray/Terracotta (Andrew yes), 3 photos images/cortech-3000l/; weight 15 unchanged; sheet U177:U180 = 15, L/W/H blank (no lid size in spec)).

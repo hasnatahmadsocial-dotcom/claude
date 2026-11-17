@@ -630,5 +630,13 @@
   "seo_title": "Cortech X-Tray Insulated Food Tray - 3000 at Anchortex",
   "seo_desc": "Shop the Cortech X-Tray. A seamless one-piece insulated meal tray with tongue and groove compartments that seal with the lid, at just 1¾ lbs per tray.",
   "baseline": "baselines/cortech/cortech-3000-x-tray-insulated-food-tray.json"
+ },
+ {
+  "handle": "cortech-3000l-x-tray-food-tray-lid",
+  "html": "shopify-html/CT-3000L.html",
+  "subtitle": "Lid for the Cortech X-Tray That Seals Every Compartment, in Four Colors",
+  "seo_title": "Cortech X-Tray Insulated Food Tray Lid - 3000L at Anchortex",
+  "seo_desc": "Shop the Cortech X-Tray Lid. A lid for the Cortech X-Tray that seals the entire perimeter and every compartment, sold in cases of 10 in four colors.",
+  "baseline": "baselines/cortech/cortech-3000l-x-tray-food-tray-lid.json"
  }
 ]
