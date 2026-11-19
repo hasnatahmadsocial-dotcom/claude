@@ -41,12 +41,13 @@ Read this block first, then the rest of the file (rules, history). The last sess
 ### Group 4 push log (Nov 19)
 - Doc export now works: docs.google.com added to the environment (Nov 19). The .txt export redirects to googleusercontent (blocked); use the HTML export only.
 - **86484 Razorback**: set given Nov 19. Andrew: kept intro 2 ("I am leaving this because it may be useful"); SEAT_SERIES rewritten per his marks (applies to ALL seating tabs: "Cortech molded seating is designed for…", "Cortech molded seating includes:", Lounge bullet = his text, Summit + Endurance bullets struck); meta ". A" -> ", a" ("For all chairs"); Brown code "our error" (no variant to fix, single variant); photos yes -> 8 Cortech colors added (Black already live as img 1), images/cortech-86484/ + zip. pc6_before_andrew.py = doc version before Andrew. HTML shopify-html/CT-86484.html (text = doc exactly). Baseline saved Nov 19 (= Nov 17 copy). Sheet U108:X108 = 8.25/21/21/30 written. Weight 255 -> 8.25.
+  - **86484 PUBLISHED Nov 19 13:48**: live check passed (review + sweep, no issues): 8.25 lb, 11 images (3 old kept + 8 new colors, no alt), in registry (92).
 
 ### Still open from before (details further down)
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
 - Norix items in PENDING / OPEN (Evvolve Jr., Double Pedestal drafts, $0 prices, placeholder weights).
-- Published so far: 91 pages in scripts/registry.json (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
+- Published so far: 92 pages in scripts/registry.json (Nov 19: +86484) (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
 
 ## Who and what
 - I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).

@@ -726,5 +726,13 @@
   "seo_title": "Cortech Aluminum Meal Tray Drying Rack at Anchortex",
   "seo_desc": "Shop the Cortech Meal Tray Drying Rack. A mobile aluminum rack on casters for drying and storing 120 to 288 meal trays, with a lifetime rust warranty.",
   "baseline": "baselines/cortech/cortech-meal-tray-drying-rack.json"
+ },
+ {
+  "handle": "cortech-86484-razorback-stackable-chair",
+  "html": "shopify-html/CT-86484.html",
+  "subtitle": "Virtually Unbreakable One-Piece Molded Stack Chair with Muscle-Back Legs, Rated for Outdoor Use",
+  "seo_title": "Cortech Razorback Stackable Chair - 86484 at Anchortex",
+  "seo_desc": "Shop the Cortech Razorback Stackable Chair, a virtually unbreakable one-piece molded stack chair with Muscle-Back legs, rated for indoor or outdoor use.",
+  "baseline": "baselines/cortech/cortech-86484-razorback-stackable-chair.json"
  }
 ]
