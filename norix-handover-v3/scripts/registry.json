@@ -758,5 +758,13 @@
   "seo_title": "Cortech Sentinel Armless Chair - 116484 / 116484S at Anchortex",
   "seo_desc": "Shop the Cortech Sentinel Armless Chair, a compact molded chair that stands alone or bolts together, with a ballast door option. Rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-116484-sentinel-armless-chair.json"
+ },
+ {
+  "handle": "cortech-146484-radial-rocker-chair",
+  "html": "shopify-html/CT-146484.html",
+  "subtitle": "One-Piece Molded Rocking Chair with a Smooth 56° Rocking Radius and an Optional Ballast Door",
+  "seo_title": "Cortech Radial Rocker Molded Rocking Chair - 146484 / 146484S",
+  "seo_desc": "Shop the Cortech Radial Rocker Chair, a one-piece molded rocking chair with a smooth 56° rocking radius and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-146484-radial-rocker-chair.json"
  }
 ]

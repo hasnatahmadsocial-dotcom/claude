@@ -49,12 +49,13 @@ Read this block first, then the rest of the file (rules, history). The last sess
 - **116484 Sentinel Armless**: set given Nov 19. Same as 106484: intro 2 "…and can be ballasted with sand for safety (model 116484S)." (rest struck), seating series, meta ". A" -> ", a" (". Rated for outdoor use." 2nd sentence kept, not an "A…" sentence). Photos "5 is enough, use the 18-color chart" -> Sand, Claylight, Seagrass, Tide, Midnight Blue (page had Black, Green, Brown, Blue Gray) + chart replaces old (img 5), chart LAST. Weight 35 -> 30 both (spec). Sheet U113:X114 = 30/24/24/33. Baseline saved Nov 19 (= Nov 17 copy).
   - **116484 PUBLISHED Nov 19 14:17**: live check passed (30 lb both, 10 images: 4 old + chart + 5 colors; "IMAGES removed: 1 of 5" EXPECTED). Chart moved to image 10 (last), verified 14:18. In registry (95).
 - **146484 Radial Rocker**: set given Nov 19. Intro 2 "…and can be ballasted with sand for safety (model 146484S)." (rest struck), seating series, meta ", a". Andrew on H1 note: "Add 'molded rocking chair' somewhere as keywords" -> H1 "Cortech Radial Rocker Molded Rocking Chair – 146484 / 146484S" + SEO title "Cortech Radial Rocker Molded Rocking Chair - 146484 / 146484S" (61, no "at Anchortex"); intro bold name kept "Cortech Radial Rocker Chair" (already followed by "a molded rocking chair"). Photos 5 + chart: Sand, Claylight, Seagrass, Tide, Midnight Blue (page had Slate Blue, Indigo, Burgundy, Black). Weight 70 -> 60 both. Sheet U115:X116 = 60/30/45/40. Baseline saved Nov 19 (= Nov 17 copy).
+  - **146484 PUBLISHED Nov 19 14:30**: live check passed (60 lb both; 10 images: 4 old + 5 colors + 18-color chart LAST; "IMAGES removed: 1 of 5" EXPECTED). In registry (96). All 5 seating products (86484, 96484, 106484, 116484, 146484) done.
 
 ### Still open from before (details further down)
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
 - Norix items in PENDING / OPEN (Evvolve Jr., Double Pedestal drafts, $0 prices, placeholder weights).
-- Published so far: 95 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484) (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
+- Published so far: 96 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484) (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
 
 ## Who and what
 - I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).
