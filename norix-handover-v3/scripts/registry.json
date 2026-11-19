@@ -726,5 +726,45 @@
   "seo_title": "Cortech Aluminum Meal Tray Drying Rack at Anchortex",
   "seo_desc": "Shop the Cortech Meal Tray Drying Rack. A mobile aluminum rack on casters for drying and storing 120 to 288 meal trays, with a lifetime rust warranty.",
   "baseline": "baselines/cortech/cortech-meal-tray-drying-rack.json"
+ },
+ {
+  "handle": "cortech-86484-razorback-stackable-chair",
+  "html": "shopify-html/CT-86484.html",
+  "subtitle": "Virtually Unbreakable One-Piece Molded Stack Chair with Muscle-Back Legs, Rated for Outdoor Use",
+  "seo_title": "Cortech Razorback Stackable Chair - 86484 at Anchortex",
+  "seo_desc": "Shop the Cortech Razorback Stackable Chair, a virtually unbreakable one-piece molded stack chair with Muscle-Back legs, rated for indoor or outdoor use.",
+  "baseline": "baselines/cortech/cortech-86484-razorback-stackable-chair.json"
+ },
+ {
+  "handle": "cortech-96484-sabre-sectional-lounge-chair",
+  "html": "shopify-html/CT-96484.html",
+  "subtitle": "One-Piece Molded Lounge Chair That Stands Alone or Bolts Together, with an Optional Ballast Door",
+  "seo_title": "Cortech Sabre Lounge Chair - 96484 / 96484S at Anchortex",
+  "seo_desc": "Shop the Cortech Sabre Lounge Chair, a one-piece molded lounge chair that stands alone or bolts together, with an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-96484-sabre-sectional-lounge-chair.json"
+ },
+ {
+  "handle": "cortech-106484-sentinel-arm-chair",
+  "html": "shopify-html/CT-106484.html",
+  "subtitle": "One-Piece Molded Arm Chair That Stands Alone or Bolts Together, with an Optional Ballast Door",
+  "seo_title": "Cortech Sentinel Arm Chair - 106484 / 106484S at Anchortex",
+  "seo_desc": "Shop the Cortech Sentinel Arm Chair, a one-piece molded arm chair that stands alone or bolts together, with an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-106484-sentinel-arm-chair.json"
+ },
+ {
+  "handle": "cortech-116484-sentinel-armless-chair",
+  "html": "shopify-html/CT-116484.html",
+  "subtitle": "Compact One-Piece Molded Armless Chair That Stands Alone or Bolts Together, with an Optional Ballast Door",
+  "seo_title": "Cortech Sentinel Armless Chair - 116484 / 116484S at Anchortex",
+  "seo_desc": "Shop the Cortech Sentinel Armless Chair, a compact molded chair that stands alone or bolts together, with a ballast door option. Rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-116484-sentinel-armless-chair.json"
+ },
+ {
+  "handle": "cortech-146484-radial-rocker-chair",
+  "html": "shopify-html/CT-146484.html",
+  "subtitle": "One-Piece Molded Rocking Chair with a Smooth 56° Rocking Radius and an Optional Ballast Door",
+  "seo_title": "Cortech Radial Rocker Molded Rocking Chair - 146484 / 146484S",
+  "seo_desc": "Shop the Cortech Radial Rocker Chair, a one-piece molded rocking chair with a smooth 56° rocking radius and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-146484-radial-rocker-chair.json"
  }
 ]
