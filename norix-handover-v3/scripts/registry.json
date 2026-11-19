@@ -742,5 +742,13 @@
   "seo_title": "Cortech Sabre Lounge Chair - 96484 / 96484S at Anchortex",
   "seo_desc": "Shop the Cortech Sabre Lounge Chair, a one-piece molded lounge chair that stands alone or bolts together, with an optional ballast door, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-96484-sabre-sectional-lounge-chair.json"
+ },
+ {
+  "handle": "cortech-106484-sentinel-arm-chair",
+  "html": "shopify-html/CT-106484.html",
+  "subtitle": "One-Piece Molded Arm Chair That Stands Alone or Bolts Together, with an Optional Ballast Door",
+  "seo_title": "Cortech Sentinel Arm Chair - 106484 / 106484S at Anchortex",
+  "seo_desc": "Shop the Cortech Sentinel Arm Chair, a one-piece molded arm chair that stands alone or bolts together, with an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-106484-sentinel-arm-chair.json"
  }
 ]

@@ -45,12 +45,13 @@ Read this block first, then the rest of the file (rules, history). The last sess
 - **96484 Sabre**: set given Nov 19. Andrew: intro 2 shortened to "…with no steel or wood components, and can be ballasted with sand for safety (model 96484S)." (rest struck) and **RULE: "Make this change for most of these items to keep the paragraph short"** -> apply the same short intro-2 style to the other seating/table tabs that have a long bolting/ballast/outdoor sentence (check each tab for his marks first). Seating series as 86484. Meta ", a". Photos: "Add a representative number of colors. I think 5. And yes, replace the chart" -> added Black (96484S, access door), Sand, Claylight, Seagrass, Tide (page already had Slate Blue, Burgundy, Midnight Blue, Gray, Brown); old 12-color chart (img 7) -> images/Cortech-Endurance-18-Color-Chart.jpg. images/cortech-96484/ + zip. Weight 40 -> 38 both (spec; 88 ballasted in text). Sheet U109:X110 = 38/31/32/33 written. Baseline saved Nov 19 (= Nov 17 copy).
   - **96484 PUBLISHED Nov 19 13:59**: live check passed (38 lb both, 12 images: 6 old + 5 colors + 18-color chart; old chart removed = "IMAGES removed: 1 of 7" EXPECTED). Chart moved to image 12 (last), verified 14:00. In registry (93).
 - **106484 Sentinel Arm**: set given Nov 19. Same pattern as Sabre: intro 2 "…no steel or wood components, and can be ballasted with sand for safety (model 106484S)." (rest struck), seating series, meta ", a". Photos: "5 is enough, use the 18-color chart" -> Black, Sand, Claylight, Seagrass, Tide (page had Blue Gray, Midnight Blue, Aqua, Indigo) + chart replaces old 12-color chart (img 5), chart LAST. images/cortech-106484/ + zip. Weight 40 -> 35 both (spec). Sheet U111:X112 = 35/24/24/33. Baseline saved Nov 19 (= Nov 17 copy).
+  - **106484 PUBLISHED Nov 19 14:10**: live check passed (35 lb both, 10 images: 4 old + chart + 5 colors; old chart removed = "IMAGES removed: 1 of 5" EXPECTED). Chart is image 5, asked Zeemal to move it last. In registry (94).
 
 ### Still open from before (details further down)
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
 - Norix items in PENDING / OPEN (Evvolve Jr., Double Pedestal drafts, $0 prices, placeholder weights).
-- Published so far: 93 pages in scripts/registry.json (Nov 19: +86484, +96484) (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
+- Published so far: 94 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484) (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
 
 ## Who and what
 - I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).
