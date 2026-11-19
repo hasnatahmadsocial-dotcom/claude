@@ -11,13 +11,11 @@ BED_COLL=f"Explore Anchortex's [Behavioral Healthcare Anti-Ligature Furniture]({
 HOOK_COLL=f"Explore Anchortex's [Hardware for Behavioral Health Care Facilities]({HWB}) and [Prison & Detention Hardware & Equipment]({HWC}) collections for more ligature resistant hardware."
 SEAT_SERIES=[
 ('h3','[H2] About Cortech Seating'),
-('p','Cortech seating is molded for dayrooms, lounges, dining areas, and patient rooms in behavioral healthcare and correctional facilities, where chairs are used hard every day and must be difficult to break or tamper with.'),
-('p','Cortech seating includes:'),
+('p','Cortech molded seating is designed for dayrooms, lounges, dining areas, and patient rooms in behavioral healthcare and correctional facilities, where chairs are used hard every day and must be difficult to break or tamper with.'),
+('p','Cortech molded seating includes:'),
 ('b1','**Stacking Chairs:** The Razorback injection molded stack chair'),
-('b1','**Lounge and Group Seating:** The Sabre Lounge Chair and the Sentinel Arm and Armless Chairs, which stand alone or bolt together'),
+('b1','**Lounge and Group Seating:** Sabre and Sentinel Chairs stand alone or bolt together. The Endurance, Sync, and Summit collections include guest chairs, accent chairs and tables, lounge chairs, and benches.'),
 ('b1','**Rocking Chairs:** The Radial Rocker'),
-('b1','**Summit Series:** Guest chairs, accent chairs, lounge chairs, and stools, with an optional Veldura soft-touch finish'),
-('b1','**Endurance Series:** Crew chairs, benches, and floor mounted stools'),
 ]
 SUMMIT_SERIES=[
 ('h3','[H2] About Cortech Summit Series'),
@@ -84,7 +82,7 @@ add(tab='86484 - Cortech Razorback Stackable Chair',short='86484: Cortech Razorb
   ['Dayrooms, dining areas, and visitation rooms in correctional facilities and jails','Group rooms and activity rooms in behavioral healthcare facilities and psychiatric hospitals','Schools, shelters, and other intense use settings'],END_COLL),
  series=SEAT_SERIES,
  mt='Cortech Razorback Stackable Chair - 86484 at Anchortex',
- md='Shop the Cortech Razorback Stackable Chair. A virtually unbreakable one-piece molded stack chair with Muscle-Back legs, rated for indoor or outdoor use.',
+ md='Shop the Cortech Razorback Stackable Chair, a virtually unbreakable one-piece molded stack chair with Muscle-Back legs, rated for indoor or outdoor use.',
  notes=[SER_SEAT,
   'H1: I took out "High-Strength Rotationally Molded Polypropylene" and "Model." The Cortech spec sheet says the Razorback is injection molded, not rotationally molded.',
   'Weight: your variant is set to 255 lbs, which looks like a placeholder. The Cortech spec sheet says 8.25 lbs, so I used that.',
