@@ -734,5 +734,13 @@
   "seo_title": "Cortech Razorback Stackable Chair - 86484 at Anchortex",
   "seo_desc": "Shop the Cortech Razorback Stackable Chair, a virtually unbreakable one-piece molded stack chair with Muscle-Back legs, rated for indoor or outdoor use.",
   "baseline": "baselines/cortech/cortech-86484-razorback-stackable-chair.json"
+ },
+ {
+  "handle": "cortech-96484-sabre-sectional-lounge-chair",
+  "html": "shopify-html/CT-96484.html",
+  "subtitle": "One-Piece Molded Lounge Chair That Stands Alone or Bolts Together, with an Optional Ballast Door",
+  "seo_title": "Cortech Sabre Lounge Chair - 96484 / 96484S at Anchortex",
+  "seo_desc": "Shop the Cortech Sabre Lounge Chair, a one-piece molded lounge chair that stands alone or bolts together, with an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-96484-sabre-sectional-lounge-chair.json"
  }
 ]
