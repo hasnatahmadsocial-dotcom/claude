@@ -750,5 +750,13 @@
   "seo_title": "Cortech Sentinel Arm Chair - 106484 / 106484S at Anchortex",
   "seo_desc": "Shop the Cortech Sentinel Arm Chair, a one-piece molded arm chair that stands alone or bolts together, with an optional ballast door, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-106484-sentinel-arm-chair.json"
+ },
+ {
+  "handle": "cortech-116484-sentinel-armless-chair",
+  "html": "shopify-html/CT-116484.html",
+  "subtitle": "Compact One-Piece Molded Armless Chair That Stands Alone or Bolts Together, with an Optional Ballast Door",
+  "seo_title": "Cortech Sentinel Armless Chair - 116484 / 116484S at Anchortex",
+  "seo_desc": "Shop the Cortech Sentinel Armless Chair, a compact molded chair that stands alone or bolts together, with a ballast door option. Rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-116484-sentinel-armless-chair.json"
  }
 ]
