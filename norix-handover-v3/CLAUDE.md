@@ -52,12 +52,13 @@ Read this block first, then the rest of the file (rules, history). The last sess
   - **146484 PUBLISHED Nov 19 14:30**: live check passed (60 lb both; 10 images: 4 old + 5 colors + 18-color chart LAST; "IMAGES removed: 1 of 5" EXPECTED). In registry (96). All 5 seating products (86484, 96484, 106484, 116484, 146484) done.
 - **330 Summit Stool**: done by ANOTHER session (session_01Gag7eMKXPnVCySAbHGZKqZ, commit 5d0103c): Andrew's ** notes on the 330 tab "apply to all Summit products": intro 2 "remove small details from this paragraph if they are listed below" (-> "…or the 330S can be ballasted with sandbags on site."), install "Can be factory weighted", SUMMIT_SERIES "comes in either a standard…", meta ", a". Not in registry yet (check with Zeemal).
 - **331 Summit Veldura Stool**: set given Nov 19. Summit rules from 330 applied (intro 2 -> "…or the 331S can be ballasted with sandbags on site."; install "Can be factory weighted"; series "either"; meta ", a"). Andrew on 331: variant rename "331 - No ballast door" / "331S - Ballast door" = Yes; prices "MSRP = Compare at $688.00 and $864.00, standard 20% discount for our price" -> $550.40 / $691.20 (APPROVED PRICE CHANGE; review.py will flag PRICE changed = expected); Tide photo yes (Cortech Summit-Veldura-Stool-Tide, 2560). Weight 255 -> 12 both. Sheet U126:X127 = 12/20/21/18 (sheet col I still says 311, not changed, same as 8602 precedent). Baseline saved Nov 19.
+  - **331 PUBLISHED Nov 19 17:17**: live check passed: variants renamed 331/331S, prices 550.40/688.00 and 691.20/864.00 (Andrew MSRP; review.py "PRICE changed" x2 = EXPECTED), 12 lb both, 5 images (Tide added). In registry.
 
 ### Still open from before (details further down)
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
 - Norix items in PENDING / OPEN (Evvolve Jr., Double Pedestal drafts, $0 prices, placeholder weights).
-- Published so far: 96 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484) (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
+- Published so far: 97 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484, +331) (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
 
 ## Who and what
 - I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).

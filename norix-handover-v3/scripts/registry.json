@@ -766,5 +766,13 @@
   "seo_title": "Cortech Radial Rocker Molded Rocking Chair - 146484 / 146484S",
   "seo_desc": "Shop the Cortech Radial Rocker Chair, a one-piece molded rocking chair with a smooth 56° rocking radius and an optional ballast door, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-146484-radial-rocker-chair.json"
+ },
+ {
+  "handle": "cortech-331-summit-veldura-stool",
+  "html": "shopify-html/CT-331.html",
+  "subtitle": "Compact Molded Stool with a Veldura Soft-Touch Finish and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Veldura Stool - 331 / 331S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Veldura Stool, a compact molded stool with a Veldura soft-touch finish and an optional ballast door for behavioral health spaces.",
+  "baseline": "baselines/cortech/cortech-331-summit-veldura-stool.json"
  }
 ]
