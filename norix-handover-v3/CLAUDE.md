@@ -2,6 +2,41 @@
 
 Read this whole file before doing anything. It replaces handover v2. Everything that happened up to Nov 11 is recorded here.
 
+## >>> START HERE (handover Nov 19, 2026) <<<
+Read this block first, then the rest of the file (rules, history). The last session ran out of room; this is where things stand.
+
+### What is happening now
+- **Andrew is commenting on Cortech group 4 right now** (main Cortech doc, tabs 59-81). Zeemal will push group 4 to Shopify one product at a time, same process as group 5 (see "Group 5 push" below): give the "Shopify set", Zeemal saves it, Zeemal says "check live", you run the full review.
+- **Zeemal is also in a text meeting with Andrew's SEO consultant.** Zeemal will paste the consultant's questions. Answer in Zeemal's voice ("I"), short and human, ready to paste. Only describe what was actually done (sources = manufacturer spec sheets; doc review by Andrew; one-at-a-time publishing with baseline + automated live check; collection-only links; no alt text on new images = Andrew's rule; no keyword research tool or schema work was done, say so honestly). If something is Andrew's decision, say so.
+
+### Main Cortech doc is now TOO BIG for the Google Docs connector
+- Doc: https://docs.google.com/document/d/1T0Hozcn_pF5zEEwvWdctg4Rrm0LIzRzYZ3fB3JaJliM/edit (81 tabs: groups 1-5 + group 4 in tabs 59-81). `read_doc` crashes the connector ("message too large"). Do NOT keep retrying it.
+- Workaround (works, doc is link-shared): download the public export into the scratchpad:
+  - `curl -sSL -o <dir>/main.html "https://docs.google.com/document/d/1T0Hozcn_pF5zEEwvWdctg4Rrm0LIzRzYZ3fB3JaJliM/export?format=html"`
+  - `curl -sSL -o <dir>/main.txt  ".../export?format=txt"` (plain text, good for comparing text with our sources)
+- **Andrew's comments:** `python3 -I scripts/andrew_html.py <dir>/main.html [filter ...]` prints, per product H1, every paragraph with [HL ...] (his highlight) or [STRIKE ...] (his strikethrough). Filter by H1 text, e.g. `86484` `"310 /"`. The HTML export does NOT show tables as tables; check table cells by eye in the output if he answers in a table.
+- Writing to the doc still works with `update_doc`, but you no longer know indices/tab IDs. For a small fix use `replaceAllText` on a string that is unique in the whole doc (check uniqueness in main.txt first).
+- Known: HM HookMax tab, Applications bullet reads "…correctional facilities and jailsg" (stray "g", probably Andrew's typing). Not fixed yet; ask Zeemal.
+
+### Group 4 = 23 products, all in the main doc (verified Nov 19 against source via the txt export)
+- Source of truth (Andrew's edits must be applied HERE, then HTML generated): `cortech/g6/pc6.py` (batch 1, 10 products) and `cortech/g6/pc7.py` (batch 2, 13 products). Checks: `cd cortech/g6; python3 -I mc6.py` / `python3 -I mc7.py` (MT 50-65, MD 140-160, dashes, double spaces...).
+- **HTML for Shopify:** `cd cortech/g6; python3 -I gen6.py "<tab title prefix>" ../../shopify-html/CT-<CODE>.html` (covers all 23; prints the HTML + checks + H1/SUB/MT/MD). Tab prefix examples: "86484", "96484", "HMP", "HM -", "310 ", "361 / 363".
+- Baselines BEFORE any change: `curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM" > baselines/cortech/<handle>.json` (copies from Nov 17/18, before any change, are in cortech/g6/live/ if the store shows the bot page).
+- Research per product: cortech/g6/spec (spec PDFs+txt), g6/site (Cortech pages incl. FAQ), g6/live + g6/page (live store), live_summary_b1.txt / live_summary_b2.txt.
+- Worksheet rows (Cortech sheet "Products"; fill U-X Weight/L/W/H from spec when publishing; Y "Outdoor" already done):
+  - Batch 1: 86484 r108, 96484 r109-110, 106484 r111-112, 116484 r113-114, 146484 r115-116, 330 r124-125, 331 r126-127, 100 r128-129, 101 r130-131, HMP r132.
+  - Batch 2: HM r133, 320 r134-135, 321 r136-137, 342/343 r138-139, 353/354 r140-141, 361/363/364 r142-144, 210 r145-146, 215 r147, SafeBin r148, 300 r149-150, 301 r151-152, 311 r153-154, 310 r155-156.
+  - Rows 117-123 = Sync 270/272/274/276: SKIPPED on purpose (Andrew: no longer Endurance). Do not document them.
+- Spec weights used in the tabs (live mostly 255 placeholder): 320/321 50, 342/343 23, 353/354 51, 361 round 72 / delta 61 (base 16 + top), 210 126, 215 26 (live 29), SafeBin 115, 300/301 21, 310/311 27, HM no spec weight (live 5). Batch 1 weights: see pc6.py.
+- Andrew comments seen so far (Nov 19, partial, he is still going): 86484 "our error" (Brown code note), "yes" (photos); 86484 + 96484 meta descriptions changed ". A" -> ", a"; 96484 and 106484: intro sentence about bolting/ballast door/outdoor STRUCK and replaced by his HL ", and can be ballasted with sand for safety (model 96484S)." / "(model 106484S)."; 96484 colors: "Add a representative number of colors. I think 5. And yes, replace the chart". Run andrew_html.py again for the full, current list before each set.
+- Rules to keep applying (from earlier groups): apply ONLY Andrew's marks, add nothing of your own (no extra alt text, renames, sheet comments); a rule he gives on one tab applies to all similar tabs; "Hardware not included" at the end of install bullets (unless Cortech says hardware is included); "do not use loose sand"; collection links only; no em dashes; en dash only in H1 before model numbers and in model labels; swap old 12-color charts for images/Cortech-Endurance-18-Color-Chart.jpg when he says yes; never invent SKUs.
+
+### Still open from before (details further down)
+- Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
+- Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
+- Norix items in PENDING / OPEN (Evvolve Jr., Double Pedestal drafts, $0 prices, placeholder weights).
+- Published so far: 91 pages in scripts/registry.json (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
+
 ## Who and what
 - I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).
 - The job is SEO rewrites of product pages (PDPs). Brands so far: **Norix** (most of the work) and **Cortech** (new brand from Nov 10, a Norix competitor; Andrew wants it documented exactly like Norix).
