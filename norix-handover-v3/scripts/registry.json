@@ -712,12 +712,12 @@
   "baseline": "baselines/cortech/cortech-2000xfl-flexible-lid-for-rock-trays-with-cor-flex.json"
  },
  {
-  "handle": "cortech-cobra-can-flame-retardant-trash-receptacle",
+  "handle": "cortech-cobra-can-trash-receptacle",
   "html": "shopify-html/CT-CobraCan.html",
   "subtitle": "Virtually Unbreakable Molded Trash Can in Nine Sizes from 20 to 55 Gallons, in Flame Retardant or Food Grade Material",
   "seo_title": "Cortech Cobra Can Heavy Duty Trash Receptacle at Anchortex",
   "seo_desc": "Shop the Cortech Cobra Can. A virtually unbreakable molded trash can in nine sizes from 20 to 55 gallons, in flame retardant or food grade material.",
-  "baseline": "baselines/cortech/cortech-cobra-can-flame-retardant-trash-receptacle.json"
+  "baseline": "baselines/cortech/cortech-cobra-can-trash-receptacle.json"
  },
  {
   "handle": "cortech-meal-tray-drying-rack",
@@ -774,5 +774,13 @@
   "seo_title": "Cortech Summit Veldura Stool - 331 / 331S at Anchortex",
   "seo_desc": "Shop the Cortech Summit Veldura Stool, a compact molded stool with a Veldura soft-touch finish and an optional ballast door for behavioral health spaces.",
   "baseline": "baselines/cortech/cortech-331-summit-veldura-stool.json"
+ },
+ {
+  "handle": "cortech-330-summit-stool",
+  "html": "shopify-html/CT-330.html",
+  "subtitle": "Compact One-Piece Molded Stool with Rounded Edges and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Molded Stool - 330 / 330S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Stool, a compact one-piece molded stool with rounded edges and an optional ballast door for behavioral health and outdoor spaces.",
+  "baseline": "baselines/cortech/cortech-330-summit-stool.json"
  }
 ]

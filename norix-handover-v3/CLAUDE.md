@@ -54,11 +54,19 @@ Read this block first, then the rest of the file (rules, history). The last sess
 - **331 Summit Veldura Stool**: set given Nov 19. Summit rules from 330 applied (intro 2 -> "…or the 331S can be ballasted with sandbags on site."; install "Can be factory weighted"; series "either"; meta ", a"). Andrew on 331: variant rename "331 - No ballast door" / "331S - Ballast door" = Yes; prices "MSRP = Compare at $688.00 and $864.00, standard 20% discount for our price" -> $550.40 / $691.20 (APPROVED PRICE CHANGE; review.py will flag PRICE changed = expected); Tide photo yes (Cortech Summit-Veldura-Stool-Tide, 2560). Weight 255 -> 12 both. Sheet U126:X127 = 12/20/21/18 (sheet col I still says 311, not changed, same as 8602 precedent). Baseline saved Nov 19.
   - **331 PUBLISHED Nov 19 17:17**: live check passed: variants renamed 331/331S, prices 550.40/688.00 and 691.20/864.00 (Andrew MSRP; review.py "PRICE changed" x2 = EXPECTED), 12 lb both, 5 images (Tide added). In registry.
 
+- 330 Summit Stool: live check Nov 19 passed (ISSUES none) -> added to registry.
+- ANDREW Nov 19 message: "reviewed and commented on the rest of the Cortech products; if comments are clear, update in Shopify". Doc export cortech main9.html (81 tabs, 0-80).
+  - Cobra Can Combined: Andrew moved the combined product (ID 8879533523180, the old FR product) to NEW URL cortech-cobra-can-trash-receptacle (old FR + FG + dolly URLs 404/redirected). He did H1 (no material), intro, struck dolly sizes, renamed variants "20200FR - Flame Retardant - 20 gal - Gray" / "20620B - General Use - 20 gal - Blue", set ALL 18 SKUs to plain C601095 ("easy to add -01 etc. in the spreadsheet for import" = his job, don't touch). Left for us: "Under Available Models, list all colors and part numbers" -> shopify-html/CT-CobraCan.html = live body + 5 food grade color lines (Green 720G, Red 584R, White 2W, Yellow 451Y, Black 116B from the Gen Use spec). FR Green/Blue have no part numbers on the spec -> not listed. Registry entry moved to new handle; baseline baselines/cortech/cortech-cobra-can-trash-receptacle.json (Nov 19). Sheet: Andrew marked rows 226-235 "deleted 11/19/2026" (looks shifted: kept product is the FR ID).
+  - HM + HMP: "Rewrite, combine HM and HMP into 1 product. Use HM - keep this url (cortech-hm-ligature-resistant-hookmax-wall-hook), use C601082-01, -02. H1: Cortech Ligature Resistant Wall Hooks – HookMax / HookMax+ / HM / HMP. HMP was deleted and redirected." Colors = yes (both), dims "make bigger for a pack of 5". Open: 10 color variants vs only 2 SKUs given; pack dims not given.
+  - 330 "** notes apply to all Summit products" (already applied on 330/331; apply to 320, 321, 342/343, 353/354, 361/363/364, 300, 301, 311, 310).
+  - Newly assigned 11/19: CG Corner Guards (sheet rows 250-341) and TP Tiger Plates (rows 342-349), previously Skip. Need doc tabs first.
+  - Date published gaps (Nov 19 sheet cortech/cortech_sheet_nov19.json): row 80 X-Series 36SVPX (live, group 3, others 11/13); rows 124-127 330/331 (live Nov 19); rows 203-212 Mini Can (live Nov 17); Cobra rows 225 + 236-243 blank.
+
 ### Still open from before (details further down)
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
 - Norix items in PENDING / OPEN (Evvolve Jr., Double Pedestal drafts, $0 prices, placeholder weights).
-- Published so far: 97 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484, +331) (35 Norix, 56 Cortech). `bash scripts/check_all.sh` re-checks them all.
+- Published so far: 98 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484, +331, +330) (35 Norix, 57 Cortech). `bash scripts/check_all.sh` re-checks them all.
 
 ## Who and what
 - I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).
