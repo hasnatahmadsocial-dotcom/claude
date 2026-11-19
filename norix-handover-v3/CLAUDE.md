@@ -5,6 +5,13 @@ Read this whole file before doing anything. It replaces handover v2. Everything 
 ## >>> START HERE (handover Nov 19, 2026) <<<
 Read this block first, then the rest of the file (rules, history). The last session ran out of room; this is where things stand.
 
+### Access and links (Zeemal, Nov 19)
+- Zeemal will send the doc/sheet link with each task. Before working, TEST access (read, and for sheets a no-change write) and say at once if you can't read or edit something.
+- The latest files live in Zeemal's other Google account. That's fine: they are shared, and the connector here can use them.
+- Verified Nov 19: Cortech Google Sheet https://docs.google.com/spreadsheets/d/1ioRl_r8Wn0x9pRKFPphvAH66RY4qp9duUVR492Tm8eU/edit ("Products") is READ + WRITE via the Sheets connector (row 1 headers: R Date assigned, S Date published, T Comments, U Weight (lb), V Length, W Width, X Height; Y = Outdoor, no header).
+- The main Cortech doc (81 tabs) is too big for read_doc on ANY account. The export workaround needs docs.google.com allowed in the session's network; on Nov 19 it was blocked (curl returned 000). Ask Zeemal before requesting the host.
+- GitHub: push access to hasnatahmadsocial-dotcom/claude, work in /home/user/claude on branch claude/norix-handover-xqty9o, push with `git -c push.negotiate=true push -u origin claude/norix-handover-xqty9o`. Zeemal wants updates saved to GitHub.
+
 ### What is happening now
 - **Andrew is commenting on Cortech group 4 right now** (main Cortech doc, tabs 59-81). Zeemal will push group 4 to Shopify one product at a time, same process as group 5 (see "Group 5 push" below): give the "Shopify set", Zeemal saves it, Zeemal says "check live", you run the full review.
 - **Zeemal is also in a text meeting with Andrew's SEO consultant.** Zeemal will paste the consultant's questions. Answer in Zeemal's voice ("I"), short and human, ready to paste. Only describe what was actually done (sources = manufacturer spec sheets; doc review by Andrew; one-at-a-time publishing with baseline + automated live check; collection-only links; no alt text on new images = Andrew's rule; no keyword research tool or schema work was done, say so honestly). If something is Andrew's decision, say so.
