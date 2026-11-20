@@ -902,5 +902,13 @@
   "seo_title": "Cortech Summit Veldura Accent Chair - 311 / 311S at Anchortex",
   "seo_desc": "Shop the Cortech Summit Veldura Accent Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-311-summit-veldura-accent-chair.json"
+ },
+ {
+  "handle": "cortech-310-summit-accent-chair",
+  "html": "shopify-html/CT-310.html",
+  "subtitle": "One-Piece Molded Accent Chair with a Residential Look and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Molded Accent Chair - 310 / 310S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Accent Chair, a one-piece molded accent chair with a calm, residential look and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-310-summit-accent-chair.json"
  }
 ]
