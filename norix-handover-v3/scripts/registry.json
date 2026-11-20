@@ -806,5 +806,13 @@
   "seo_title": "Cortech Solstice Safeguard Bed - 101 / 101S3 at Anchortex",
   "seo_desc": "Shop the Cortech Solstice Safeguard Bed, a one-piece molded bed with raised side panels for fall-risk patients and optional underside ballast doors.",
   "baseline": "baselines/cortech/cortech-101-101s3-solstice-safetyguard-behavioral-health-bed-with-guardrails.json"
+ },
+ {
+  "handle": "cortech-100-100s3-solstice-behavioral-health-bed",
+  "html": "shopify-html/CT-100.html",
+  "subtitle": "One-Piece Molded Bed with Raised Head and Footboards for a 36”×75” Mattress, with Optional Ballast Doors",
+  "seo_title": "Cortech Solstice Molded Bed - 100 / 100S3 at Anchortex",
+  "seo_desc": "Shop the Cortech Solstice Bed, a one-piece molded bed with raised head and footboards for a 36”×75” mattress that bolts down or takes ballast weight.",
+  "baseline": "baselines/cortech/cortech-100-100s3-solstice-behavioral-health-bed.json"
  }
 ]
