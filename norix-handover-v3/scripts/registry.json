@@ -870,5 +870,13 @@
   "seo_title": "Cortech Sequoia Molded Wood Grain Nightstand - 215 at Anchortex",
   "seo_desc": "Shop the Cortech Sequoia Nightstand, a one-piece molded nightstand with a wood grain finish and rounded edges, made to match the Sequoia Bed in patient rooms.",
   "baseline": "baselines/cortech/cortech-215-sequoia-molded-wood-grain-night-stand.json"
+ },
+ {
+  "handle": "cortech-35-safebin-trash-receptacle",
+  "html": "shopify-html/CT-35.html",
+  "subtitle": "Lockable Molded Trash Receptacle with a Tamper-Resistant Chute and a 35-Gallon Inner Container",
+  "seo_title": "Cortech SafeBin Lockable Trash Receptacle - 35 at Anchortex",
+  "seo_desc": "Shop the Cortech SafeBin, a lockable molded trash receptacle with a tamper-resistant chute and a 35-gallon inner container that bolts to the floor or wall.",
+  "baseline": "baselines/cortech/cortech-35-safebin-trash-receptacle.json"
  }
 ]

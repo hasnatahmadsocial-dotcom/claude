@@ -81,6 +81,7 @@ Read this block first, then the rest of the file (rules, history). The last sess
   - **215 PUBLISHED Nov 20**: passed (renamed "215 - Sequoia Nightstand", 26 lb, 6 images, chart LAST). review.py does not flag the rename as an issue. In registry (109). Sheet S147 = 11/20/2026.
   - **35 SafeBin**: set given Nov 20. Andrew: apps bullet 1 = "Housing units, dayrooms, common areas and outdoor spaces in correctional facilities and jails" (his text); series: STRUCK "Can Dollies" line; "Secure Waste Bins" line on the other FM pages = YES; meta ", a"; variant rename "35_BK - Safebin" -> "35AQBK - Aqua" ("Maybe we will add more colors later"); photos "Yes, if helpful" -> 35BKSG closed + door open (Stone Gray body) images/cortech-35/. Weight 115 already. No dims on spec -> sheet U148 = 115 only. Text = doc. Admin https://www.anchortex.com/admin/products/9174004662508.
   - FOLLOW-UP (from SafeBin tab): update "About Cortech Facilities Maintenance" on the 4 live FM pages (Cobra Can combined, Mini Can, Kangaroo Cart, Kangaroo Lid): remove "Can Dollies" line, add "**Secure Waste Bins:** The lockable SafeBin with a 35-gallon inner container". All 4 still have the dolly line and no SafeBin line (checked Nov 20).
+  - **35 SafeBin PUBLISHED Nov 20**: passed (variant "35AQBK - Aqua", 115 lb, 6 images, chart LAST). In registry (110). Sheet S148 = 11/20/2026.
   - HM + HMP: "Rewrite, combine HM and HMP into 1 product. Use HM - keep this url (cortech-hm-ligature-resistant-hookmax-wall-hook), use C601082-01, -02. H1: Cortech Ligature Resistant Wall Hooks – HookMax / HookMax+ / HM / HMP. HMP was deleted and redirected." Colors = yes (both), dims "make bigger for a pack of 5". Open: 10 color variants vs only 2 SKUs given; pack dims not given.
   - 330 "** notes apply to all Summit products" (already applied on 330/331; apply to 320, 321, 342/343, 353/354, 361/363/364, 300, 301, 311, 310).
   - Newly assigned 11/19: CG Corner Guards (sheet rows 250-341) and TP Tiger Plates (rows 342-349), previously Skip. Need doc tabs first.
@@ -90,7 +91,7 @@ Read this block first, then the rest of the file (rules, history). The last sess
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
 - Norix items in PENDING / OPEN (Evvolve Jr., Double Pedestal drafts, $0 prices, placeholder weights).
-- Published so far: 109 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484, +331, +330; Nov 20: +DP, +EJ, +101, +100, +320, +321, +342, +353, +361, +210, +215) (37 Norix, 66 Cortech; count = registry length). `bash scripts/check_all.sh` re-checks them all.
+- Published so far: 110 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484, +331, +330; Nov 20: +DP, +EJ, +101, +100, +320, +321, +342, +353, +361, +210, +215, +35) (37 Norix, 67 Cortech; count = registry length). `bash scripts/check_all.sh` re-checks them all.
 
 ## Who and what
 - I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).
