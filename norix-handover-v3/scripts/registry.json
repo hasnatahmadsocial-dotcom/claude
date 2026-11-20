@@ -838,5 +838,13 @@
   "seo_title": "Cortech Summit Side Table - 342 / 343 at Anchortex",
   "seo_desc": "Shop the Cortech Summit Side Table, a low side table with a one-piece molded base and a laminate delta top in small or medium sizes for behavioral health rooms.",
   "baseline": "baselines/cortech/cortech-342-343-summit-side-table.json"
+ },
+ {
+  "handle": "cortech-353-354-summit-mid-range-table",
+  "html": "shopify-html/CT-353.html",
+  "subtitle": "Mid-Height Table with a Molded Base and a Laminate Delta Top, with an Optional Ballast Door",
+  "seo_title": "Cortech Summit Mid-Range Table - 353 / 354 at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Mid-Range Table, a mid-height table with a one-piece molded base and a laminate delta top, with an optional ballast door for weighting.",
+  "baseline": "baselines/cortech/cortech-353-354-summit-mid-range-table.json"
  }
 ]
