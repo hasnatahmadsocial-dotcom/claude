@@ -105,7 +105,7 @@ add(tab='321 - Cortech Summit Veldura Lounge Chair',short='321 / 321S: Cortech S
  sub='One-Piece Molded Lounge Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door',
  cur_sub='Cortech 321 Summit Veldura Lounge Chair with Veldura Soft-Touch Exterior',
  mt='Cortech Summit Veldura Lounge Chair - 321 / 321S at Anchortex',
- md='Shop the Cortech Summit Veldura Lounge Chair. A one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Veldura Lounge Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
 
 # 4. Summit Side Table 342 / 343
 add(tab='342 / 343 - Cortech Summit Side Table',short='342 / 343: Cortech Summit Side Table',
