@@ -27,13 +27,13 @@ def chair(model,name,vel,w,dims,wt,note_w,imgs,live_dims=None,extra_notes=()):
     S=model+'S'; full=f'Summit {"Veldura " if vel else ""}{name}'
     intro=[f'The **Cortech {full}** is a molded {name.lower()} with a calm, residential look for patient rooms, dayrooms, lounges, and group spaces in behavioral healthcare and other secure settings. '
            +('The Veldura soft-touch surface adds comfort and warmth without giving up durability.' if vel else 'Its rounded edges and smooth surfaces support safety, and it can stand alone or be arranged in groups.'),
-           f'The chair is rotationally molded in one piece from high impact “no break” polyethylene, with no steel or wood components. It can be weighted at the factory, or the {S} can be filled with sandbags on site through a ballast door. The {full} is rated for outdoor use.']
+           f'The chair is rotationally molded in one piece from high impact “no break” polyethylene, with no steel or wood components. It can be weighted at the factory, or the {S} can be ballasted with sandbags on site.']
     b=[NOSTEEL]+([VEL] if vel else [])+[f'**Dimensions:** {dims}',f'**Weight:** {wt}',
        f'**Weighting:** Factory sand ballasting optional; the {S} has a ballast door for adding sandbags on site that closes with tamper-resistant screws. Do not use loose sand',
        OUT,ISO22,FLUL,GGW,CLEAN2,COL18,LIFE,ISO]
     lab='Veldura' if vel else 'Standard'
     models=[f'**{model} – {lab}:** Without ballast door',f'**{S} – {lab} with Ballast Door:** Ballast door for adding sandbags on site']
-    inst=[f'**Weighting:** Factory weighted, or add sandbags on site through the ballast door on the {S}; do not use loose sand. Hardware bit size is T27']
+    inst=[f'**Weighting:** Can be factory weighted, or add sandbags on site through the ballast door on the {S}; do not use loose sand. Hardware bit size is T27']
     notes=[SER_SUM,f'H1: Cortech calls it the {full}. I took out the extra words from your current title and added the {S}.',note_w]
     if live_dims: notes.append(live_dims)
     notes+=list(extra_notes)+[FLN,CORXN,NOBOLT,outn(f'the {full} is'),imgs]
@@ -89,7 +89,7 @@ add(tab='320 - Cortech Summit Lounge Chair',short='320 / 320S: Cortech Summit Lo
  sub='One-Piece Molded Lounge Chair with a Residential Look and an Optional Ballast Door',
  cur_sub='Cortech 320 Summit Lounge Chair',
  mt='Cortech Summit Molded Lounge Chair - 320 / 320S at Anchortex',
- md='Shop the Cortech Summit Lounge Chair. A one-piece molded lounge chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Lounge Chair, a one-piece molded lounge chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
 
 # 3. Summit Veldura Lounge Chair 321
 c=chair('321','Lounge Chair',True,None,'29”W×59”D×35”H','50 lbs',
