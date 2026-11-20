@@ -822,5 +822,13 @@
   "seo_title": "Cortech Summit Molded Lounge Chair - 320 / 320S at Anchortex",
   "seo_desc": "Shop the Cortech Summit Lounge Chair, a one-piece molded lounge chair with a calm, residential look and an optional ballast door, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-320-summit-lounge-chair.json"
+ },
+ {
+  "handle": "cortech-321-summit-veldura-lounge-chair",
+  "html": "shopify-html/CT-321.html",
+  "subtitle": "One-Piece Molded Lounge Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Veldura Lounge Chair - 321 / 321S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Veldura Lounge Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-321-summit-veldura-lounge-chair.json"
  }
 ]
