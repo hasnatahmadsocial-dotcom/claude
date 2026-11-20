@@ -846,5 +846,13 @@
   "seo_title": "Cortech Summit Mid-Range Table - 353 / 354 at Anchortex",
   "seo_desc": "Shop the Cortech Summit Mid-Range Table, a mid-height table with a one-piece molded base and a laminate delta top, with an optional ballast door for weighting.",
   "baseline": "baselines/cortech/cortech-353-354-summit-mid-range-table.json"
+ },
+ {
+  "handle": "cortech-361-363-364-summit-all-purpose-table",
+  "html": "shopify-html/CT-361.html",
+  "subtitle": "Dining Height Table with a Molded Base and a 42” Round or Delta Laminate Top",
+  "seo_title": "Cortech Summit All Purpose Table - 361 / 363 / 364 at Anchortex",
+  "seo_desc": "Shop the Cortech Summit All Purpose Table, a dining-height table with a one-piece molded base and a 42” round or delta laminate top, with an optional game top.",
+  "baseline": "baselines/cortech/cortech-361-363-364-summit-all-purpose-table.json"
  }
 ]
