@@ -830,5 +830,13 @@
   "seo_title": "Cortech Summit Veldura Lounge Chair - 321 / 321S at Anchortex",
   "seo_desc": "Shop the Cortech Summit Veldura Lounge Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-321-summit-veldura-lounge-chair.json"
+ },
+ {
+  "handle": "cortech-342-343-summit-side-table",
+  "html": "shopify-html/CT-342.html",
+  "subtitle": "Low Side Table with a Molded Base and a Laminate Delta Top, in Small or Medium Sizes",
+  "seo_title": "Cortech Summit Side Table - 342 / 343 at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Side Table, a low side table with a one-piece molded base and a laminate delta top in small or medium sizes for behavioral health rooms.",
+  "baseline": "baselines/cortech/cortech-342-343-summit-side-table.json"
  }
 ]
