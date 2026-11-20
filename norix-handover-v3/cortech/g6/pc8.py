@@ -31,7 +31,7 @@ add(tab='HM / HMP - Cortech HookMax Wall Hooks (Combined)',
  install=[],
  apps=apps('The HookMax and HookMax+ suit rooms where residents need a place to hang clothing and towels without creating a ligature point.',
   ['Resident rooms and bathrooms in behavioral healthcare facilities and psychiatric hospitals','Cells and common areas in correctional facilities and jails','Residential treatment centers and shelters'],HOOK_COLL),
- series=HOOK_SERIES,
+ series=[],   # Andrew struck the HookMax series section (Nov 20)
  mt='Cortech Ligature Resistant Wall Hooks - HM / HMP at Anchortex',
  md='Shop Cortech HookMax and HookMax+ ligature resistant wall hooks, flexible hooks that bend and release at a 10 or 20 lb load so ligatures slide off. Packs of 5.',
  notes=['Combined page: as you asked, this tab combines the HookMax (HM) and HookMax+ (HMP) on the HM page and keeps its address. The HMP page was deleted and redirected (your note).',
