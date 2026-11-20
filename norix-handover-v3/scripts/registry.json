@@ -862,5 +862,13 @@
   "seo_title": "Cortech Sequoia Molded Wood Grain Bed - 210 at Anchortex",
   "seo_desc": "Shop the Cortech Sequoia Bed, a one-piece molded platform bed with a wood grain finish, rounded edges, and optional ballast doors for behavioral health rooms.",
   "baseline": "baselines/cortech/cortech-210-sequoia-molded-wood-grain-behavioral-health-bed.json"
+ },
+ {
+  "handle": "cortech-215-sequoia-molded-wood-grain-night-stand",
+  "html": "shopify-html/CT-215.html",
+  "subtitle": "One-Piece Molded Nightstand with a Wood Grain Finish and Rounded Edges, to Match the Sequoia Bed",
+  "seo_title": "Cortech Sequoia Molded Wood Grain Nightstand - 215 at Anchortex",
+  "seo_desc": "Shop the Cortech Sequoia Nightstand, a one-piece molded nightstand with a wood grain finish and rounded edges, made to match the Sequoia Bed in patient rooms.",
+  "baseline": "baselines/cortech/cortech-215-sequoia-molded-wood-grain-night-stand.json"
  }
 ]
