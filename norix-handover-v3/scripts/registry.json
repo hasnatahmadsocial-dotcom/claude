@@ -814,5 +814,13 @@
   "seo_title": "Cortech Solstice Molded Bed - 100 / 100S3 at Anchortex",
   "seo_desc": "Shop the Cortech Solstice Bed, a one-piece molded bed with raised head and footboards for a 36”×75” mattress that bolts down or takes ballast weight.",
   "baseline": "baselines/cortech/cortech-100-100s3-solstice-behavioral-health-bed.json"
+ },
+ {
+  "handle": "cortech-320-summit-lounge-chair",
+  "html": "shopify-html/CT-320.html",
+  "subtitle": "One-Piece Molded Lounge Chair with a Residential Look and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Molded Lounge Chair - 320 / 320S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Lounge Chair, a one-piece molded lounge chair with a calm, residential look and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-320-summit-lounge-chair.json"
  }
 ]
