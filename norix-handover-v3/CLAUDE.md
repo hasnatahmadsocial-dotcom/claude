@@ -85,6 +85,7 @@ Read this block first, then the rest of the file (rules, history). The last sess
   - **300 Summit Guest Chair**: set given Nov 20. Summit rules (chair helper) + meta ", a". Photos "Add a few if helpful" -> Claylight, Seagrass, Tide (Summit-Guest-Chair-XX-scaled.jpg = standard 300; Veldura has its own "-Veldura-" files). Page keeps Burgundy, Stone Gray, group photo + 2 Summit charts (charts LAST). Weight 255 -> 21. Sheet U149:X150 = 21/23/22/31. Admin https://www.anchortex.com/admin/products/9175475552492.
   - **300 PUBLISHED Nov 20**: passed (21 lb; 8 images, 2 charts LAST). In registry (111). Sheet S149:S150 = 11/20/2026.
   - **301 Summit Veldura Guest Chair**: set given Nov 20. Summit rules + meta ", a". Andrew: 301S SKU C601214-01 -> C601214-02 = "yes" (APPROVED SKU CHANGE; sheet L152 updated too; review.py will flag "SKU changed" = expected). Photos "add a few" -> Veldura Seagrass, Tide, Overcast (Summit-Guest-Chair-Veldura-XX-scaled.jpg). Page has Claylight, Slate Blue + 2 charts (charts LAST). Weight 255 -> 21. Sheet U151:X152 = 21/23/22/31. Admin https://www.anchortex.com/admin/products/9175475912940.
+  - **301 PUBLISHED Nov 20**: passed (SKU 301S C601214-02 = "SKU changed" EXPECTED, Andrew yes; 21 lb; 7 images, charts LAST). The 301 photos first went onto the 300 page (replacing the 300 photos); fixed, 300 re-checked OK. In registry (112). Sheet S151:S152 = 11/20/2026.
   - HM + HMP: "Rewrite, combine HM and HMP into 1 product. Use HM - keep this url (cortech-hm-ligature-resistant-hookmax-wall-hook), use C601082-01, -02. H1: Cortech Ligature Resistant Wall Hooks – HookMax / HookMax+ / HM / HMP. HMP was deleted and redirected." Colors = yes (both), dims "make bigger for a pack of 5". Open: 10 color variants vs only 2 SKUs given; pack dims not given.
   - 330 "** notes apply to all Summit products" (already applied on 330/331; apply to 320, 321, 342/343, 353/354, 361/363/364, 300, 301, 311, 310).
   - Newly assigned 11/19: CG Corner Guards (sheet rows 250-341) and TP Tiger Plates (rows 342-349), previously Skip. Need doc tabs first.
@@ -94,7 +95,7 @@ Read this block first, then the rest of the file (rules, history). The last sess
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
 - Norix items in PENDING / OPEN (Evvolve Jr., Double Pedestal drafts, $0 prices, placeholder weights).
-- Published so far: 111 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484, +331, +330; Nov 20: +DP, +EJ, +101, +100, +320, +321, +342, +353, +361, +210, +215, +35, +300) (37 Norix, 68 Cortech; count = registry length). `bash scripts/check_all.sh` re-checks them all.
+- Published so far: 112 pages in scripts/registry.json (Nov 19: +86484, +96484, +106484, +116484, +146484, +331, +330; Nov 20: +DP, +EJ, +101, +100, +320, +321, +342, +353, +361, +210, +215, +35, +300, +301) (37 Norix, 69 Cortech; count = registry length). `bash scripts/check_all.sh` re-checks them all.
 
 ## Who and what
 - I am Zeemal, a freelancer. The client is Andrew at Anchortex (anchortex.com, a Shopify store).
