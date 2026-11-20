@@ -910,5 +910,13 @@
   "seo_title": "Cortech Summit Molded Accent Chair - 310 / 310S at Anchortex",
   "seo_desc": "Shop the Cortech Summit Accent Chair, a one-piece molded accent chair with a calm, residential look and an optional ballast door, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-310-summit-accent-chair.json"
+ },
+ {
+  "handle": "cortech-hm-ligature-resistant-hookmax-wall-hook",
+  "html": "shopify-html/CT-HM.html",
+  "subtitle": "Flexible Wall Hooks That Bend and Release at a Maximum 10 or 20 lb Load, Sold in Packs of 5",
+  "seo_title": "Cortech Ligature Resistant Wall Hooks - HM / HMP at Anchortex",
+  "seo_desc": "Shop Cortech HookMax and HookMax+ ligature resistant wall hooks, flexible hooks that bend and release at a 10 or 20 lb load so ligatures slide off. Packs of 5.",
+  "baseline": "baselines/cortech/cortech-hm-ligature-resistant-hookmax-wall-hook.after-combine.json"
  }
 ]
