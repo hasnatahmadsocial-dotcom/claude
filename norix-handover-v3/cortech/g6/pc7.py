@@ -333,7 +333,7 @@ add(tab='300 - Cortech Summit Guest Chair',short='300 / 300S: Cortech Summit Gue
  sub='One-Piece Molded Guest Chair with a Residential Look and an Optional Ballast Door',
  cur_sub='Cortech 300 Summit Guest Chair',
  mt='Cortech Summit Molded Guest Chair - 300 / 300S at Anchortex',
- md='Shop the Cortech Summit Guest Chair. A one-piece molded guest chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Guest Chair, a one-piece molded guest chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
 
 # 11. Summit Veldura Guest Chair 301
 c=chair('301','Guest Chair',True,None,'22”W×23”D×31”H','21 lbs',
