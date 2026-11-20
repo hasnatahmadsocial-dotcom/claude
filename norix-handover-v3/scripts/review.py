@@ -14,12 +14,13 @@ def code(u):
         time.sleep(2)
     return c
 p=json.loads(get(f'https://www.anchortex.com/products/{H}.json'))['product']
-pg=html.unescape(get(f'https://www.anchortex.com/products/{H}'))
+raw=get(f'https://www.anchortex.com/products/{H}')
+pg=html.unescape(raw)
 b=json.load(open(BL))['product']
 issues=[];ok=[]
 def chk(cond,good,bad): (ok if cond else issues).append(good if cond else bad)
 tag=re.search(r'<title>(.*?)</title>',pg,re.S).group(1).strip()
-meta=re.search(r'name="description" content="(.*?)"',pg).group(1)
+meta=html.unescape(re.search(r'name="description" content="([^"]*)"',raw).group(1))
 norm=lambda s: re.sub(r'\s+',' ',html.unescape(s)).replace('> <','><').strip()
 body=p['body_html']
 chk(norm(open(HF).read())==norm(body),'description matches','DESCRIPTION differs from expected HTML')

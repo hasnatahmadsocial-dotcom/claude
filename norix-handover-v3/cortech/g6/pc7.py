@@ -10,7 +10,7 @@ CORXN='Antimicrobial: the Cortech spec sheet says "Infused with CORx Antibacteri
 SUM_APPS=['Patient rooms, dayrooms, and lounges in behavioral healthcare facilities and psychiatric hospitals','Group rooms and visitor areas in residential treatment centers','Other secure settings that want a calm, residential look']
 TBL_APPS2=['Dayrooms, lounges, and waiting areas in behavioral healthcare facilities and psychiatric hospitals','Dining and activity areas in residential treatment centers','Other secure settings that want a calm, residential look']
 NIGHT_COLL=f"Explore Anchortex's [Behavioral Healthcare Anti-Ligature Furniture]({BH}) collection for more patient room furniture."
-SB_SERIES=FM_SERIES[:-1]+[('b1','**Carts:** Kangaroo Carts and lids for laundry, trash, and material handling'),
+SB_SERIES=[x for x in FM_SERIES[:-1] if not x[1].startswith('**Can Dollies:**')]+[('b1','**Carts:** Kangaroo Carts and lids for laundry, trash, and material handling'),
   ('b1','**Secure Waste Bins:** The lockable SafeBin with a 35-gallon inner container')]
 SEQ_FIN='**Finishes:** Heritage Oak, Natural Oak, Coastal Driftwood, Walnut, or Redwood wood grain (custom wood grain finishes available on request)'
 SEQ_CRAFT='**Wood Grain:** Like natural wood, each piece varies slightly in color and grain'
@@ -27,13 +27,13 @@ def chair(model,name,vel,w,dims,wt,note_w,imgs,live_dims=None,extra_notes=()):
     S=model+'S'; full=f'Summit {"Veldura " if vel else ""}{name}'
     intro=[f'The **Cortech {full}** is a molded {name.lower()} with a calm, residential look for patient rooms, dayrooms, lounges, and group spaces in behavioral healthcare and other secure settings. '
            +('The Veldura soft-touch surface adds comfort and warmth without giving up durability.' if vel else 'Its rounded edges and smooth surfaces support safety, and it can stand alone or be arranged in groups.'),
-           f'The chair is rotationally molded in one piece from high impact “no break” polyethylene, with no steel or wood components. It can be weighted at the factory, or the {S} can be filled with sandbags on site through a ballast door. The {full} is rated for outdoor use.']
+           f'The chair is rotationally molded in one piece from high impact “no break” polyethylene, with no steel or wood components. It can be weighted at the factory, or the {S} can be ballasted with sandbags on site.']
     b=[NOSTEEL]+([VEL] if vel else [])+[f'**Dimensions:** {dims}',f'**Weight:** {wt}',
        f'**Weighting:** Factory sand ballasting optional; the {S} has a ballast door for adding sandbags on site that closes with tamper-resistant screws. Do not use loose sand',
        OUT,ISO22,FLUL,GGW,CLEAN2,COL18,LIFE,ISO]
     lab='Veldura' if vel else 'Standard'
     models=[f'**{model} – {lab}:** Without ballast door',f'**{S} – {lab} with Ballast Door:** Ballast door for adding sandbags on site']
-    inst=[f'**Weighting:** Factory weighted, or add sandbags on site through the ballast door on the {S}; do not use loose sand. Hardware bit size is T27']
+    inst=[f'**Weighting:** Can be factory weighted, or add sandbags on site through the ballast door on the {S}; do not use loose sand. Hardware bit size is T27']
     notes=[SER_SUM,f'H1: Cortech calls it the {full}. I took out the extra words from your current title and added the {S}.',note_w]
     if live_dims: notes.append(live_dims)
     notes+=list(extra_notes)+[FLN,CORXN,NOBOLT,outn(f'the {full} is'),imgs]
@@ -89,7 +89,7 @@ add(tab='320 - Cortech Summit Lounge Chair',short='320 / 320S: Cortech Summit Lo
  sub='One-Piece Molded Lounge Chair with a Residential Look and an Optional Ballast Door',
  cur_sub='Cortech 320 Summit Lounge Chair',
  mt='Cortech Summit Molded Lounge Chair - 320 / 320S at Anchortex',
- md='Shop the Cortech Summit Lounge Chair. A one-piece molded lounge chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Lounge Chair, a one-piece molded lounge chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
 
 # 3. Summit Veldura Lounge Chair 321
 c=chair('321','Lounge Chair',True,None,'29”W×59”D×35”H','50 lbs',
@@ -105,7 +105,7 @@ add(tab='321 - Cortech Summit Veldura Lounge Chair',short='321 / 321S: Cortech S
  sub='One-Piece Molded Lounge Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door',
  cur_sub='Cortech 321 Summit Veldura Lounge Chair with Veldura Soft-Touch Exterior',
  mt='Cortech Summit Veldura Lounge Chair - 321 / 321S at Anchortex',
- md='Shop the Cortech Summit Veldura Lounge Chair. A one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Veldura Lounge Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
 
 # 4. Summit Side Table 342 / 343
 add(tab='342 / 343 - Cortech Summit Side Table',short='342 / 343: Cortech Summit Side Table',
@@ -116,19 +116,19 @@ add(tab='342 / 343 - Cortech Summit Side Table',short='342 / 343: Cortech Summit
  sub='Low Side Table with a Molded Base and a Laminate Delta Top, in Small or Medium Sizes',
  cur_sub='Cortech 342 Summit Low Table with Small Delta Top, Cortech 343 Summit Low Table with Mid Delta Top',
  intro=['The **Cortech Summit Side Table** is a low side table with a molded base and a laminate delta top, for lounges, dayrooms, waiting areas, and patient spaces in behavioral healthcare and other secure settings. It coordinates with Summit seating for a calm, residential look.',
-  'The one-piece molded base has no seams or joints to tamper with, and it attaches to the top with tamper-resistant screws. The table is designed to be weighted with sandbags in the base, and optional bolt-down plates are available.'],
+  'The one-piece molded base has no seams or joints to tamper with. The table is designed to be weighted with sandbags in the base.'],
  bullets=[TBL_BASE,TBL_TOP,
-  '**Sizes:** Small delta top (342) or medium delta top (343)',
+  '**Sizes:** Small delta top (342 / 342S) or medium delta top (343 / 343S)',
   '**Dimensions:** 22”W×22”D×18”H',
   '**Weight:** 23 lbs (top 11 lbs, base 12 lbs)',
   '**Weighting:** The base can be filled with sandbags; do not use loose sand. Optional bolt-down plates available',
   TBL_FL,TBL_GG,CLEAN2,TBL_COL,TBL_W,ISO],
- models=['**342 – Small Delta Top:** Summit Side Table','**343 – Medium Delta Top:** Summit Side Table'],
- install=[TBL_ASM,'**Weighting:** Add sandbags through the ballast door in the base; do not use loose sand. Ballast door bit size is T27'],
+ models=['**342 – Small Delta Top:** Without ballast door','**342S – Small Delta Top with Ballast Door:** Ballast door for adding sandbags','**343 – Medium Delta Top:** Without ballast door','**343S – Medium Delta Top with Ballast Door:** Ballast door for adding sandbags'],
+ install=[TBL_ASM,'**Weighting:** Add sandbags through the ballast door in the base on the 342S and 343S; do not use loose sand. Ballast door bit size is T27'],
  apps=apps('The Summit Side Table suits lounges and patient areas that want a small, stable table that is easy to clean.',TBL_APPS2,END_COLL),
  series=SUMMIT_SERIES,
  mt='Cortech Summit Side Table - 342 / 343 at Anchortex',
- md='Shop the Cortech Summit Side Table. A low side table with a one-piece molded base and a laminate delta top in small or medium sizes for behavioral health rooms.',
+ md='Shop the Cortech Summit Side Table, a low side table with a one-piece molded base and a laminate delta top in small or medium sizes for behavioral health rooms.',
  notes=[SER_SUM,
   'H1: I took out "Molded Base with Laminate Top" and "Models."',
   'Variant names: your variants are 342S and 343S, "with ballast door." The Cortech spec sheet lists 342 and 343 only, with no S models. Can you check the model numbers with Cortech?',
@@ -147,7 +147,7 @@ add(tab='353 / 354 - Cortech Summit Mid-Range Table',short='353 / 354: Cortech S
  sub='Mid-Height Table with a Molded Base and a Laminate Delta Top, with an Optional Ballast Door',
  cur_sub='Cortech 353 Mid-Range Table with Mid-Size Delta Top, Cortech 354 Mid-Range Table with Large Delta Top',
  intro=['The **Cortech Summit Mid-Range Table** is a mid-height table with a molded base and a laminate delta top, for lounges, dayrooms, and patient-focused spaces in behavioral healthcare and other secure settings. It coordinates with Summit seating for a calm, residential look.',
-  'The one-piece molded base has no exposed seams or hardware and attaches to the top with tamper-resistant screws. The table is designed to be weighted, and the 353S and 354S have a ballast door for adding sandbags on site.'],
+  'The one-piece molded base has no exposed seams or hardware. The table is designed to be weighted.'],
  bullets=[TBL_BASE,TBL_TOP,
   '**Sizes:** Mid delta top (353) or large delta top (354)',
   '**Dimensions:** 39”W×38”D×25”H',
@@ -160,7 +160,7 @@ add(tab='353 / 354 - Cortech Summit Mid-Range Table',short='353 / 354: Cortech S
  apps=apps('The Summit Mid-Range Table suits lounges and dayrooms that want a stable, easy-to-clean table at a comfortable height.',TBL_APPS2,END_COLL),
  series=SUMMIT_SERIES,
  mt='Cortech Summit Mid-Range Table - 353 / 354 at Anchortex',
- md='Shop the Cortech Summit Mid-Range Table. A mid-height table with a one-piece molded base and a laminate delta top, with an optional ballast door for weighting.',
+ md='Shop the Cortech Summit Mid-Range Table, a mid-height table with a one-piece molded base and a laminate delta top, with an optional ballast door for weighting.',
  notes=[SER_SUM,
   'H1: I took out "Molded Base with Laminate Top" and "Models."',
   'Variants: your page has only the 353S and 354S (with ballast door). The Cortech spec sheet also lists the 353 and 354 without an access door. I listed all four in Available Models. Would you like the two models without a door added as variants?',
@@ -179,25 +179,25 @@ add(tab='361 / 363 / 364 - Cortech Summit All Purpose Table',short='361 / 363 / 
  sub='Dining Height Table with a Molded Base and a 42” Round or Delta Laminate Top',
  cur_sub='Cortech 361 363 364 All Purpose table with Delta Top or 42" Round Top',
  intro=['The **Cortech Summit All Purpose Table** is a dining height table with a molded base and a laminate top, for dining areas, dayrooms, and activity rooms in behavioral healthcare and other secure settings. It comes with a 42” round top or a medium or large delta top.',
-  'The one-piece molded base has no exposed seams and attaches to the top with tamper-resistant screws. The base can be filled with sandbags, and the table can also be bolted to the floor with optional concealed mounting.'],
+  'The one-piece molded base has no exposed seams. The base can be filled with sandbags, and the table can also be bolted to the floor.'],
  bullets=[TBL_BASE,
   '**Top:** High-pressure laminate top with a Dura-Edge, in Gray Nebula with a black edge; it resists moisture and impact and cleans easily',
-  '**Sizes:** 42” round top (361), medium delta top (363), or large delta top (364)',
+  '**Sizes:** 42” round top (361 / 361S), medium delta top (363 / 363S), or large delta top (364 / 364S)',
   '**Dimensions:** 42”W×42”D×29”H (42” round top) or 44”W×43”D×29”H (delta top)',
   '**Weight:** Base 16 lbs; delta top 45 lbs; 42” round top 56 lbs',
   '**Game Top:** Optional game top for the 42” round table (361GT)',
   '**Weighting:** The base can be filled with sandbags; do not use loose sand',
   '**Floor Mounting:** Optional concealed mounting',
   TBL_FL,TBL_GG,CLEAN2,TBL_COL,TBL_W,ISO],
- models=['**361 – 42” Round Plain Top:** Gray Nebula laminate, black edge','**361GT – 42” Round Game Top:** Game top',
-  '**363 – Medium Delta Top:** Gray Nebula laminate, black edge','**364 – Large Delta Top:** Gray Nebula laminate, black edge'],
+ models=['**361 – 42” Round Plain Top:** Gray Nebula laminate, black edge','**361S – 42” Round Plain Top with Ballast Door:** Gray Nebula laminate, black edge','**361GT – 42” Round Game Top:** Game top',
+  '**363 – Medium Delta Top:** Gray Nebula laminate, black edge','**363S – Medium Delta Top with Ballast Door:** Gray Nebula laminate, black edge','**364 – Large Delta Top:** Gray Nebula laminate, black edge','**364S – Large Delta Top with Ballast Door:** Gray Nebula laminate, black edge'],
  install=[TBL_ASM,'**Floor Mounting:** Optional concealed mounting with stud plates; concrete anchors and security Torx bolts are included; see Cortech instructions',
-  '**Weighting:** Add sandbags through the ballast door in the base; do not use loose sand. Ballast door bit size is T27'],
+  '**Weighting:** Add sandbags through the ballast door in the base on the 361S, 363S, and 364S; do not use loose sand. Ballast door bit size is T27'],
  apps=apps('The Summit All Purpose Table suits dining and activity areas that want a durable table with a calm, residential look.',
   ['Dining rooms and dayrooms in behavioral healthcare facilities and psychiatric hospitals','Activity and group rooms in residential treatment centers','Other secure settings that serve meals or hold group activities'],END_COLL),
  series=SUMMIT_SERIES,
  mt='Cortech Summit All Purpose Table - 361 / 363 / 364 at Anchortex',
- md='Shop the Cortech Summit All Purpose Table. A dining height table with a one-piece molded base and a 42” round or delta laminate top, with an optional game top.',
+ md='Shop the Cortech Summit All Purpose Table, a dining-height table with a one-piece molded base and a 42” round or delta laminate top, with an optional game top.',
  notes=[SER_SUM,
   'H1: I wrote "All Purpose" without the hyphen, as Cortech does, and took out "Molded Base with Laminate Top" and "Models."',
   'Variant names: your variants are 361S, 363S, and 364S, "with ballast door." The Cortech spec sheet lists 361, 361GT, 363, and 364, with no S models. Can you check the model numbers with Cortech? Your page does not have the 361GT game top as a variant.',
@@ -217,7 +217,7 @@ add(tab='210 - Cortech Sequoia Molded Wood Grain Bed',short='210: Cortech Sequoi
  sub='One-Piece Molded Platform Bed with a Wood Grain Finish, Rounded Edges, and Optional Ballast Doors',
  cur_sub='Cortech 210 Sequoia Behavioral Health Bed with Molded Wood Grain Finish',
  intro=['The **Cortech Sequoia Molded Wood Grain Bed** is a one-piece molded platform bed with a wood grain finish, for patient rooms in behavioral healthcare facilities and other secure settings. It brings the warmth of a residential wood bed with the strength and cleanability of molded polyethylene.',
-  'The bed is rotationally molded as a single unit from high impact “no break” polyethylene, and its rounded edges and sloped surfaces help reduce ligature risk. It bolts to the floor with a concealed corner mounting system, and optional underside ballast doors take sandbags.'],
+  'The bed is rotationally molded as a single unit from high impact “no break” polyethylene, and its rounded edges and sloped surfaces help reduce ligature risk. It can be bolted to the floor or weighted with sandbags through optional underside ballast doors.'],
  bullets=['**Material:** One-piece rotationally molded high impact “no break” polyethylene; no steel or wood components',
   '**Dimensions:** 82”L×42”W×18”H',
   '**Weight:** 126 lbs',
@@ -234,7 +234,7 @@ add(tab='210 - Cortech Sequoia Molded Wood Grain Bed',short='210: Cortech Sequoi
   ['Patient rooms in behavioral healthcare facilities and psychiatric hospitals','Residential treatment centers and secure treatment programs','Other secure settings that want a residential bedroom'],BED_COLL),
  series=BED_SERIES,
  mt='Cortech Sequoia Molded Wood Grain Bed - 210 at Anchortex',
- md='Shop the Cortech Sequoia Bed. A one-piece molded platform bed with a wood grain finish, rounded edges, and optional ballast doors for behavioral health rooms.',
+ md='Shop the Cortech Sequoia Bed, a one-piece molded platform bed with a wood grain finish, rounded edges, and optional ballast doors for behavioral health rooms.',
  notes=[SER_BED,
   'H1: Cortech calls it the Sequoia Molded Wood Grain Platform Bed. I took out "Durable" and "Behavioral Health," and added the 210S2.',
   'Weight: your variants are set to 126 lbs, which matches the Cortech spec sheet.',
@@ -254,7 +254,7 @@ add(tab='215 - Cortech Sequoia Molded Wood Grain Nightstand',short='215: Cortech
  sub='One-Piece Molded Nightstand with a Wood Grain Finish and Rounded Edges, to Match the Sequoia Bed',
  cur_sub='Cortech 215 Sequoia Night Stand with Molded Wood Grain Finish for Behavioral Health Care Facilities',
  intro=['The **Cortech Sequoia Molded Wood Grain Nightstand** is a one-piece molded nightstand with a wood grain finish, for patient rooms in behavioral healthcare facilities and other secure settings. It matches the Sequoia Bed for a warm, residential room.',
-  'The nightstand is rotationally molded as a single unit from high impact polyethylene, with no metal or wood components, and its rounded edges and sloped surfaces help reduce ligature risk. It bolts to the floor.'],
+  'The nightstand is rotationally molded as a single unit from high impact polyethylene, with no metal or wood components, and its rounded edges and sloped surfaces help reduce ligature risk.'],
  bullets=['**Material:** One-piece rotationally molded high impact polyethylene; no metal or wood components',
   '**Dimensions:** 18”W×16”D×21”H',
   '**Weight:** 26 lbs',
@@ -269,7 +269,7 @@ add(tab='215 - Cortech Sequoia Molded Wood Grain Nightstand',short='215: Cortech
   ['Patient rooms in behavioral healthcare facilities and psychiatric hospitals','Residential treatment centers and secure treatment programs','Other secure settings that want a residential bedroom'],NIGHT_COLL),
  series=BED_SERIES,
  mt='Cortech Sequoia Molded Wood Grain Nightstand - 215 at Anchortex',
- md='Shop the Cortech Sequoia Nightstand. A one-piece molded nightstand with a wood grain finish and rounded edges, made to match the Sequoia Bed in patient rooms.',
+ md='Shop the Cortech Sequoia Nightstand, a one-piece molded nightstand with a wood grain finish and rounded edges, made to match the Sequoia Bed in patient rooms.',
  notes=[SER_BED,
   'H1: Cortech calls it the Sequoia Molded Wood Grain Nightstand. I used that and took out the extra words.',
   'Weight: your variant is set to 29 lbs. The Cortech spec sheet says 26 lbs, so I used 26 lbs.',
@@ -305,10 +305,10 @@ add(tab='35 - Cortech SafeBin Trash Receptacle',short='35: Cortech SafeBin Trash
  models=['**35 – SafeBin:** Body color of your choice with a black top'],
  install=['**Floor or Wall Mounting:** Bolt to the floor or wall through four pilot holes; concrete anchors, hex bolts, and washers are included; see Cortech instructions'],
  apps=apps('The SafeBin suits secure areas where staff need to keep trash and liners out of residents’ reach.',
-  ['Housing units, dayrooms, and common areas in correctional facilities and jails','Patient areas in behavioral healthcare facilities and psychiatric hospitals','Kitchens and other secure areas that need a locked trash receptacle'],TRASH_COLL),
+  ['Housing units, dayrooms, common areas and outdoor spaces in correctional facilities and jails','Patient areas in behavioral healthcare facilities and psychiatric hospitals','Kitchens and other secure areas that need a locked trash receptacle'],TRASH_COLL),
  series=SB_SERIES,
  mt='Cortech SafeBin Lockable Trash Receptacle - 35 at Anchortex',
- md='Shop the Cortech SafeBin. A lockable molded trash receptacle with a tamper-resistant chute and a 35-gallon inner container that bolts to the floor or wall.',
+ md='Shop the Cortech SafeBin, a lockable molded trash receptacle with a tamper-resistant chute and a 35-gallon inner container that bolts to the floor or wall.',
  notes=[SER_FM+' I added a "Secure Waste Bins" line for the SafeBin. Would you like it added to the other facilities maintenance pages too?',
   'H1: Cortech writes "SafeBin" with a capital B. I added "Lockable" and the model number 35.',
   'Weight: your variant is set to 115 lbs, which matches the Cortech spec sheet.',
@@ -333,7 +333,7 @@ add(tab='300 - Cortech Summit Guest Chair',short='300 / 300S: Cortech Summit Gue
  sub='One-Piece Molded Guest Chair with a Residential Look and an Optional Ballast Door',
  cur_sub='Cortech 300 Summit Guest Chair',
  mt='Cortech Summit Molded Guest Chair - 300 / 300S at Anchortex',
- md='Shop the Cortech Summit Guest Chair. A one-piece molded guest chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Guest Chair, a one-piece molded guest chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
 
 # 11. Summit Veldura Guest Chair 301
 c=chair('301','Guest Chair',True,None,'22”W×23”D×31”H','21 lbs',
@@ -349,7 +349,7 @@ add(tab='301 - Cortech Summit Veldura Guest Chair',short='301 / 301S: Cortech Su
  sub='One-Piece Molded Guest Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door',
  cur_sub='Cortech 301 Summit Veldura Guest Chair with Veldura Soft-Touch Exterior',
  mt='Cortech Summit Veldura Guest Chair - 301 / 301S at Anchortex',
- md='Shop the Cortech Summit Veldura Guest Chair. A one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Veldura Guest Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
 
 # 12. Summit Veldura Accent Chair 311
 c=chair('311','Accent Chair',True,None,'27”W×29”D×29”H','27 lbs',
@@ -363,7 +363,7 @@ add(tab='311 - Cortech Summit Veldura Accent Chair',short='311 / 311S: Cortech S
  sub='One-Piece Molded Accent Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door',
  cur_sub='Cortech 311 Summit Veldura Accent Chair with Veldura Soft-Touch Exterior',
  mt='Cortech Summit Veldura Accent Chair - 311 / 311S at Anchortex',
- md='Shop the Cortech Summit Veldura Accent Chair. A one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Veldura Accent Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
 
 # 13. Summit Accent Chair 310
 c=chair('310','Accent Chair',False,None,'27”W×29”D×29”H','27 lbs',
@@ -377,4 +377,4 @@ add(tab='310 - Cortech Summit Accent Chair',short='310 / 310S: Cortech Summit Ac
  sub='One-Piece Molded Accent Chair with a Residential Look and an Optional Ballast Door',
  cur_sub='Cortech 310 Summit Accent Chair',
  mt='Cortech Summit Molded Accent Chair - 310 / 310S at Anchortex',
- md='Shop the Cortech Summit Accent Chair. A one-piece molded accent chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Accent Chair, a one-piece molded accent chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)

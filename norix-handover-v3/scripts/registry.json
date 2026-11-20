@@ -712,12 +712,12 @@
   "baseline": "baselines/cortech/cortech-2000xfl-flexible-lid-for-rock-trays-with-cor-flex.json"
  },
  {
-  "handle": "cortech-cobra-can-flame-retardant-trash-receptacle",
+  "handle": "cortech-cobra-can-trash-receptacle",
   "html": "shopify-html/CT-CobraCan.html",
   "subtitle": "Virtually Unbreakable Molded Trash Can in Nine Sizes from 20 to 55 Gallons, in Flame Retardant or Food Grade Material",
   "seo_title": "Cortech Cobra Can Heavy Duty Trash Receptacle at Anchortex",
   "seo_desc": "Shop the Cortech Cobra Can. A virtually unbreakable molded trash can in nine sizes from 20 to 55 gallons, in flame retardant or food grade material.",
-  "baseline": "baselines/cortech/cortech-cobra-can-flame-retardant-trash-receptacle.json"
+  "baseline": "baselines/cortech/cortech-cobra-can-trash-receptacle.json"
  },
  {
   "handle": "cortech-meal-tray-drying-rack",
@@ -766,5 +766,173 @@
   "seo_title": "Cortech Radial Rocker Molded Rocking Chair - 146484 / 146484S",
   "seo_desc": "Shop the Cortech Radial Rocker Chair, a one-piece molded rocking chair with a smooth 56° rocking radius and an optional ballast door, rated for outdoor use.",
   "baseline": "baselines/cortech/cortech-146484-radial-rocker-chair.json"
+ },
+ {
+  "handle": "cortech-331-summit-veldura-stool",
+  "html": "shopify-html/CT-331.html",
+  "subtitle": "Compact Molded Stool with a Veldura Soft-Touch Finish and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Veldura Stool - 331 / 331S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Veldura Stool, a compact molded stool with a Veldura soft-touch finish and an optional ballast door for behavioral health spaces.",
+  "baseline": "baselines/cortech/cortech-331-summit-veldura-stool.json"
+ },
+ {
+  "handle": "cortech-330-summit-stool",
+  "html": "shopify-html/CT-330.html",
+  "subtitle": "Compact One-Piece Molded Stool with Rounded Edges and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Molded Stool - 330 / 330S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Stool, a compact one-piece molded stool with rounded edges and an optional ballast door for behavioral health and outdoor spaces.",
+  "baseline": "baselines/cortech/cortech-330-summit-stool.json"
+ },
+ {
+  "handle": "norix-ev-double-pedestal-table-n700491",
+  "html": "shopify-html/DP.html",
+  "subtitle": "36”×96” Laminate Table on Two Molded Bases for Up to Eight People, with Wheelchair Access",
+  "seo_title": "Norix Double Pedestal Table - EV3696 / CY3696 at Anchortex",
+  "seo_desc": "Shop the Norix Double Pedestal table. A 36\"x96\" laminate top on two Evvolve or Jupiter molded bases seats up to eight, with ADA wheelchair access.",
+  "baseline": "baselines/new-products/norix-ev-double-pedestal-table-n700491.json"
+ },
+ {
+  "handle": "norix-ej-evvolve-junior-table-n700492",
+  "html": "shopify-html/EJ.html",
+  "subtitle": "Lower-Height Ballasted Molded Base Table for Youth Dayrooms, Classrooms, and Dining Areas",
+  "seo_title": "Norix Evvolve Jr. Table - EJ3600 / EJ3636 at Anchortex",
+  "seo_desc": "Shop the Norix Evvolve Jr. table. A lower 26.1\" high molded base table with 36\" round or square laminate top for youth dayrooms and classrooms.",
+  "baseline": "baselines/new-products/norix-ej-evvolve-junior-table-n700492.json"
+ },
+ {
+  "handle": "cortech-101-101s3-solstice-safetyguard-behavioral-health-bed-with-guardrails",
+  "html": "shopify-html/CT-101.html",
+  "subtitle": "One-Piece Molded Bed with Raised Side Panels for Fall-Risk Patients, with Optional Ballast Doors",
+  "seo_title": "Cortech Solstice Safeguard Bed - 101 / 101S3 at Anchortex",
+  "seo_desc": "Shop the Cortech Solstice Safeguard Bed, a one-piece molded bed with raised side panels for fall-risk patients and optional underside ballast doors.",
+  "baseline": "baselines/cortech/cortech-101-101s3-solstice-safetyguard-behavioral-health-bed-with-guardrails.json"
+ },
+ {
+  "handle": "cortech-100-100s3-solstice-behavioral-health-bed",
+  "html": "shopify-html/CT-100.html",
+  "subtitle": "One-Piece Molded Bed with Raised Head and Footboards for a 36”×75” Mattress, with Optional Ballast Doors",
+  "seo_title": "Cortech Solstice Molded Bed - 100 / 100S3 at Anchortex",
+  "seo_desc": "Shop the Cortech Solstice Bed, a one-piece molded bed with raised head and footboards for a 36”×75” mattress that bolts down or takes ballast weight.",
+  "baseline": "baselines/cortech/cortech-100-100s3-solstice-behavioral-health-bed.json"
+ },
+ {
+  "handle": "cortech-320-summit-lounge-chair",
+  "html": "shopify-html/CT-320.html",
+  "subtitle": "One-Piece Molded Lounge Chair with a Residential Look and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Molded Lounge Chair - 320 / 320S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Lounge Chair, a one-piece molded lounge chair with a calm, residential look and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-320-summit-lounge-chair.json"
+ },
+ {
+  "handle": "cortech-321-summit-veldura-lounge-chair",
+  "html": "shopify-html/CT-321.html",
+  "subtitle": "One-Piece Molded Lounge Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Veldura Lounge Chair - 321 / 321S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Veldura Lounge Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-321-summit-veldura-lounge-chair.json"
+ },
+ {
+  "handle": "cortech-342-343-summit-side-table",
+  "html": "shopify-html/CT-342.html",
+  "subtitle": "Low Side Table with a Molded Base and a Laminate Delta Top, in Small or Medium Sizes",
+  "seo_title": "Cortech Summit Side Table - 342 / 343 at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Side Table, a low side table with a one-piece molded base and a laminate delta top in small or medium sizes for behavioral health rooms.",
+  "baseline": "baselines/cortech/cortech-342-343-summit-side-table.json"
+ },
+ {
+  "handle": "cortech-353-354-summit-mid-range-table",
+  "html": "shopify-html/CT-353.html",
+  "subtitle": "Mid-Height Table with a Molded Base and a Laminate Delta Top, with an Optional Ballast Door",
+  "seo_title": "Cortech Summit Mid-Range Table - 353 / 354 at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Mid-Range Table, a mid-height table with a one-piece molded base and a laminate delta top, with an optional ballast door for weighting.",
+  "baseline": "baselines/cortech/cortech-353-354-summit-mid-range-table.json"
+ },
+ {
+  "handle": "cortech-361-363-364-summit-all-purpose-table",
+  "html": "shopify-html/CT-361.html",
+  "subtitle": "Dining Height Table with a Molded Base and a 42” Round or Delta Laminate Top",
+  "seo_title": "Cortech Summit All Purpose Table - 361 / 363 / 364 at Anchortex",
+  "seo_desc": "Shop the Cortech Summit All Purpose Table, a dining-height table with a one-piece molded base and a 42” round or delta laminate top, with an optional game top.",
+  "baseline": "baselines/cortech/cortech-361-363-364-summit-all-purpose-table.json"
+ },
+ {
+  "handle": "cortech-210-sequoia-molded-wood-grain-behavioral-health-bed",
+  "html": "shopify-html/CT-210.html",
+  "subtitle": "One-Piece Molded Platform Bed with a Wood Grain Finish, Rounded Edges, and Optional Ballast Doors",
+  "seo_title": "Cortech Sequoia Molded Wood Grain Bed - 210 at Anchortex",
+  "seo_desc": "Shop the Cortech Sequoia Bed, a one-piece molded platform bed with a wood grain finish, rounded edges, and optional ballast doors for behavioral health rooms.",
+  "baseline": "baselines/cortech/cortech-210-sequoia-molded-wood-grain-behavioral-health-bed.json"
+ },
+ {
+  "handle": "cortech-215-sequoia-molded-wood-grain-night-stand",
+  "html": "shopify-html/CT-215.html",
+  "subtitle": "One-Piece Molded Nightstand with a Wood Grain Finish and Rounded Edges, to Match the Sequoia Bed",
+  "seo_title": "Cortech Sequoia Molded Wood Grain Nightstand - 215 at Anchortex",
+  "seo_desc": "Shop the Cortech Sequoia Nightstand, a one-piece molded nightstand with a wood grain finish and rounded edges, made to match the Sequoia Bed in patient rooms.",
+  "baseline": "baselines/cortech/cortech-215-sequoia-molded-wood-grain-night-stand.json"
+ },
+ {
+  "handle": "cortech-35-safebin-trash-receptacle",
+  "html": "shopify-html/CT-35.html",
+  "subtitle": "Lockable Molded Trash Receptacle with a Tamper-Resistant Chute and a 35-Gallon Inner Container",
+  "seo_title": "Cortech SafeBin Lockable Trash Receptacle - 35 at Anchortex",
+  "seo_desc": "Shop the Cortech SafeBin, a lockable molded trash receptacle with a tamper-resistant chute and a 35-gallon inner container that bolts to the floor or wall.",
+  "baseline": "baselines/cortech/cortech-35-safebin-trash-receptacle.json"
+ },
+ {
+  "handle": "cortech-300-summit-guest-chair",
+  "html": "shopify-html/CT-300.html",
+  "subtitle": "One-Piece Molded Guest Chair with a Residential Look and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Molded Guest Chair - 300 / 300S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Guest Chair, a one-piece molded guest chair with a calm, residential look and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-300-summit-guest-chair.json"
+ },
+ {
+  "handle": "cortech-301-summit-veldura-guest-chair",
+  "html": "shopify-html/CT-301.html",
+  "subtitle": "One-Piece Molded Guest Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Veldura Guest Chair - 301 / 301S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Veldura Guest Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-301-summit-veldura-guest-chair.json"
+ },
+ {
+  "handle": "cortech-311-summit-veldura-accent-chair",
+  "html": "shopify-html/CT-311.html",
+  "subtitle": "One-Piece Molded Accent Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Veldura Accent Chair - 311 / 311S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Veldura Accent Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-311-summit-veldura-accent-chair.json"
+ },
+ {
+  "handle": "cortech-310-summit-accent-chair",
+  "html": "shopify-html/CT-310.html",
+  "subtitle": "One-Piece Molded Accent Chair with a Residential Look and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Molded Accent Chair - 310 / 310S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Accent Chair, a one-piece molded accent chair with a calm, residential look and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-310-summit-accent-chair.json"
+ },
+ {
+  "handle": "cortech-hm-ligature-resistant-hookmax-wall-hook",
+  "html": "shopify-html/CT-HM.html",
+  "subtitle": "Flexible Wall Hooks That Bend and Release at a Maximum 10 or 20 lb Load, Sold in Packs of 5",
+  "seo_title": "Cortech Ligature Resistant Wall Hooks - HM / HMP at Anchortex",
+  "seo_desc": "Shop Cortech HookMax and HookMax+ ligature resistant wall hooks, flexible hooks that bend and release at a 10 or 20 lb load so ligatures slide off. Packs of 5.",
+  "baseline": "baselines/cortech/cortech-hm-ligature-resistant-hookmax-wall-hook.after-combine.json"
+ },
+ {
+  "handle": "cortech-tp-tiger-series-security-wall-plates",
+  "html": "shopify-html/CT-TP.html",
+  "subtitle": "Virtually Unbreakable Molded Wall Plates for Switches, Outlets, and GFI Receptacles, in Single or Double Gang",
+  "seo_title": "Cortech Tiger Plate Security Wall Plates - TP at Anchortex",
+  "seo_desc": "Shop Cortech Tiger Plates, virtually unbreakable security wall plates for switches, outlets, and GFI receptacles in single or double gang, with security screws.",
+  "baseline": "baselines/cortech/cortech-tp-tiger-series-security-wall-plates.json"
+ },
+ {
+  "handle": "cortech-cg-corner-guards",
+  "html": "shopify-html/CT-CG.html",
+  "subtitle": "48” Wall Corner Guards in 1” to 4” Widths, Bullnose, Wood Grain, and Diamond Tread, with Adhesive or Screw Mounting",
+  "seo_title": "Cortech Heavy Duty PVC Corner Guards - CG at Anchortex",
+  "seo_desc": "Shop Cortech heavy duty PVC corner guards, 48” wall corner protection in 1” to 4” widths, bullnose, and diamond tread, with adhesive or screw mounting.",
+  "baseline": "baselines/cortech/cortech-cg-corner-guards.json"
  }
 ]
