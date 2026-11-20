@@ -918,5 +918,13 @@
   "seo_title": "Cortech Ligature Resistant Wall Hooks - HM / HMP at Anchortex",
   "seo_desc": "Shop Cortech HookMax and HookMax+ ligature resistant wall hooks, flexible hooks that bend and release at a 10 or 20 lb load so ligatures slide off. Packs of 5.",
   "baseline": "baselines/cortech/cortech-hm-ligature-resistant-hookmax-wall-hook.after-combine.json"
+ },
+ {
+  "handle": "cortech-tp-tiger-series-security-wall-plates",
+  "html": "shopify-html/CT-TP.html",
+  "subtitle": "Virtually Unbreakable Molded Wall Plates for Switches, Outlets, and GFI Receptacles, in Single or Double Gang",
+  "seo_title": "Cortech Tiger Plate Security Wall Plates - TP at Anchortex",
+  "seo_desc": "Shop Cortech Tiger Plates, virtually unbreakable security wall plates for switches, outlets, and GFI receptacles in single or double gang, with security screws.",
+  "baseline": "baselines/cortech/cortech-tp-tiger-series-security-wall-plates.json"
  }
 ]
