@@ -116,6 +116,9 @@ Read this block first, then the rest of the file (rules, history). The last sess
 - Zeemal asked to add the HM variants to the Cortech sheet: 9 rows INSERTED after row 133. Rows 133-142 = HM 10 variants (I = live names, L = C601082-01..-10, same ID/handle/title as before, Top Row only on 133, F Row # blank on new rows, N = TEXTBEFORE formula, R 11/17, S 11/20, U:X 5/7/3/2). Row 133 SKU was C601082 -> C601082-01.
 - EVERY sheet row number from 134 down in this file is now +9 (e.g. 320 = 143-144, 310 = 164-165, CG = 259-350, TP = 351-358).
 
+### WALL PROTECTION LINE (Andrew yes on TP/CG tabs), Nov 20
+- Added "**Wall Protection:** Tiger Plates security wall plates and corner guards" after the Secure Waste Bins bullet on Cobra Can, Mini Can, Kangaroo Cart, Kangaroo Lid, SafeBin (Zeemal typed it in the editor). HTML files updated; old ones in shopify-html/pre-wallprot/; Cobra baseline *.before-wallprot.json. 1st check: Cobra exact; other 4 have the colon OUTSIDE the bold (<strong>Wall Protection</strong>:), otherwise identical (Mini Can + invisible <br>). Asked Zeemal to bold the colon. Other flags = old expected ones (255 weights Cobra/Mini, Cobra dup SKU C601095, Mini Can image removed = chart swap, H1 en dash 0).
+
 ### Still open from before (details further down)
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
