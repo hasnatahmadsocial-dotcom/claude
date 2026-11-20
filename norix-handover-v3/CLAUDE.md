@@ -112,6 +112,10 @@ Read this block first, then the rest of the file (rules, history). The last sess
   - Newly assigned 11/19: CG Corner Guards (sheet rows 250-341) and TP Tiger Plates (rows 342-349), previously Skip. Need doc tabs first.
   - Date published gaps (Nov 19 sheet cortech/cortech_sheet_nov19.json): row 80 X-Series 36SVPX (live, group 3, others 11/13); rows 124-127 330/331 (live Nov 19); rows 203-212 Mini Can (live Nov 17); Cobra rows 225 + 236-243 blank.
 
+### SHEET ROWS SHIFTED (Nov 20)
+- Zeemal asked to add the HM variants to the Cortech sheet: 9 rows INSERTED after row 133. Rows 133-142 = HM 10 variants (I = live names, L = C601082-01..-10, same ID/handle/title as before, Top Row only on 133, F Row # blank on new rows, N = TEXTBEFORE formula, R 11/17, S 11/20, U:X 5/7/3/2). Row 133 SKU was C601082 -> C601082-01.
+- EVERY sheet row number from 134 down in this file is now +9 (e.g. 320 = 143-144, 310 = 164-165, CG = 259-350, TP = 351-358).
+
 ### Still open from before (details further down)
 - Cobra Can Combined (main doc tab 57): Andrew wrote "11/18 I did not finish commenting"; wants the general-use URL, "Use all C601098-xx", list all colors, Blue Gray rename yes, price per case no. Live combined product is on the FR page. Wait for him, then give a set.
 - Mini Can color variants; weights from Cortech for Mini Can/Cobra (sheet T203/T225/T235).
