@@ -96,7 +96,7 @@ add(tab='CG - Cortech Corner Guards',short='CG: Cortech Heavy Duty PVC Corner Gu
  sub='48” Wall Corner Guards in 1” to 4” Widths, Bullnose, Wood Grain, and Diamond Tread, with Adhesive or Screw Mounting',
  cur_sub='None',
  intro=['The **Cortech Heavy Duty PVC Corner Guards** protect drywall, plaster, and concrete wall corners from chips, dings, and damage in correctional and behavioral healthcare facilities, kitchens, hallways, storage areas, and parking garages, anywhere carts, forklifts, or dollies are used.',
-  'The 48” guards are made of PVC in the USA and come in 1” to 4” widths, a 2½” bullnose for rounded or obtuse corners, a 1½” wood grain style, and 3” and 4” diamond tread. Each one mounts with factory installed adhesive tape or with tamper-resistant screws.'],
+  'The 48” guards are made of PVC in the USA and come in 1” to 4” widths, a 2½” bullnose for rounded or obtuse corners, a 1½” wood grain style, and 3” and 4” diamond tread. Each one mounts with factory-installed adhesive tape or with tamper-resistant screws.'],
  bullets=['**Material:** Heavy duty PVC with high impact resistance; virtually unbreakable',
   '**Length:** 48” (8’ lengths available on request)',
   '**Widths:** 1”, 2”, 3”, or 4” standard; 2½” bullnose; 1½” wood grain; 3” or 4” diamond tread',
