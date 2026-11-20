@@ -878,5 +878,13 @@
   "seo_title": "Cortech SafeBin Lockable Trash Receptacle - 35 at Anchortex",
   "seo_desc": "Shop the Cortech SafeBin, a lockable molded trash receptacle with a tamper-resistant chute and a 35-gallon inner container that bolts to the floor or wall.",
   "baseline": "baselines/cortech/cortech-35-safebin-trash-receptacle.json"
+ },
+ {
+  "handle": "cortech-300-summit-guest-chair",
+  "html": "shopify-html/CT-300.html",
+  "subtitle": "One-Piece Molded Guest Chair with a Residential Look and an Optional Ballast Door",
+  "seo_title": "Cortech Summit Molded Guest Chair - 300 / 300S at Anchortex",
+  "seo_desc": "Shop the Cortech Summit Guest Chair, a one-piece molded guest chair with a calm, residential look and an optional ballast door, rated for outdoor use.",
+  "baseline": "baselines/cortech/cortech-300-summit-guest-chair.json"
  }
 ]
