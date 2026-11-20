@@ -782,5 +782,21 @@
   "seo_title": "Cortech Summit Molded Stool - 330 / 330S at Anchortex",
   "seo_desc": "Shop the Cortech Summit Stool, a compact one-piece molded stool with rounded edges and an optional ballast door for behavioral health and outdoor spaces.",
   "baseline": "baselines/cortech/cortech-330-summit-stool.json"
+ },
+ {
+  "handle": "norix-ev-double-pedestal-table-n700491",
+  "html": "shopify-html/DP.html",
+  "subtitle": "36”×96” Laminate Table on Two Molded Bases for Up to Eight People, with Wheelchair Access",
+  "seo_title": "Norix Double Pedestal Table - EV3696 / CY3696 at Anchortex",
+  "seo_desc": "Shop the Norix Double Pedestal table. A 36\"x96\" laminate top on two Evvolve or Jupiter molded bases seats up to eight, with ADA wheelchair access.",
+  "baseline": "baselines/new-products/norix-ev-double-pedestal-table-n700491.json"
+ },
+ {
+  "handle": "norix-ej-evvolve-junior-table-n700492",
+  "html": "shopify-html/EJ.html",
+  "subtitle": "Lower-Height Ballasted Molded Base Table for Youth Dayrooms, Classrooms, and Dining Areas",
+  "seo_title": "Norix Evvolve Jr. Table - EJ3600 / EJ3636 at Anchortex",
+  "seo_desc": "Shop the Norix Evvolve Jr. table. A lower 26.1\" high molded base table with 36\" round or square laminate top for youth dayrooms and classrooms.",
+  "baseline": "baselines/new-products/norix-ej-evvolve-junior-table-n700492.json"
  }
 ]
