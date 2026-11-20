@@ -854,5 +854,13 @@
   "seo_title": "Cortech Summit All Purpose Table - 361 / 363 / 364 at Anchortex",
   "seo_desc": "Shop the Cortech Summit All Purpose Table, a dining-height table with a one-piece molded base and a 42” round or delta laminate top, with an optional game top.",
   "baseline": "baselines/cortech/cortech-361-363-364-summit-all-purpose-table.json"
+ },
+ {
+  "handle": "cortech-210-sequoia-molded-wood-grain-behavioral-health-bed",
+  "html": "shopify-html/CT-210.html",
+  "subtitle": "One-Piece Molded Platform Bed with a Wood Grain Finish, Rounded Edges, and Optional Ballast Doors",
+  "seo_title": "Cortech Sequoia Molded Wood Grain Bed - 210 at Anchortex",
+  "seo_desc": "Shop the Cortech Sequoia Bed, a one-piece molded platform bed with a wood grain finish, rounded edges, and optional ballast doors for behavioral health rooms.",
+  "baseline": "baselines/cortech/cortech-210-sequoia-molded-wood-grain-behavioral-health-bed.json"
  }
 ]
