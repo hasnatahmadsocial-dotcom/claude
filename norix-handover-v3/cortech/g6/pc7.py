@@ -363,7 +363,7 @@ add(tab='311 - Cortech Summit Veldura Accent Chair',short='311 / 311S: Cortech S
  sub='One-Piece Molded Accent Chair with a Veldura Soft-Touch Finish and an Optional Ballast Door',
  cur_sub='Cortech 311 Summit Veldura Accent Chair with Veldura Soft-Touch Exterior',
  mt='Cortech Summit Veldura Accent Chair - 311 / 311S at Anchortex',
- md='Shop the Cortech Summit Veldura Accent Chair. A one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Veldura Accent Chair, a one-piece molded chair with a Veldura soft-touch finish and an optional ballast door, rated for outdoor use.',**c)
 
 # 13. Summit Accent Chair 310
 c=chair('310','Accent Chair',False,None,'27”W×29”D×29”H','27 lbs',
