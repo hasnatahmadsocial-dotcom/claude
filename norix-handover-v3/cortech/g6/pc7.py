@@ -377,4 +377,4 @@ add(tab='310 - Cortech Summit Accent Chair',short='310 / 310S: Cortech Summit Ac
  sub='One-Piece Molded Accent Chair with a Residential Look and an Optional Ballast Door',
  cur_sub='Cortech 310 Summit Accent Chair',
  mt='Cortech Summit Molded Accent Chair - 310 / 310S at Anchortex',
- md='Shop the Cortech Summit Accent Chair. A one-piece molded accent chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
+ md='Shop the Cortech Summit Accent Chair, a one-piece molded accent chair with a calm, residential look and an optional ballast door, rated for outdoor use.',**c)
