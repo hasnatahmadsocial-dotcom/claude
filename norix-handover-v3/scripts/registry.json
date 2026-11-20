@@ -798,5 +798,13 @@
   "seo_title": "Norix Evvolve Jr. Table - EJ3600 / EJ3636 at Anchortex",
   "seo_desc": "Shop the Norix Evvolve Jr. table. A lower 26.1\" high molded base table with 36\" round or square laminate top for youth dayrooms and classrooms.",
   "baseline": "baselines/new-products/norix-ej-evvolve-junior-table-n700492.json"
+ },
+ {
+  "handle": "cortech-101-101s3-solstice-safetyguard-behavioral-health-bed-with-guardrails",
+  "html": "shopify-html/CT-101.html",
+  "subtitle": "One-Piece Molded Bed with Raised Side Panels for Fall-Risk Patients, with Optional Ballast Doors",
+  "seo_title": "Cortech Solstice Safeguard Bed - 101 / 101S3 at Anchortex",
+  "seo_desc": "Shop the Cortech Solstice Safeguard Bed, a one-piece molded bed with raised side panels for fall-risk patients and optional underside ballast doors.",
+  "baseline": "baselines/cortech/cortech-101-101s3-solstice-safetyguard-behavioral-health-bed-with-guardrails.json"
  }
 ]
