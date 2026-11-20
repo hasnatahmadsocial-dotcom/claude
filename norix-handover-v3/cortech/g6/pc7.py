@@ -10,7 +10,7 @@ CORXN='Antimicrobial: the Cortech spec sheet says "Infused with CORx Antibacteri
 SUM_APPS=['Patient rooms, dayrooms, and lounges in behavioral healthcare facilities and psychiatric hospitals','Group rooms and visitor areas in residential treatment centers','Other secure settings that want a calm, residential look']
 TBL_APPS2=['Dayrooms, lounges, and waiting areas in behavioral healthcare facilities and psychiatric hospitals','Dining and activity areas in residential treatment centers','Other secure settings that want a calm, residential look']
 NIGHT_COLL=f"Explore Anchortex's [Behavioral Healthcare Anti-Ligature Furniture]({BH}) collection for more patient room furniture."
-SB_SERIES=FM_SERIES[:-1]+[('b1','**Carts:** Kangaroo Carts and lids for laundry, trash, and material handling'),
+SB_SERIES=[x for x in FM_SERIES[:-1] if not x[1].startswith('**Can Dollies:**')]+[('b1','**Carts:** Kangaroo Carts and lids for laundry, trash, and material handling'),
   ('b1','**Secure Waste Bins:** The lockable SafeBin with a 35-gallon inner container')]
 SEQ_FIN='**Finishes:** Heritage Oak, Natural Oak, Coastal Driftwood, Walnut, or Redwood wood grain (custom wood grain finishes available on request)'
 SEQ_CRAFT='**Wood Grain:** Like natural wood, each piece varies slightly in color and grain'
@@ -305,10 +305,10 @@ add(tab='35 - Cortech SafeBin Trash Receptacle',short='35: Cortech SafeBin Trash
  models=['**35 – SafeBin:** Body color of your choice with a black top'],
  install=['**Floor or Wall Mounting:** Bolt to the floor or wall through four pilot holes; concrete anchors, hex bolts, and washers are included; see Cortech instructions'],
  apps=apps('The SafeBin suits secure areas where staff need to keep trash and liners out of residents’ reach.',
-  ['Housing units, dayrooms, and common areas in correctional facilities and jails','Patient areas in behavioral healthcare facilities and psychiatric hospitals','Kitchens and other secure areas that need a locked trash receptacle'],TRASH_COLL),
+  ['Housing units, dayrooms, common areas and outdoor spaces in correctional facilities and jails','Patient areas in behavioral healthcare facilities and psychiatric hospitals','Kitchens and other secure areas that need a locked trash receptacle'],TRASH_COLL),
  series=SB_SERIES,
  mt='Cortech SafeBin Lockable Trash Receptacle - 35 at Anchortex',
- md='Shop the Cortech SafeBin. A lockable molded trash receptacle with a tamper-resistant chute and a 35-gallon inner container that bolts to the floor or wall.',
+ md='Shop the Cortech SafeBin, a lockable molded trash receptacle with a tamper-resistant chute and a 35-gallon inner container that bolts to the floor or wall.',
  notes=[SER_FM+' I added a "Secure Waste Bins" line for the SafeBin. Would you like it added to the other facilities maintenance pages too?',
   'H1: Cortech writes "SafeBin" with a capital B. I added "Lockable" and the model number 35.',
   'Weight: your variant is set to 115 lbs, which matches the Cortech spec sheet.',
