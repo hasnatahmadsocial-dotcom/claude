@@ -926,5 +926,13 @@
   "seo_title": "Cortech Tiger Plate Security Wall Plates - TP at Anchortex",
   "seo_desc": "Shop Cortech Tiger Plates, virtually unbreakable security wall plates for switches, outlets, and GFI receptacles in single or double gang, with security screws.",
   "baseline": "baselines/cortech/cortech-tp-tiger-series-security-wall-plates.json"
+ },
+ {
+  "handle": "cortech-cg-corner-guards",
+  "html": "shopify-html/CT-CG.html",
+  "subtitle": "48” Wall Corner Guards in 1” to 4” Widths, Bullnose, Wood Grain, and Diamond Tread, with Adhesive or Screw Mounting",
+  "seo_title": "Cortech Heavy Duty PVC Corner Guards - CG at Anchortex",
+  "seo_desc": "Shop Cortech heavy duty PVC corner guards, 48” wall corner protection in 1” to 4” widths, bullnose, and diamond tread, with adhesive or screw mounting.",
+  "baseline": "baselines/cortech/cortech-cg-corner-guards.json"
  }
 ]
