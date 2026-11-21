@@ -11,10 +11,21 @@ REX_SERIES=[('h3','[H2] About Rapid Extraction REX Stretchers'),
  ('b1','**REX ONE:** Multi-purpose extraction stretcher that converts to a backboard, mobile stretcher, or treatment cot'),
  ('b1','**REX DCS:** The REX ONE with a Descent Control System hand brake for stairs and steep ground'),
  ('b1','**REX DCS/CF:** The REX DCS for correctional facilities, with Humane Restraint cuffs and full body restraint straps')]
+EVAC_BRAND=f"[Evac+Chair]({C}evac-chair)"
+EVAC_SERIES=[('h3','[H2] About Evac+Chair Evacuation Chairs'),
+ ('p','Evac+Chair makes stair evacuation chairs, powered stair chairs, evacuation sleds, and accessories for moving people with limited mobility on stairs, in an emergency or every day.'),
+ ('p','The Evac+Chair line includes:'),
+ ('b1','**Emergency evacuation chairs:** The 300H, 400H, 600H, and 750H stair evacuation chairs for controlled travel down the stairs'),
+ ('b1','**Powered stair climbing chairs:** The battery powered Power 800 and Power 900 for going up and down the stairs'),
+ ('b1','**Stair transport seat:** The IBEX 700H Tran-Seat for two-person transport up and down the stairs'),
+ ('b1','**Evacuation sleds and mats:** The Evac+Sled, Ulti-Mat, and Evac+Sheet rescue sheet'),
+ ('b1','**Accessories:** Comfy Seat, transfer seat, storage cabinets, anti-theft alarms, and the iEvac smoke and fire escape hood')]
+EVAC_ABOUT=('p',f"Evac+Chair has made stairway evacuation chairs since 1982, and its chairs were designed in the United States. Explore the full line of {EVAC_BRAND} evacuation chairs at Anchortex.")
 REX_ABOUT=('p','Rapid Extraction (REX EMS, LLC) of Glendora, California, designs and builds REX stretchers in the U.S.A., and REX stretchers won an EMS World Innovation Award.')
 P=[]
 def add(**k): P.append(k)
 exec(open('pe1.py').read())
+exec(open('pe2.py').read())
 def content(d):
     URL=A+d['handle']
     sp=', '.join(f'[{n}]({u})' for n,u in d['specs'])
