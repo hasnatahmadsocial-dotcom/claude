@@ -28,6 +28,7 @@ exec(open('pe1.py').read())
 exec(open('pe2.py').read())
 exec(open('pe3.py').read())
 exec(open('pe4.py').read())
+exec(open('pe5.py').read())
 def content(d):
     URL=A+d['handle']
     sp=', '.join(f'[{n}]({u})' for n,u in d['specs'])
