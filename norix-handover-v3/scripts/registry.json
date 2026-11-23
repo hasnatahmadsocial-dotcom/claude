@@ -966,5 +966,13 @@
   "seo_title": "Norix Polycarbonate Wall Mirror - R565-416 / R565-417",
   "seo_desc": "Shop the Norix polycarbonate wall mirror, an impact-resistant, ligature-resistant mirror for behavioral health and corrections, in small and large sizes.",
   "baseline": "baselines/norix-nov23/norix-polycarbonate-wall-mirror-r565-416-r565-417.after-nov23.json"
+ },
+ {
+  "handle": "norix-arc100-arcadian-molded-platform-bed",
+  "html": "shopify-html/ARC100.html",
+  "subtitle": "One-Piece Ligature-Resistant Patient Bed with a Fluid-Containing Mattress Deck for Behavioral Health Facilities",
+  "seo_title": "Norix Arcadian Molded Platform Bed - ARC100 at Anchortex",
+  "seo_desc": "Shop the Norix Arcadian platform bed, a one-piece molded bed with a ligature-resistant design and raised edges that contain fluids, for behavioral health rooms.",
+  "baseline": "baselines/norix-nov23/norix-arc100-arcadian-molded-platform-bed.after-nov23.json"
  }
 ]
