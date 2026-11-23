@@ -942,5 +942,13 @@
   "seo_title": "Rapid Extraction REX DCS/CF Correctional Stretcher at Anchortex",
   "seo_desc": "Rapid Extraction's Multi-Purpose Extraction Stretcher, the REX DCS/CF, is a folding correctional facility stretcher with Humane Restraint cuffs and stair descent control. Shop it at Anchortex.",
   "baseline": "baselines/evac/rex-dcs-cf-multi-purpose-extraction-stretcher-for-correctional-facilities.json"
+ },
+ {
+  "handle": "rex-one-dcs-multi-purpose-extraction-stretcher-with-descent-control-system",
+  "html": "shopify-html/REX-DCS.html",
+  "subtitle": "Multi-Purpose Extraction Stretcher and Stair Stretcher with a Hand Brake for Controlled Descent Down Stairwells and Steep Terrain",
+  "seo_title": "Rapid Extraction REX DCS Rescue Litter at Anchortex",
+  "seo_desc": "Rapid Extraction REX DCS is a wheeled rescue litter and stair stretcher with a descent control hand brake, so one responder can move a patient down stairs. Shop it at Anchortex.",
+  "baseline": "baselines/evac/rex-one-dcs-multi-purpose-extraction-stretcher-with-descent-control-system.after-nov23.json"
  }
 ]
