@@ -21,6 +21,7 @@ P=[]
 def add(**k): P.append(k)
 exec(open('pn1.py').read())
 exec(open('pn2.py').read())
+exec(open('pn3.py').read())
 def content(d):
     sp=', '.join(f'[{n}]({u})' for n,u in d['specs'])
     if d.get('new'):
