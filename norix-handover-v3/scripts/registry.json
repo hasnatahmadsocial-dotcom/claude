@@ -950,5 +950,13 @@
   "seo_title": "Rapid Extraction REX DCS Rescue Litter at Anchortex",
   "seo_desc": "Rapid Extraction REX DCS is a wheeled rescue litter and stair stretcher with a descent control hand brake, so one responder can move a patient down stairs. Shop it at Anchortex.",
   "baseline": "baselines/evac/rex-one-dcs-multi-purpose-extraction-stretcher-with-descent-control-system.after-nov23.json"
+ },
+ {
+  "handle": "norix-progress-chair",
+  "html": "shopify-html/C920.html",
+  "subtitle": "Passive Ergonomic Stacking Chair with a Flexible Molded Backrest for Staff Areas, Classrooms, and Training Rooms",
+  "seo_title": "Norix Progress Molded Stackable Chair - C920 at Anchortex",
+  "seo_desc": "Shop the Norix Progress stackable chair, a molded chair with a flexible live hinge backrest and aluminum legs for staff areas, classrooms, and training rooms.",
+  "baseline": "baselines/norix-nov23/norix-progress-chair.json"
  }
 ]
