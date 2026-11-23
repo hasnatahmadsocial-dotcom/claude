@@ -1,6 +1,6 @@
 OK_NAMES={'7600 - Shelf / Step','8600 - Shelf / Step 2.0'}  # Andrew approved Nov 13
 # Evac/REX: REX has no compare-at (Rapid Extraction has no MSRP on our page); Evac+Chair price = 75% of compare-at (not 80%).
-NO_CA={'rex-dcs-cf-multi-purpose-extraction-stretcher-for-correctional-facilities','rex-one-dcs-multi-purpose-extraction-stretcher','rapid-extraction-rex-one-multi-purpose-extraction-stretcher'}
+NO_CA={'rex-dcs-cf-multi-purpose-extraction-stretcher-for-correctional-facilities','rex-one-dcs-multi-purpose-extraction-stretcher-with-descent-control-system','rapid-extraction-rex-one-multi-purpose-extraction-stretcher'}
 PCT75_PREFIX='evac-chair-'
 import json,sys,urllib.request,random,time,collections
 H=sys.argv[1:]
