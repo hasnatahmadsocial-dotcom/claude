@@ -934,5 +934,13 @@
   "seo_title": "Cortech Heavy Duty PVC Corner Guards - CG at Anchortex",
   "seo_desc": "Shop Cortech heavy duty PVC corner guards, 48” wall corner protection in 1” to 4” widths, bullnose, and diamond tread, with adhesive or screw mounting.",
   "baseline": "baselines/cortech/cortech-cg-corner-guards.json"
+ },
+ {
+  "handle": "rex-dcs-cf-multi-purpose-extraction-stretcher-for-correctional-facilities",
+  "html": "shopify-html/REX-DCSCF.html",
+  "subtitle": "Folding Rescue Stretcher with Humane Restraints and Stair Descent Control for Jail and Prison Response Teams",
+  "seo_title": "Rapid Extraction REX DCS/CF Correctional Stretcher at Anchortex",
+  "seo_desc": "Rapid Extraction's Multi-Purpose Extraction Stretcher, the REX DCS/CF, is a folding correctional facility stretcher with Humane Restraint cuffs and stair descent control. Shop it at Anchortex.",
+  "baseline": "baselines/evac/rex-dcs-cf-multi-purpose-extraction-stretcher-for-correctional-facilities.json"
  }
 ]
