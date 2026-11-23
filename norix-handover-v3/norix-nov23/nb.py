@@ -24,6 +24,7 @@ exec(open('pn2.py').read())
 exec(open('pn3.py').read())
 exec(open('pn4.py').read())
 exec(open('pn5.py').read())
+exec(open('pn6.py').read())
 def content(d):
     sp=', '.join(f'[{n}]({u})' for n,u in d['specs'])
     if d.get('new'):
