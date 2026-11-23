@@ -23,7 +23,7 @@ add(tab='C920 - Progress Stackable Chair',short='C920: Progress Stackable Chair'
   GG,
   '**Flammability:** Not California Technical Bulletin 133 compliant',
   '**Cleaning:** Simple Green or a similar cleaner for routine cleaning, and Clorox Clean-Up Cleaner + Bleach for tougher stains; soap and water for the legs',
-  W10.replace('10-year','10 year'),IND],
+  W10,IND],
  models=['**C920 – Progress Chair:** Armless stackable chair in Twilight, Cove, Sand, or Dove, 10 lbs',
   '**Upholstered Option:** The Progress Chair is also available with upholstery, in 8 Norix fabric grades'],
  install='No assembly is required.',
