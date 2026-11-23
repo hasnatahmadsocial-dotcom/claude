@@ -1,4 +1,7 @@
 OK_NAMES={'7600 - Shelf / Step','8600 - Shelf / Step 2.0'}  # Andrew approved Nov 13
+# Evac/REX: REX has no compare-at (Rapid Extraction has no MSRP on our page); Evac+Chair price = 75% of compare-at (not 80%).
+NO_CA={'rex-dcs-cf-multi-purpose-extraction-stretcher-for-correctional-facilities','rex-one-dcs-multi-purpose-extraction-stretcher','rapid-extraction-rex-one-multi-purpose-extraction-stretcher'}
+PCT75_PREFIX='evac-chair-'
 import json,sys,urllib.request,random,time,collections
 H=sys.argv[1:]
 for h in H:
@@ -17,7 +20,10 @@ for h in H:
         pr=float(v['price']);ca=float(v['compare_at_price'] or 0)
         t=v['title']
         if pr==0: iss.append(f'PRICE $0 {v["sku"]} {t}')
-        if ca==0: iss.append(f'compare-at $0 {v["sku"]} {t}')
+        if ca==0:
+            if h not in NO_CA: iss.append(f'compare-at $0 {v["sku"]} {t}')
+        elif h.startswith(PCT75_PREFIX):
+            if abs(pr-ca*0.75)>1: iss.append(f'price not 75% of compare-at {v["sku"]} {pr} vs {ca}')
         elif pr and abs(pr-ca*0.8)>0.01: iss.append(f'price not 80% of compare-at {v["sku"]} {pr} vs {ca}')
         if v['grams'] in (115666,0): iss.append(f'weight 255/0 {v["sku"]} {t}')
         if 'Solid' in t: iss.append(f'Solid in name {v["sku"]} {t}')

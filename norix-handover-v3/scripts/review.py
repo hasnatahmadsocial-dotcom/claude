@@ -27,13 +27,17 @@ chk(norm(open(HF).read())==norm(body),'description matches','DESCRIPTION differs
 chk(tag==ST,'SEO title ok','SEO title is "%s"'%tag)
 chk(50<=len(tag)<=65,'SEO title length %d'%len(tag),'SEO title length %d (need 50-65)'%len(tag))
 chk(meta==SD,'meta description ok','meta description is "%s"'%meta)
-chk(140<=len(meta)<=160,'meta length %d'%len(meta),'meta length %d (need 140-160)'%len(meta))
+EVAC='/evac/' in BL  # Evac+Chair / REX pages: client rule (Ricky's team, Nov 23) meta <=195; brochure PDFs allowed
+MMAX=195 if EVAC else 160
+chk(140<=len(meta)<=MMAX,'meta length %d'%len(meta),'meta length %d (need 140-%d)'%(len(meta),MMAX))
 chk(SUB in pg,'subtitle showing','SUBTITLE not found on page')
 chk('—' not in body+p['title']+tag+meta,'no em dashes','EM DASH found')
 chk(p['title'].count('–')==1,'H1 en dash ok','H1 en dash count %d'%p['title'].count('–'))
 chk('<h2>' in body and '<h1' not in body,'H2s ok','heading tags wrong')
 links=re.findall(r'href="([^"]+)"',body)
-chk(all('/collections/' in l for l in links),'links collections only','link to non-collection: %s'%[l for l in links if '/collections/' not in l])
+okl=lambda l: '/collections/' in l or (EVAC and '.pdf' in l.lower())
+chk(all(okl(l) for l in links),'links collections only' + (' (+ brochure PDF)' if any('.pdf' in l.lower() for l in links) else ''),'link to non-collection: %s'%[l for l in links if not okl(l)])
+links=[l.replace('https://cdn.shopify.com/s/files/1/0511/8990/7644/files/','https://www.anchortex.com/cdn/shop/files/') for l in links]  # cdn.shopify.com blocked here
 bad=[l for l in links if code(l)!='200']
 chk(not bad,'%d links load'%len(links),'BROKEN links %s'%bad)
 chk(p['handle']==b['handle'],'URL unchanged','URL CHANGED to %s'%p['handle'])
