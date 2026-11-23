@@ -958,5 +958,13 @@
   "seo_title": "Norix Progress Molded Stackable Chair - C920 at Anchortex",
   "seo_desc": "Shop the Norix Progress stackable chair, a molded chair with a flexible live hinge backrest and aluminum legs for staff areas, classrooms, and training rooms.",
   "baseline": "baselines/norix-nov23/norix-progress-chair.json"
+ },
+ {
+  "handle": "norix-polycarbonate-wall-mirror-r565-416-r565-417",
+  "html": "shopify-html/R565.html",
+  "subtitle": "Impact-Resistant Flush-Mount Mirror in Small and Large Sizes for Behavioral Health and Correctional Facilities",
+  "seo_title": "Norix Polycarbonate Wall Mirror - R565-416 / R565-417",
+  "seo_desc": "Shop the Norix polycarbonate wall mirror, an impact-resistant, ligature-resistant mirror for behavioral health and corrections, in small and large sizes.",
+  "baseline": "baselines/norix-nov23/norix-polycarbonate-wall-mirror-r565-416-r565-417.after-nov23.json"
  }
 ]
