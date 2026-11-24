@@ -974,5 +974,13 @@
   "seo_title": "Norix Arcadian Molded Platform Bed - ARC100 at Anchortex",
   "seo_desc": "Norix Arcadian Platform Bed is a one-piece molded bed with a ligature-resistant design and raised edges that contain fluids, for behavioral health patient rooms. Shop it at Anchortex.",
   "baseline": "baselines/meta-nov24/norix-arc100-arcadian-molded-platform-bed.json"
+ },
+ {
+  "handle": "norix-arcadian-arc800-wardrobe-without-door",
+  "html": "shopify-html/ARC800.html",
+  "subtitle": "One-Piece Ligature-Resistant Open Wardrobe with Concealed Floor Anchoring for Behavioral Health Patient Rooms",
+  "seo_title": "Norix Arcadian Wardrobe Without Door - ARC800 at Anchortex",
+  "seo_desc": "Norix Arcadian Wardrobe Without Door is a one-piece molded open wardrobe with a ligature-resistant design and concealed anchoring for patient rooms. Shop it at Anchortex.",
+  "baseline": "baselines/norix-nov23/norix-arcadian-arc800-wardrobe-without-door.after-nov24.json"
  }
 ]
