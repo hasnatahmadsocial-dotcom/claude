@@ -44,7 +44,7 @@ def content(d):
     p+=[('p',x) for x in d['intro']]+[('b1',x) for x in d['bullets']]
     if d['models']: p.append(('p','**Available Models and Options**')); p+=[('b1',x) for x in d['models']]
     p.append(('p','**Installation and Options**'))
-    p+=[('p',d['install'])] if isinstance(d['install'],str) else [('b1',x) for x in d['install']]
+    p+=[('b1',d['install'].rstrip('.'))] if isinstance(d['install'],str) else [('b1',x) for x in d['install']]   # Andrew Nov 24: 'No assembly is required' as a bullet, no period
     p+=d['apps']+d['series']+[('h3','[H2] About Norix Furniture'),('p',NXF)]
     p+=[('h2','Meta Title and Description'),('p',f"**Meta title ({len(d['mt'])} characters):** {d['mt']}")]
     if not d.get('new'): p.append(('p',f"**Current meta title:** {d['cur_mt']}"))
