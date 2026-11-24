@@ -28,7 +28,8 @@ chk(tag==ST,'SEO title ok','SEO title is "%s"'%tag)
 chk(50<=len(tag)<=65,'SEO title length %d'%len(tag),'SEO title length %d (need 50-65)'%len(tag))
 chk(meta==SD,'meta description ok','meta description is "%s"'%meta)
 EVAC='/evac/' in BL  # Evac+Chair / REX pages: client rule (Ricky's team, Nov 23) meta <=195; brochure PDFs allowed
-MMAX=195 if EVAC else 160
+# Norix too from Nov 24 (Andrew: Ricky/Angelo meta rule): expected meta ending 'Shop it at Anchortex.' -> 140-195
+MMAX=195 if (EVAC or SD.endswith('Shop it at Anchortex.')) else 160
 chk(140<=len(meta)<=MMAX,'meta length %d'%len(meta),'meta length %d (need 140-%d)'%(len(meta),MMAX))
 chk(SUB in pg,'subtitle showing','SUBTITLE not found on page')
 chk('—' not in body+p['title']+tag+meta,'no em dashes','EM DASH found')
