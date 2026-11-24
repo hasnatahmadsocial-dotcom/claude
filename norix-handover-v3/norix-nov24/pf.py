@@ -3,7 +3,8 @@
 # FO molded 12/24, FO wood 9/24), Forté brochure 2023, price list April 2026 pp. 15-16 (seating) and 49-50 (tables).
 # New Norix rules (Andrew Nov 24): MT ends " at Anchortex"; MD = "Norix <product> is ... Shop it at Anchortex." (<=195); "No assembly is required" as a bullet.
 TH='https://www.anchortex.com/collections/bh-shelter-transitional-housing'
-LINKS=f"Explore Anchortex's [Behavioral Healthcare Anti-Ligature Furniture]({BH}), [Prison and Detention Furniture]({CDF}), and [Transitional Housing Furniture]({TH}) collections for more institutional furniture."
+# Andrew Nov 24 (note in original doc "Tab 67"): Prison link deleted, Transitional Housing unlinked "to tell Google that BH Furniture is most important".
+LINKS=f"Explore Anchortex's [Behavioral Healthcare Anti-Ligature Furniture]({BH}) and Transitional Housing Furniture collections for more institutional furniture."
 FORTE_SERIES=[
 ('h3','[H2] About Norix Forté Furniture'),
 ('p','Norix Forté is a designer series of seating and tables that brings comfort and a less institutional look to intensive-use rooms in behavioral healthcare and correctional facilities. The chairs and molded bases are rotationally molded from high-impact polyethylene with Norix TruColor polymer, and many pieces can be ballasted, bolted down, or ganged together.'),
@@ -29,7 +30,7 @@ LAM_COLORS='**Laminate Top Colors:** Titanium Evolve, Wild Cherry, Kensington Ma
 PRICE_OK='Prices checked: {} No change.'
 PHOTO_KEEP='Images: the {} current images are kept{}.'
 OLD_ABOUT='Removed: the long old series paragraph and the long old "About Norix Furniture" paragraph; replaced with the new Forté section and the standard paragraph used on all Norix pages.'
-COLL='Collections: the {} is already in Behavioral Healthcare, Prison and Detention Furniture, Transitional Housing, and Norix Furniture. I added a Transitional Housing Furniture link, since all seven Forté products are in that collection.'
+COLL='Collections: the {} is already in Behavioral Healthcare, Prison and Detention Furniture, Transitional Housing, and Norix Furniture. I added Transitional Housing Furniture to the collections sentence, since all seven Forté products are in that collection.'
 
 def C(h): return CUR[h]
 
