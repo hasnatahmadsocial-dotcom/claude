@@ -54,7 +54,7 @@ add(brand='EVAC', tab='Power 900 - Evac+Chair Electric Stair Climber',
  series=EVAC_SERIES, about=EVAC_ABOUT,
  mt='Evac+Chair Power 900 Electric Stair Climber Chair at Anchortex',
  cur_mt='Evac+Chair Power 900 Battery Stair Chair - Emergency Evacuation or Daily Care | Anchortex',
- md='Shop the Evac+Chair Power 900, an electric stair climber chair with 4 speeds that does the job of a stair climbing wheelchair, for evacuation and daily care.',
+ md='Evac+Chair Power 900 is an electric stair climber chair with 4 speeds that does the job of a stair climbing wheelchair, for emergency evacuation and daily patient transport. Shop it at Anchortex.',
  cur_md='Government GSA pricing on Evac-Chair evacuation chairs and accessories and other top workplace safety brands.',
  notes=[
   'Keywords and H1: Ricky asked to check the results page before using "stair climbing wheelchair" in the H1. The results for that term are research projects, patents, and news about wheelchairs that climb stairs on their own, not product pages for stair chairs. So I used "electric stair climber chair" (Evac+Chair\'s own wording) in the H1, and put "stair climbing wheelchair" in the subtitle, intro, a FAQ, and the meta description. If you prefer it in the H1: "Evac+Chair Power 900 Stair Climbing Wheelchair – Battery Powered Stair Chair".',

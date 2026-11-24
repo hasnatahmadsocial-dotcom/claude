@@ -56,7 +56,7 @@ add(brand='REX', tab='REX ONE - Rapid Extraction Rescue Stretcher',
  series=REX_SERIES, about=REX_ABOUT,
  mt='Rapid Extraction REX ONE Rescue Stretcher at Anchortex',
  cur_mt='REX ONE – Multi-Purpose Extraction Stretcher | Anchortex',
- md='Shop the Rapid Extraction REX ONE rescue stretcher, a tri-fold mobile stretcher, backboard, and treatment cot that lets one responder move a patient fast.',
+ md='Rapid Extraction REX ONE is a multi-purpose rescue stretcher, backboard, and treatment cot on all-terrain wheels that lets one responder move a patient fast. Shop it at Anchortex.',
  cur_md='Rapid Extraction REX extraction stretchers are a multi-functional, collapsible, all terrain stretcher designed to move the injured over varied terrain and conditions, faster and easier than ever before. Government and GSA pricing available.',
  notes=[
   'Keywords: Ricky\'s primary keyword "rescue stretcher" is in the H1, the first sentence, a FAQ, the meta title, and the meta description. The search results for it are rescue stretcher product pages (basket, scoop, SKED, and roll-up stretchers from Ferno, CMC, and Spencer), so a wheeled rescue stretcher fits. "Evacuation stretcher" is in the subtitle and intro.',

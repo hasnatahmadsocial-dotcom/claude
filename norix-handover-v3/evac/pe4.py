@@ -52,7 +52,7 @@ add(brand='EVAC', tab='IBEX 700H - Evac+Chair Transport Chair for Stairs',
  series=EVAC_SERIES, about=EVAC_ABOUT,
  mt='Evac+Chair IBEX 700H Transport Chair for Stairs at Anchortex',
  cur_mt='Evac+Chair IBEX 700H Tran-Seat Patient Stair Evacuation Seat | Anchortex',
- md='Shop the Evac+Chair IBEX 700H Tran-Seat, a two-person transport chair for stairs that moves a patient up and down spiral and tight stairways with no lifting.',
+ md='Evac+Chair IBEX 700H Tran-Seat is a two-person transport chair for stairs that moves a patient up and down spiral and tight stairways with no lifting. Shop it at Anchortex.',
  cur_md='Government GSA pricing on Evac-Chair evacuation chairs and accessories and other top workplace safety brands.',
  notes=[
   'Keywords: as Ricky noted, the product name terms (IBEX, Tran-Seat, patient stair evacuation seat) stay in the H1 and meta title. The primary keyword "transport chair for stairs" is in the subtitle, the first sentence, a FAQ, the meta title, and the meta description, and "patient transport chair" is in the intro. The search results for "transport chair for stairs" are stair chair product pages (Stryker, Ferno, EZ-LITE), so the term fits. None of the competitors that sell the 700H (School Health, Med Mart, Health Products For You) use it in their titles.',

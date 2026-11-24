@@ -51,7 +51,7 @@ add(brand='EVAC', tab='600H - Evac+Chair Dual-Position Evacuation Chair',
  series=EVAC_SERIES, about=EVAC_ABOUT,
  mt='Evac+Chair 600H Wheelchair Evacuation Chair at Anchortex',
  cur_mt='Evac+Chair 600H Evacuation Stair Chair | Anchortex',
- md='Shop the Evac+Chair 600H, a dual-position wheelchair evacuation chair with a flat or hammock seat and carry handles for upward evacuation on the stairs.',
+ md='Evac+Chair 600H is a dual-position wheelchair evacuation chair with a flat or hammock seat and fold-away carry handles for downward and upward evacuation on stairs. Shop it at Anchortex.',
  cur_md='Government GSA pricing on Evac-Chair evacuation chairs and accessories and other top workplace safety brands.',
  notes=[
   'Keywords and your note: you said we do not sell an evacuation wheelchair, and Ricky\'s primary keyword for this page is "evacuation wheelchair" (80/mo). The search results for it are evacuation chair pages (Stryker evacuation chairs, and stores selling this 600H, which Evac+Chair itself calls a "dual-position evacuation wheelchair"). So I used it the way you suggested: "used in place of an evacuation wheelchair on stairs" (subtitle and intro) and the FAQ "Is the Evac+Chair 600H an evacuation wheelchair?", which says it is not an everyday wheelchair. The H1, meta title, and meta description use the secondary keyword "wheelchair evacuation chair" (an evacuation chair for wheelchair users). Is this OK?',

@@ -53,7 +53,7 @@ add(brand='EVAC', tab='Power 800 - Evac+Chair Stair Climbing Chair',
  series=EVAC_SERIES, about=EVAC_ABOUT,
  mt='Evac+Chair Power 800 Stair Climbing Chair at Anchortex',
  cur_mt='Evac+Chair Power 1-800 Battery Stair Chair - Emergency Evacuation or Daily Care | Anchortex',
- md='Shop the Evac+Chair Power 800, a battery powered stair climbing chair that carries a passenger up and down the stairs, for emergency evacuation and daily care.',
+ md='Evac+Chair Power 800 is a battery powered stair climbing chair that carries a passenger up and down the stairs with one operator, for emergency evacuation and daily care. Shop it at Anchortex.',
  cur_md='Government GSA pricing on Evac-Chair evacuation chairs and accessories and other top workplace safety brands.',
  notes=[
   'Keywords: Ricky\'s primary keyword "stair climbing chair" is in the H1, the first sentence, the meta title, and the meta description. "Battery powered stair chair" and "motorized stair climbing chair" are in the subtitle, the intro, and the FAQs. The search results for "stair climbing chair" are product pages (electric stair chairs from Walmart, Vevor, Stryker), not stairlifts, so the term fits this product.',
