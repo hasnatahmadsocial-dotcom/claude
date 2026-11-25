@@ -1022,5 +1022,13 @@
   "seo_title": "Norix RockSmart Molded Rocking Chair - RA16 / RA18 at Anchortex",
   "seo_desc": "Norix RockSmart Rocking Chair is a one-piece molded rocker with a safe rocking arc and a ligature-resistant design, in 16” and 18” seat widths. Shop it at Anchortex.",
   "baseline": "baselines/norix-nov23/norix-rocksmart-rocking-chair.after-nov24.json"
+ },
+ {
+  "handle": "norix-arc801-arcadian-wardrobe-with-door",
+  "html": "shopify-html/ARC801.html",
+  "subtitle": "One-Piece Ligature-Resistant Wardrobe with a Molded Locking Door and Optional Safety Mirror for Behavioral Health Patient Rooms",
+  "seo_title": "Norix Arcadian Wardrobe With Door - ARC801 at Anchortex",
+  "seo_desc": "Norix Arcadian Wardrobe With Door is a one-piece molded wardrobe with a locking door, optional safety mirror, and ligature-resistant design. Shop it at Anchortex.",
+  "baseline": "baselines/norix-nov23/norix-arc801-arcadian-wardrobe-with-door.after-nov24.json"
  }
 ]
