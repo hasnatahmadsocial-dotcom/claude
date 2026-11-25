@@ -998,5 +998,13 @@
   "seo_title": "Norix Arcadian Molded Nightstand - ARC250 at Anchortex",
   "seo_desc": "Norix Arcadian Nightstand is a one-piece molded bedside table with two open cubbies and a ligature-resistant design for behavioral health patient rooms. Shop it at Anchortex.",
   "baseline": "baselines/norix-nov23/norix-arc250-arcadian-nightstand.after-nov25.json"
+ },
+ {
+  "handle": "norix-arc600-arcadian-desk",
+  "html": "shopify-html/ARC600.html",
+  "subtitle": "One-Piece Ligature-Resistant Writing Desk with Open Knee Space for Behavioral Health Patient Rooms",
+  "seo_title": "Norix Arcadian Molded Floor-Mount Desk - ARC600 at Anchortex",
+  "seo_desc": "Norix Arcadian Floor-Mount Desk is a one-piece molded writing desk with open knee space and a ligature-resistant design for behavioral health rooms. Shop it at Anchortex.",
+  "baseline": "baselines/norix-nov23/norix-arc600-arcadian-desk.after-nov24.json"
  }
 ]
