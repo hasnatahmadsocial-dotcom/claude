@@ -54,7 +54,9 @@ if __name__=='__main__':
         c=content(d); s=json.dumps(c,ensure_ascii=False); e=[]
         if '—' in s: e.append('EMDASH')
         if not(50<=len(d['mt'])<=65): e.append('MT %d'%len(d['mt']))
-        if not(140<=len(d['md'])<=160): e.append('MD %d'%len(d['md']))
+        if not(140<=len(d['md'])<=195): e.append('MD %d'%len(d['md']))   # Ricky's team rule (Nov 23): <=195
+        if not d['md'].startswith(d['h1'].split(' ')[0]) or 'Anchortex' not in d['md'].split('. ')[-1]: e.append('MD-RICKY (brand first + Anchortex action sentence)')
+        if 'Model' in d['h1']: e.append('H1 has "Model" (Ricky/Andrew: only if it adds clarity)')
         if len(d['tab'])>50: e.append('TAB %d'%len(d['tab']))
         if d['h1'].count('–')!=1: e.append('H1 endash')
         for k,t in c:
