@@ -982,5 +982,13 @@
   "seo_title": "Norix Arcadian Wardrobe Without Door - ARC800 at Anchortex",
   "seo_desc": "Norix Arcadian Wardrobe Without Door is a one-piece molded open wardrobe with a ligature-resistant design and concealed anchoring for patient rooms. Shop it at Anchortex.",
   "baseline": "baselines/norix-nov23/norix-arcadian-arc800-wardrobe-without-door.after-nov24.json"
+ },
+ {
+  "handle": "norix-arc700-arcadian-open-chest",
+  "html": "shopify-html/ARC700.html",
+  "subtitle": "One-Piece Ligature-Resistant Storage Chest with Two Open Cubbies for Behavioral Health Patient Rooms",
+  "seo_title": "Norix Arcadian Molded Open Chest - ARC700 at Anchortex",
+  "seo_desc": "Norix Arcadian Open Chest is a one-piece molded storage chest with two open cubbies and a ligature-resistant design for behavioral health patient rooms. Shop it at Anchortex.",
+  "baseline": "baselines/norix-nov23/norix-arc700-arcadian-open-chest.after-nov24.json"
  }
 ]
