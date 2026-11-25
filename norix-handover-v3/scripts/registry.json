@@ -1014,5 +1014,13 @@
   "seo_title": "Norix Respite Molded Chaise Lounge - RES70 at Anchortex",
   "seo_desc": "Norix Respite Chaise Lounge is a trauma-informed lounge chair with an integrated pillow and gentle recline for behavioral health and crisis care rooms. Shop it at Anchortex.",
   "baseline": "baselines/norix-nov23/norix-respite-chaise-lounge-res70.after-nov24.json"
+ },
+ {
+  "handle": "norix-rocksmart-rocking-chair",
+  "html": "shopify-html/RA16.html",
+  "subtitle": "One-Piece Ligature-Resistant Rocker in 16” and 18” Sizes, in Standard or Heavier Weight, with or without Runners",
+  "seo_title": "Norix RockSmart Molded Rocking Chair - RA16 / RA18 at Anchortex",
+  "seo_desc": "Norix RockSmart Rocking Chair is a one-piece molded rocker with a safe rocking arc and a ligature-resistant design, in 16” and 18” seat widths. Shop it at Anchortex.",
+  "baseline": "baselines/norix-nov23/norix-rocksmart-rocking-chair.after-nov24.json"
  }
 ]
