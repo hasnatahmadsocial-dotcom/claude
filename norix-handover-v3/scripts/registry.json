@@ -1006,5 +1006,13 @@
   "seo_title": "Norix Arcadian Molded Floor-Mount Desk - ARC600 at Anchortex",
   "seo_desc": "Norix Arcadian Floor-Mount Desk is a one-piece molded writing desk with open knee space and a ligature-resistant design for behavioral health rooms. Shop it at Anchortex.",
   "baseline": "baselines/norix-nov23/norix-arc600-arcadian-desk.after-nov24.json"
+ },
+ {
+  "handle": "norix-respite-chaise-lounge-res70",
+  "html": "shopify-html/RES70.html",
+  "subtitle": "Trauma-Informed Lounge Chair with an Integrated Pillow and Gentle Recline for Behavioral Health and Crisis Care Rooms",
+  "seo_title": "Norix Respite Molded Chaise Lounge - RES70 at Anchortex",
+  "seo_desc": "Norix Respite Chaise Lounge is a trauma-informed lounge chair with an integrated pillow and gentle recline for behavioral health and crisis care rooms. Shop it at Anchortex.",
+  "baseline": "baselines/norix-nov23/norix-respite-chaise-lounge-res70.after-nov24.json"
  }
 ]
