@@ -543,3 +543,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - ARC801 mirror variants: "add 3 lbs for the mirrors" -> Steel + Polycarbonate variants 185 lb (N700303-04/-05/-06/-07). Sheet N183,N184,N186,N187 = 185 written. Shopify weights NOT changed yet.
 - RES70 combo variant: "no".
 - **NEW RULE: when adding variants, set inventory to 100 or 1000, following the original variant's inventory.** Andrew already set inventory for the new variants (ARC700/250/600/RES70/ARC801). Include in every future set with new variants.
+- Nov 25 live check: ARC801 mirror variants 185 lb (-04/-05/-06/-07), no-mirror 182 lb; text/SEO/prices unchanged; registry baseline -> *.after-nov25.json. All new variants (ARC801, ARC700, ARC250, ARC600, RES70) show available = in stock (inventory itself not visible from storefront).
