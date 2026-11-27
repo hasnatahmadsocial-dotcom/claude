@@ -620,3 +620,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - ADS in-scope LEFT (8): C920 #42, ATN140/145 #47, RockSmart #48, ATN620/621/625 #50, C212 #52, MP Rectangle #54, C213 #80, ATN120/130/150 #88.
 - **ADS #42 C920 DONE Nov 27** (⭐): sidechair/linking/armchair bullet removed; weight 10; Cove + Dove photos added before chart (7 images). Live check passed 16:16.
 - **ADS #47 ATN140/145 Sleigh Bed DONE Nov 27** (⭐): weights 125/125/138/138 (0 lb on drainage variants fixed); "ATN145- 18" High" -> "ATN145 - 18" High". SKU -03 already right on ADS. Live check passed 16:20.
+- **ADS #48 RockSmart DONE Nov 27** (⭐): weights 49/71/51/71 x2; chart alt "Norix Oasis Cafeteria Table" removed; dayroom photo added (img 7, chart last). Live check passed 16:25.
