@@ -602,3 +602,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #23 ATN310 Bookshelf DONE Nov 27** (⭐): 13"L -> 13"D; weight 22. Editor dropped data-mce-style attrs (check.py ignores data-mce-*). Live check passed 13:58.
 - **ADS #24 ATN401 Four Shelf DONE Nov 27** (⭐): weight 255 -> 69 only. Live check passed 13:59.
 - **ADS #25 ATN301 Three Shelf DONE Nov 27** (⭐): weight 255 -> 50 only. Live check passed 14:01.
+- **ADS #26 ATN101/103 Platform Bed DONE Nov 27** (⭐): -04 renamed "ATN103B - Bed with No Mounting Holes and Bottom Closure Panel" (ADS models-list wording; Andrew "Good catch"); weight text 108-125 -> 108-115; weights 110/108/110/115. Live check passed 14:07. Next: #27 R565 OUT of scope (ANC old copy) -> skip; #28 Tank Box Lid.
