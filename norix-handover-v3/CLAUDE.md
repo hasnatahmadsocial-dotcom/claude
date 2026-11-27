@@ -622,3 +622,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #47 ATN140/145 Sleigh Bed DONE Nov 27** (⭐): weights 125/125/138/138 (0 lb on drainage variants fixed); "ATN145- 18" High" -> "ATN145 - 18" High". SKU -03 already right on ADS. Live check passed 16:20.
 - **ADS #48 RockSmart DONE Nov 27** (⭐): weights 49/71/51/71 x2; chart alt "Norix Oasis Cafeteria Table" removed; dayroom photo added (img 7, chart last). Live check passed 16:25.
 - **ADS #50 ATN620/621/625 Wall Desk DONE Nov 27** (⭐): weights 0 -> 45/65/45 (ADS order -03/-01/-02). Live check passed 16:28.
+- **ADS #52 C212 + #80 C213 DONE Nov 27** (⭐): C212 weights 0 -> 81/110/145 (after a mix-up with C213 weights); C213 width 86 -> 65 (C213-3), weights 87/118/153 (Zeemal had typed 65 into Packed product size W; cleared). Live checks passed 16:43 / 16:44.
