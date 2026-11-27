@@ -3,7 +3,13 @@ import json,re,sys,html,urllib.request,random,subprocess
 h,before,exp=sys.argv[1:4]; W=[float(x) for x in sys.argv[4].split(',')] if len(sys.argv)>4 else None
 EN={int(k):v for k,v in (x.split('=',1) for x in sys.argv[6].split('|'))} if len(sys.argv)>6 else {}
 EP={int(k):tuple(v.split('/')) for k,v in (x.split(':') for x in sys.argv[5].split(','))} if len(sys.argv)>5 and sys.argv[5] else {}
-get=lambda u: subprocess.run(['curl','-s',u],capture_output=True,text=True).stdout
+import time
+def get(u):
+    for i in range(5):
+        o=subprocess.run(['curl','-s',u],capture_output=True,text=True).stdout
+        if o.startswith('{'): return o
+        time.sleep(4)
+    return o
 B=json.loads(get(f'https://www.americandetentionsupplies.com/products/{h}.json?x={random.randint(1,99999)}'))['product']
 A=json.load(open(before)); A=A.get('product',A)
 n=lambda s: re.sub(r'\s+(?=<)','',re.sub(r'\s+',' ',re.sub(r'</?span>|<span></span>','',re.sub(r' data-mce-[a-z-]+="[^"]*"','',s)).replace('<span></span>',''))).strip()
