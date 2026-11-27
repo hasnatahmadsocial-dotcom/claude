@@ -588,3 +588,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #12 IPH-200 Pass Hopper DONE Nov 27** (spec ads/iph/dl 11/24): weight 255 -> 47 only; text = spec (PL 10-1/8"H vs spec 12.5"H, spec wins). Price $0 (PL P.O.A., ANC $0) -> Andrew. Live check passed 11:56.
 - **ADS #13 IPP Package Pass DONE Nov 27** (spec ads/ipp/dl 11/24 + PL): weights 255 -> 92 / 70 only. Price $0 = P.O.A. ("Call for quote" in text). Live check passed 12:00.
 - **ADS #14 S565 Ball Clothes Hook DONE Nov 27** (specs ads/ballhook/dl 8/25 + PL): weights 255 -> 0.8/4/10.5 (PL; specs give none); S565-531 size 5-1/2"H x 2-7/16"D -> 6-1/2"H x 2.7"D (spec). Live check passed 12:05. (Zeemal first sent the TOWEL HOOK link = #76; towel hook JSON saved ads/s565hook/.)
+- **ADS #15 IBF Bench with Cuff Rings DONE Nov 27** (spec ads/ibf/dl + PL): weights 255 -> 70/85/100/115 only. Live check passed 12:08.
