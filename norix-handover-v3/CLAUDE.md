@@ -605,3 +605,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #26 ATN101/103 Platform Bed DONE Nov 27** (⭐): -04 renamed "ATN103B - Bed with No Mounting Holes and Bottom Closure Panel" (ADS models-list wording; Andrew "Good catch"); weight text 108-125 -> 108-115; weights 110/108/110/115. Live check passed 14:07. Next: #27 R565 OUT of scope (ANC old copy) -> skip; #28 Tank Box Lid.
 - **ADS #29 Tank Box DONE Nov 27** (📄): PB150 height 10-7/8 -> 11; PB350 outside -> 33.9x22.9x11, bad inside line removed; weights 9.5/9/12/22.5. 3 size photos NOT added (images/ads-tankbox/, on Andrew list unless Zeemal has access). Live check passed 14:13.
 - #28 Tank Box Lid: text OK (1.25"H x3; editor dropped spans, TANKLID.html = live body); PBL400 weight still 3.5 (should be 4) as of 14:13.
+- Tank Box images: Zeemal CAN add images now (3 added 14:16; order PB200, PB150, PB350 vs ANC PB150, PB200, PB350).
