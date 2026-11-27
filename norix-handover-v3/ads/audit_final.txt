@@ -49,8 +49,6 @@
 ✅ norix-citadel-property-storage-boxes | 0 issues
 ✅ norix-duravision-full-dome-mirror | 0 issues
 ✅ norix-duravision-half-dome-mirror | 0 issues
-⚠️ norix-duravision-quarter-dome-mirror | 2 issues
-     wt MQD-12 - 12"x12" 10.0->7.2
-     wt MQD-N18 - 18"x18" 10.0->9.5
+✅ norix-duravision-quarter-dome-mirror | 0 issues
 ✅ norix-tank-box-property-storage-boxes | 0 issues
 ✅ norix-tank-box-property-storage-box-lids | 0 issues
