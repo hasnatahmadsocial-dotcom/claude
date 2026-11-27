@@ -615,3 +615,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #35 Leg Style Rectangle DONE Nov 27** (⭐): renamed LS3072 / LS3096 "- 30x72/30x96 Plain Top" (Andrew yes); weights 142/190. Live check passed 15:24.
 - **ADS #36 Leg Style Round + #37 Leg Style Square DONE Nov 27** (⭐): round Solid -> Plain, 138/138; square 115/115/137/137. Live checks passed 15:28.
 - **ADS #38 X-Base Round + #39 X-Base Square DONE Nov 27** (⭐): round renamed to 'XBxx00 - xx" Round - Plain/Game Top' (Andrew yes), 126/142/164; square Solid -> Plain, 139/162. Live checks passed 15:37.
+- **ADS #40 Max-Master 8 Round DONE Nov 27** (⭐): Type Solid -> Plain x3, weights 372 x6. Live check passed 15:56. #41 MM 6 Rect: only variant -02 done at 15:56 (-03/-04 still Solid/255).
