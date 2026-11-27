@@ -618,3 +618,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #40 Max-Master 8 Round DONE Nov 27** (⭐): Type Solid -> Plain x3, weights 372 x6. Live check passed 15:56. #41 MM 6 Rect: only variant -02 done at 15:56 (-03/-04 still Solid/255).
 - **ADS Max-Master 6 Rect (#41), 6 Round (#90), 8 Rect (#89), 4 Round (#91) DONE Nov 27** (⭐): Type Solid -> Plain x3 each; weights 280 / 270+230 SS / 375 / 183+174 SS. Live checks passed 16:10. MM4 ADS extra Oasis_Top_Palette image = not our correction (left). check.py get() retries.
 - ADS in-scope LEFT (8): C920 #42, ATN140/145 #47, RockSmart #48, ATN620/621/625 #50, C212 #52, MP Rectangle #54, C213 #80, ATN120/130/150 #88.
+- **ADS #42 C920 DONE Nov 27** (⭐): sidechair/linking/armchair bullet removed; weight 10; Cove + Dove photos added before chart (7 images). Live check passed 16:16.
