@@ -6,7 +6,7 @@ EP={int(k):tuple(v.split('/')) for k,v in (x.split(':') for x in sys.argv[5].spl
 get=lambda u: subprocess.run(['curl','-s',u],capture_output=True,text=True).stdout
 B=json.loads(get(f'https://www.americandetentionsupplies.com/products/{h}.json?x={random.randint(1,99999)}'))['product']
 A=json.load(open(before)); A=A.get('product',A)
-n=lambda s: re.sub(r'\s+',' ',s).strip()
+n=lambda s: re.sub(r'\s+(?=<)','',re.sub(r'\s+',' ',s)).strip()
 e=open(exp).read(); ok=n(B['body_html'])==n(e)
 print('updated',B['updated_at']); print(('✅' if ok else '⚠️'),'description = expected HTML')
 if not ok:
