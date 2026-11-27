@@ -601,3 +601,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #22 ATN500 Stool DONE Nov 27** (⭐): weight 255 -> 9.5 only. Live check passed 13:55.
 - **ADS #23 ATN310 Bookshelf DONE Nov 27** (⭐): 13"L -> 13"D; weight 22. Editor dropped data-mce-style attrs (check.py ignores data-mce-*). Live check passed 13:58.
 - **ADS #24 ATN401 Four Shelf DONE Nov 27** (⭐): weight 255 -> 69 only. Live check passed 13:59.
+- **ADS #25 ATN301 Three Shelf DONE Nov 27** (⭐): weight 255 -> 50 only. Live check passed 14:01.
