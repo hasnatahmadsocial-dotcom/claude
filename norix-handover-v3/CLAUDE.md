@@ -610,3 +610,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #31 DuraVision Half Dome DONE Nov 27** (📄): frame Cream -> Almond (mirror stays Silver; fixed after a mix-up); weights 5.8/8.1/13.9; line-of-sight image added (img 2). Live check passed 14:24.
 - **ADS #28 Tank Box Lid DONE Nov 27** (📄): heights 1 -> 1.25 (x3), PBL401 3.5 lb, PBL400 back to 4 (after several tries). Live check passed 15:02.
 - **ADS #32 DuraVision Full Dome DONE Nov 27** (📄): 180 -> 360° view; frame Cream -> Almond; weights 6.2/9.8; 2 photos added (Ceiling-Mounted then Line-of-Sight; wrong half-dome image removed). Live check passed 15:08.
+- **ADS #33 Multi-Purpose Square DONE Nov 27** (⭐): weights 63/63/79/79; Solid -> Plain x2. Live check passed 15:15.
