@@ -578,3 +578,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - ADS ACCESS (Zeemal Nov 27): the ADS staff account CANNOT add or remove images. Image fixes go on a list for Andrew: ads/images_for_andrew.md.
 - **ADS PBL201-607.1 Citadel Lid DONE Nov 26** (text already right per spec/doc; 4 lb kept per Andrew): Anchortex fix only (2nd save). Images -> ads/images_for_andrew.md. Live check passed 19:14.
 - **ADS PB301-607.1 Citadel Box DONE Nov 26**: variant 7 -> 6.5 lb (spec, = ANC, Andrew "leave as is"); Anchortex fix. Images on Andrew list. Live check passed 19:18.
+- **ADS MNE7 Dorm Innerspring Mattress DONE Nov 26** (spec ads/mne7/dl MNE7 3/25 + PL): intro "Form Foam Mattress" -> "Dorm Innerspring Mattress"; "Sewn Sealed ... 3 year limited warranty" -> "Sewn Seam ... limited replacement warranty"; size bullets 6" -> 7"; weights 255 -> 28/28/33; Anchortex fix. MRC fees + bed bug rating left (no source). Live check passed 19:24.
