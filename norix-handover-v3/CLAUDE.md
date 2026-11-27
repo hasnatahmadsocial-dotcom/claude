@@ -599,3 +599,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #20 ATN250/255 Nightstand DONE Nov 27** (⭐): heights 23 -> 23.3 / 23-7/8 -> 24; ballasted models ATN704B50/ATN755B50 "Chest" -> ATN253B35 / ATN255B "Nightstand" (as ANC); weights 30/33. Live check passed 13:52.
 - **ADS #21 ATN601 Desk DONE Nov 27** (⭐): size 36x24x29 -> 35.6"W x 23.7"D x 30.1"H (spec); weight 48. Editor collapsed double spaces (check.py now ignores). Live check passed 13:54.
 - **ADS #22 ATN500 Stool DONE Nov 27** (⭐): weight 255 -> 9.5 only. Live check passed 13:55.
+- **ADS #23 ATN310 Bookshelf DONE Nov 27** (⭐): 13"L -> 13"D; weight 22. Editor dropped data-mce-style attrs (check.py ignores data-mce-*). Live check passed 13:58.
