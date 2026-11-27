@@ -10,7 +10,7 @@ print('updated',B['updated_at']); print(('✅' if ok else '⚠️'),'description
 if not ok:
     import difflib
     for l in difflib.unified_diff(n(e).split('> '),n(B['body_html']).split('> '),lineterm='',n=0): print('   ',l[:220])
-print('✅' if 'Anchortex' not in B['body_html'] else '⚠️','Anchortex count',B['body_html'].count('Anchortex'))
+print('ℹ️ Anchortex count',B['body_html'].count('Anchortex'),'| American Detention Supplies count',B['body_html'].count('American Detention Supplies'))
 for k in ['title','handle','vendor','product_type','tags']: print('✅' if A[k]==B[k] else '⚠️',k,'same' if A[k]==B[k] else f'{A[k]!r}->{B[k]!r}')
 av={v['id']:v for v in A['variants']}
 print('✅' if len(A['variants'])==len(B['variants']) else '⚠️','variants',len(A['variants']),'->',len(B['variants']))
