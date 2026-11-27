@@ -577,3 +577,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS DuraVision Rectangle MFSST-REC-1620 DONE Nov 26** (spec ads/rec/dl/rec.pdf 8/25 + doc notes, Andrew "yes" to 0.04" thickness): "One-piece stamped" out; Beige -> Almond; variant 8 -> 6.8 lb; Anchortex fix. Text weight 6.8 already right. Live check passed 19:01.
 - ADS ACCESS (Zeemal Nov 27): the ADS staff account CANNOT add or remove images. Image fixes go on a list for Andrew: ads/images_for_andrew.md.
 - **ADS PBL201-607.1 Citadel Lid DONE Nov 26** (text already right per spec/doc; 4 lb kept per Andrew): Anchortex fix only (2nd save). Images -> ads/images_for_andrew.md. Live check passed 19:14.
+- **ADS PB301-607.1 Citadel Box DONE Nov 26**: variant 7 -> 6.5 lb (spec, = ANC, Andrew "leave as is"); Anchortex fix. Images on Andrew list. Live check passed 19:18.
