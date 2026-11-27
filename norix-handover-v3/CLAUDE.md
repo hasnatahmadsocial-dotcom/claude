@@ -612,3 +612,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #32 DuraVision Full Dome DONE Nov 27** (📄): 180 -> 360° view; frame Cream -> Almond; weights 6.2/9.8; 2 photos added (Ceiling-Mounted then Line-of-Sight; wrong half-dome image removed). Live check passed 15:08.
 - **ADS #33 Multi-Purpose Square DONE Nov 27** (⭐): weights 63/63/79/79; Solid -> Plain x2. Live check passed 15:15.
 - **ADS #34 Multi-Purpose Round DONE Nov 27** (⭐): weights 53/53/66/66; Solid -> Plain x2. Live check passed 15:19.
+- **ADS #35 Leg Style Rectangle DONE Nov 27** (⭐): renamed LS3072 / LS3096 "- 30x72/30x96 Plain Top" (Andrew yes); weights 142/190. Live check passed 15:24.
