@@ -608,3 +608,4 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - Tank Box images: Zeemal CAN add images now (3 added 14:16; order PB200, PB150, PB350 vs ANC PB150, PB200, PB350).
 - **ADS #30 Stack-A-Bunk DONE Nov 27** (⭐): std sleep surface 68 -> 67L, lengths 75 -> 75.5 / 82 -> 82.5, XL text weight 34 -> 36, weights 30/36, variants renamed "B530-151 - Standard, Twilight" / "B530-149 - Extra Large, Sand" (Andrew yes). check.py now ignores bare <span>. Live check passed 14:19. Tank Box Lid PBL400 still 3.5 (needs 4).
 - **ADS #31 DuraVision Half Dome DONE Nov 27** (📄): frame Cream -> Almond (mirror stays Silver; fixed after a mix-up); weights 5.8/8.1/13.9; line-of-sight image added (img 2). Live check passed 14:24.
+- **ADS #28 Tank Box Lid DONE Nov 27** (📄): heights 1 -> 1.25 (x3), PBL401 3.5 lb, PBL400 back to 4 (after several tries). Live check passed 15:02.
