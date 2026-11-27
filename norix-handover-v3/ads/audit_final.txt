@@ -1,0 +1,56 @@
+⚠️ norix-atn-attenda-platform-bed | 4 issues
+     name 'ATN101 - Standard Bed' -> 'ATN101 - Floor-Mount Bed'
+     name 'ATN103B - Bed with No Mounting Holes and Bottom Closure Panel' -> 'ATN103B- Free-Standing Bed with Bottom Closure'
+     name 'ATN103 - Standard Bed w/o Mounting Holes' -> 'ATN103 - Free-Standing Bed'
+     name 'ATN101B - Standard Bed with Bottom Closure' -> 'ATN101B - Floor-Mount Bed with Bottom Closure'
+⚠️ norix-atn-attenda-space-saver-bed | 9 issues
+     name 'ATN120 - Standard Bed (31Wx79L) / None' -> 'ATN120 - Floor-Mount Bed (31Wx79L) / None'
+     name 'ATN120 - Standard Bed (31Wx79L) / Tamper-Resistant Glides' -> 'ATN120 - Floor-Mount Bed (31Wx79L) / Tamper-Resistant Glides'
+     name 'ATN123 - Standard Bed with No Mounting Holes (31Wx79L) / None' -> 'ATN123 - Free-Standing Bed (31Wx79L) / None'
+     name 'ATN150 - Standard Bed (32Wx80L) / None' -> 'ATN150 - Floor-Mount Bed (32Wx80L) / None'
+     name 'ATN150 - Standard Bed (32Wx80L) / Tamper-Resistant Glides' -> 'ATN150 - Floor-Mount Bed (32Wx80L) / Tamper-Resistant Glides'
+     name 'ATN153 - Standard Bed with No Mounting Holes (32Wx80L) / None' -> 'ATN153 - Free-Standing Bed (32Wx80L) / None'
+     name 'ATN130 - Standard Bed with Storage (32Wx78L) / None' -> 'ATN130 - Floor-Mount Bed with Storage (32Wx78L) / None'
+     name 'ATN130 - Standard Bed with Storage (32Wx78L) / Tamper-Resistant Glides' -> 'ATN130 - Floor-Mount Bed with Storage (32Wx78L) / Tamper-Resistant Glides'
+     name 'ATN133 - Standard Bed with Storage No Mounting Holes (32Wx78L) / None' -> 'ATN133 - Free-Standing Bed with Storage (32Wx78L) / None'
+✅ norix-attenda-floor-mounted-desk | 0 issues
+✅ norix-attenda-floor-mounted-nightstand | 0 issues
+✅ norix-attenda-floor-mounted-stool | 0 issues
+✅ norix-attenda-four-shelf-storage-unit | 0 issues
+✅ norix-attenda-sleigh-bed | 0 issues
+✅ norix-attenda-three-shelf-storage-unit | 0 issues
+✅ norix-attenda-wall-mounted-book-shelf | 0 issues
+✅ norix-atn620-atn621-atn625-attenda-wall-mounted-desk | 0 issues
+✅ norix-attenda-wardrobe | 0 issues
+✅ norix-c212-boulder-armless-beam-seats | 0 issues
+✅ norix-c213-boulder-beam-seating-with-end-arms | 0 issues
+✅ norix-jupiter-round-top-table-w-cylinder-base | 0 issues
+✅ norix-jupiter-square-top-table-w-cylinder-base | 0 issues
+✅ norix-round-top-table-w-x-base | 0 issues
+✅ norix-square-top-table-w-x-base | 0 issues
+✅ norix-leg-style-rectangle-table | 0 issues
+✅ norix-max-master-4-seat-round-table | 0 issues
+✅ norix-max-master-6-seat-rectangle-table | 0 issues
+✅ norix-max-master-6-seat-round-table | 0 issues
+✅ norix-max-master-8-seat-rectangle-table | 0 issues
+✅ norix-max-master-8-seat-round-table | 0 issues
+✅ norix-oasis-cafeteria-table | 0 issues
+✅ norix-progress-chair | 0 issues
+✅ norix-multi-purpose-table-with-rectangle-top | 0 issues
+✅ norix-rocksmart-rocking-chair | 0 issues
+✅ norix-round-top-leg-style-table | 0 issues
+✅ norix-round-top-multi-purpose-table | 0 issues
+✅ norix-square-top-leg-style-table | 0 issues
+✅ norix-square-top-multi-purpose-table | 0 issues
+✅ norix-stack-a-bunk-bed-platform | 0 issues
+✅ norix-duravision-round-mirror | 0 issues
+✅ norix-duravision-rectangle-mirror | 0 issues
+✅ norix-citadel-property-storage-box-lids | 0 issues
+✅ norix-citadel-property-storage-boxes | 0 issues
+✅ norix-duravision-full-dome-mirror | 0 issues
+✅ norix-duravision-half-dome-mirror | 0 issues
+⚠️ norix-duravision-quarter-dome-mirror | 2 issues
+     wt MQD-12 - 12"x12" 10.0->7.2
+     wt MQD-N18 - 18"x18" 10.0->9.5
+✅ norix-tank-box-property-storage-boxes | 0 issues
+✅ norix-tank-box-property-storage-box-lids | 0 issues

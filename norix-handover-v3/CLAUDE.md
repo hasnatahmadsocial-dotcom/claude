@@ -623,3 +623,5 @@ curl -s "https://www.anchortex.com/products/<handle>.json?x=$RANDOM"   # options
 - **ADS #48 RockSmart DONE Nov 27** (⭐): weights 49/71/51/71 x2; chart alt "Norix Oasis Cafeteria Table" removed; dayroom photo added (img 7, chart last). Live check passed 16:25.
 - **ADS #50 ATN620/621/625 Wall Desk DONE Nov 27** (⭐): weights 0 -> 45/65/45 (ADS order -03/-01/-02). Live check passed 16:28.
 - **ADS #52 C212 + #80 C213 DONE Nov 27** (⭐): C212 weights 0 -> 81/110/145 (after a mix-up with C213 weights); C213 width 86 -> 65 (C213-3), weights 87/118/153 (Zeemal had typed 65 into Packed product size W; cleared). Live checks passed 16:43 / 16:44.
+- **ADS #54 MP Rectangle + #88 ATN120/130/150 DONE Nov 27** (⭐): MP Solid -> Plain x3, 59/74/91; Space-Saver weights 80/85/140, ATN130 Model -> "ATN130 - Standard Bed with Storage (32Wx78L)" (x2, ADS wording). Live checks passed 16:53 / 17:05.
+- FINAL AUDIT Nov 27 17:05: 38/41 match ANC; Attenda beds differ only in ANC's new variant names (ADS wording kept on purpose); MQD Quarter Dome (#46) was MISSED -> set given (180 -> 90° view, weights 7.2/9.5, 2 line-of-sight images images/ads-mqd/).

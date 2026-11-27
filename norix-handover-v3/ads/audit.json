@@ -3,13 +3,9 @@
   "norix-atn-attenda-platform-bed",
   "norix-atn-attenda-platform-bed",
   [
-   "wt ATN101 - Standard Bed 255.0->110.0",
    "name 'ATN101 - Standard Bed' -> 'ATN101 - Floor-Mount Bed'",
-   "wt ATN101B - Bed with Bottom  C 255.0->108.0",
-   "name 'ATN101B - Bed with Bottom  Closure Panel' -> 'ATN103B- Free-Standing Bed with Bottom Closure'",
-   "wt ATN103 - Standard Bed w/o Mo 255.0->110.0",
+   "name 'ATN103B - Bed with No Mounting Holes and Bottom Closure Panel' -> 'ATN103B- Free-Standing Bed with Bottom Closure'",
    "name 'ATN103 - Standard Bed w/o Mounting Holes' -> 'ATN103 - Free-Standing Bed'",
-   "wt ATN101B - Standard Bed with  255.0->115.0",
    "name 'ATN101B - Standard Bed with Bottom Closure' -> 'ATN101B - Floor-Mount Bed with Bottom Closure'"
   ]
  ],
@@ -17,117 +13,71 @@
   "norix-atn-attenda-space-saver-bed",
   "norix-atn-attenda-space-saver-bed",
   [
-   "wt ATN120 - Standard Bed (31Wx7 255.0->80.0",
    "name 'ATN120 - Standard Bed (31Wx79L) / None' -> 'ATN120 - Floor-Mount Bed (31Wx79L) / None'",
-   "wt ATN120 - Standard Bed (31Wx7 255.0->80.0",
    "name 'ATN120 - Standard Bed (31Wx79L) / Tamper-Resistant Glides' -> 'ATN120 - Floor-Mount Bed (31Wx79L) / Tamper-Resistant Glides'",
-   "wt ATN123 - Standard Bed with N 255.0->80.0",
    "name 'ATN123 - Standard Bed with No Mounting Holes (31Wx79L) / None' -> 'ATN123 - Free-Standing Bed (31Wx79L) / None'",
-   "wt ATN150 - Standard Bed (32Wx8 255.0->85.0",
    "name 'ATN150 - Standard Bed (32Wx80L) / None' -> 'ATN150 - Floor-Mount Bed (32Wx80L) / None'",
-   "wt ATN150 - Standard Bed (32Wx8 255.0->85.0",
    "name 'ATN150 - Standard Bed (32Wx80L) / Tamper-Resistant Glides' -> 'ATN150 - Floor-Mount Bed (32Wx80L) / Tamper-Resistant Glides'",
-   "wt ATN153 - Standard Bed with N 255.0->85.0",
    "name 'ATN153 - Standard Bed with No Mounting Holes (32Wx80L) / None' -> 'ATN153 - Free-Standing Bed (32Wx80L) / None'",
-   "wt ATN130 - Standard Bed (32Wx7 255.0->140.0",
-   "name 'ATN130 - Standard Bed (32Wx78L) / None' -> 'ATN130 - Floor-Mount Bed with Storage (32Wx78L) / None'",
-   "wt ATN130 - Standard Bed (32Wx7 255.0->140.0",
-   "name 'ATN130 - Standard Bed (32Wx78L) / Tamper-Resistant Glides' -> 'ATN130 - Floor-Mount Bed with Storage (32Wx78L) / Tamper-Resistant Glides'",
-   "wt ATN133 - Standard Bed with S 255.0->140.0",
+   "name 'ATN130 - Standard Bed with Storage (32Wx78L) / None' -> 'ATN130 - Floor-Mount Bed with Storage (32Wx78L) / None'",
+   "name 'ATN130 - Standard Bed with Storage (32Wx78L) / Tamper-Resistant Glides' -> 'ATN130 - Floor-Mount Bed with Storage (32Wx78L) / Tamper-Resistant Glides'",
    "name 'ATN133 - Standard Bed with Storage No Mounting Holes (32Wx78L) / None' -> 'ATN133 - Free-Standing Bed with Storage (32Wx78L) / None'"
   ]
  ],
  [
   "norix-attenda-floor-mounted-desk",
   "norix-attenda-floor-mounted-desk",
-  [
-   "wt ATN601 255.0->48.0"
-  ]
+  []
  ],
  [
   "norix-attenda-floor-mounted-nightstand",
   "norix-attenda-floor-mounted-nightstand",
-  [
-   "wt ATN250 - Standard Nightstand 255.0->30.0",
-   "wt ATN255 - Deluxe Nightstand 255.0->33.0"
-  ]
+  []
  ],
  [
   "norix-attenda-floor-mounted-stool",
   "norix-attenda-floor-mounted-stool",
-  [
-   "wt ATN500 255.0->9.5"
-  ]
+  []
  ],
  [
   "norix-attenda-four-shelf-storage-unit",
   "norix-attenda-four-shelf-storage-unit",
-  [
-   "wt ATN401 255.0->69.0"
-  ]
+  []
  ],
  [
   "norix-attenda-sleigh-bed",
   "norix-attenda-sleigh-bed",
-  [
-   "wt ATN140 - 13\" High 255.0->125.0",
-   "wt ATN140H - 13\" High w/Drainag 0.0->125.0",
-   "wt ATN145- 18\" High 255.0->138.0",
-   "name 'ATN145- 18\" High' -> 'ATN145 - 18\" High'",
-   "wt ATN145H - 18\" High w/Drainag 0.0->138.0"
-  ]
+  []
  ],
  [
   "norix-attenda-three-shelf-storage-unit",
   "norix-attenda-three-shelf-storage-unit",
-  [
-   "wt ATN301 255.0->50.0"
-  ]
+  []
  ],
  [
   "norix-attenda-wall-mounted-book-shelf",
   "norix-attenda-wall-mounted-book-shelf",
-  [
-   "wt ATN310 255.0->22.0"
-  ]
+  []
  ],
  [
   "norix-attenda-wall-mounted-desk",
   "norix-atn620-atn621-atn625-attenda-wall-mounted-desk",
-  [
-   "wt ATN625 - with Laminate Top 0.0->65.0",
-   "wt ATN620 - without Laminate To 0.0->45.0",
-   "wt ATN621 - without Bottom Core 0.0->45.0"
-  ]
+  []
  ],
  [
   "norix-attenda-wardrobe",
   "norix-attenda-wardrobe",
-  [
-   "wt ATN800 - No Door 255.0->75.0",
-   "wt ATN801-RL - Right Hinge - La 255.0->80.0",
-   "wt ATN801-RK - Right Hinge - Ke 255.0->80.0",
-   "wt ATN801-LL - Left Hinge - Lat 255.0->80.0",
-   "wt ATN801-LK - Left Hinge - Key 255.0->80.0"
-  ]
+  []
  ],
  [
   "norix-c212-boulder-beam-seating-with-end-and-divider-arms",
   "norix-c212-boulder-armless-beam-seats",
-  [
-   "wt C212-2 - 2 Seats 0.0->81.0",
-   "wt C212-3 - 3 Seats 0.0->110.0",
-   "wt C212-4 - 4 Seats 0.0->145.0"
-  ]
+  []
  ],
  [
   "norix-c213-boulder-beam-seating-with-end-arms",
   "norix-c213-boulder-beam-seating-with-end-arms",
-  [
-   "wt C213-2 - 2 Seats 255.0->87.0",
-   "wt C213-3 - 3 Seats 255.0->118.0",
-   "wt C213-4 - 4 Seats 255.0->153.0"
-  ]
+  []
  ],
  [
   "norix-jupiter-round-top-table-w-cylinder-base",
@@ -142,120 +92,42 @@
  [
   "norix-laminate-x-base-table-with-round-top",
   "norix-round-top-table-w-x-base",
-  [
-   "wt XB3600 - 36x36 Solid Top 255.0->126.0",
-   "name 'XB3600 - 36x36 Solid Top' -> 'XB3600 - 36\" Round - Plain Top'",
-   "wt XB3600 - 36x36 Game Top 255.0->126.0",
-   "name 'XB3600 - 36x36 Game Top' -> 'XB3600 - 36\" Round - Game Top'",
-   "wt XB4200 - 42x42 Solid Top 255.0->142.0",
-   "name 'XB4200 - 42x42 Solid Top' -> 'XB4200 - 42\" Round - Plain Top'",
-   "wt XB4200 - 42x42 Game Top 255.0->142.0",
-   "name 'XB4200 - 42x42 Game Top' -> 'XB4200 - 42\" Round - Game Top'",
-   "wt XB4800 - 48x48 Solid Top 255.0->164.0",
-   "name 'XB4800 - 48x48 Solid Top' -> 'XB4800 - 48\" Round - Plain Top'",
-   "wt XB4800 - 48x48 Game Top 255.0->164.0",
-   "name 'XB4800 - 48x48 Game Top' -> 'XB4800 - 48\" Round - Game Top'"
-  ]
+  []
  ],
  [
   "norix-laminate-x-base-table-with-square-top",
   "norix-square-top-table-w-x-base",
-  [
-   "wt XB3636 - 36x36 Solid Top 255.0->139.0",
-   "name 'XB3636 - 36x36 Solid Top' -> 'XB3636 - 36x36 Plain Top'",
-   "wt XB3636 - 36x36 Game Top 255.0->139.0",
-   "wt XB4242 - 42x42 Solid Top 255.0->162.0",
-   "name 'XB4242 - 42x42 Solid Top' -> 'XB4242 - 42x42 Plain Top'",
-   "wt XB4242 - 42x42 Game Top 255.0->162.0"
-  ]
+  []
  ],
  [
   "norix-leg-style-rectangle-table",
   "norix-leg-style-rectangle-table",
-  [
-   "wt 30x72 Solid Top 255.0->142.0",
-   "name '30x72 Solid Top' -> 'LS3072 - 30x72 Plain Top'",
-   "wt 30x96 Solid Top 255.0->190.0",
-   "name '30x96 Solid Top' -> 'LS3096 - 30x96 Plain Top'"
-  ]
+  []
  ],
  [
   "norix-max-master-4-seat-round-table",
   "norix-max-master-4-seat-round-table",
-  [
-   "wt 42\" Round, Molded Edge, Soli 255.0->183.0",
-   "name '42\" Round, Molded Edge, Solid Top / Bolt Down Plate' -> '42\" Round, Molded Edge, Plain Top / Bolt Down Plate'",
-   "wt 42\" Round, Molded Edge, Soli 255.0->183.0",
-   "name '42\" Round, Molded Edge, Solid Top / Clear Leg Protector' -> '42\" Round, Molded Edge, Plain Top / Clear Leg Protector'",
-   "wt 42\" Round, Molded Edge, Soli 255.0->183.0",
-   "name '42\" Round, Molded Edge, Solid Top / Leg Glides' -> '42\" Round, Molded Edge, Plain Top / Leg Glides'",
-   "wt 42\" Round, Molded Edge, Game 255.0->183.0",
-   "wt 42\" Round, Molded Edge, Game 255.0->183.0",
-   "wt 42\" Round, Molded Edge, Game 255.0->183.0",
-   "wt 42\" Round, Self Edge, Stainl 255.0->174.0",
-   "wt 42\" Round, Self Edge, Stainl 255.0->174.0",
-   "wt 42\" Round, Self Edge, Stainl 255.0->174.0"
-  ]
+  []
  ],
  [
   "norix-max-master-6-seat-rectangle-table",
   "norix-max-master-6-seat-rectangle-table",
-  [
-   "wt 30x72\", Molded Edge, Solid T 255.0->280.0",
-   "name '30x72\", Molded Edge, Solid Top / Bolt Down Plate' -> '30x72\", Molded Edge, Plain Top / Bolt Down Plate'",
-   "wt 30x72\", Molded Edge, Solid T 255.0->280.0",
-   "name '30x72\", Molded Edge, Solid Top / Clear Leg Protector' -> '30x72\", Molded Edge, Plain Top / Clear Leg Protector'",
-   "wt 30x72\", Molded Edge, Solid T 255.0->280.0",
-   "name '30x72\", Molded Edge, Solid Top / Leg Glides' -> '30x72\", Molded Edge, Plain Top / Leg Glides'"
-  ]
+  []
  ],
  [
   "norix-max-master-6-seat-round-table",
   "norix-max-master-6-seat-round-table",
-  [
-   "wt 54\" Round, Molded Edge, Soli 255.0->270.0",
-   "name '54\" Round, Molded Edge, Solid Top / Bolt Down Plate' -> '54\" Round, Molded Edge, Plain Top / Bolt Down Plate'",
-   "wt 54\" Round, Molded Edge, Soli 255.0->270.0",
-   "name '54\" Round, Molded Edge, Solid Top / Clear Leg Protector' -> '54\" Round, Molded Edge, Plain Top / Clear Leg Protector'",
-   "wt 54\" Round, Molded Edge, Soli 255.0->270.0",
-   "name '54\" Round, Molded Edge, Solid Top / Leg Glides' -> '54\" Round, Molded Edge, Plain Top / Leg Glides'",
-   "wt 54\" Round, Molded Edge, Game 255.0->270.0",
-   "wt 54\" Round, Molded Edge, Game 255.0->270.0",
-   "wt 54\" Round, Molded Edge, Game 255.0->270.0",
-   "wt 54\" Round, Self Edge, Stainl 255.0->230.0",
-   "wt 54\" Round, Self Edge, Stainl 255.0->230.0",
-   "wt 54\" Round, Self Edge, Stainl 255.0->230.0"
-  ]
+  []
  ],
  [
   "norix-max-master-8-seat-rectangle-table",
   "norix-max-master-8-seat-rectangle-table",
-  [
-   "wt 30x96\", Molded Edge, Solid T 255.0->375.0",
-   "name '30x96\", Molded Edge, Solid Top / Bolt-Down Plate' -> '30x96\", Molded Edge, Plain Top / Bolt-Down Plate'",
-   "wt 30x96\", Molded Edge, Solid T 255.0->375.0",
-   "name '30x96\", Molded Edge, Solid Top / Clear Leg Protector' -> '30x96\", Molded Edge, Plain Top / Clear Leg Protector'",
-   "wt 30x96\", Molded Edge, Solid T 255.0->375.0",
-   "name '30x96\", Molded Edge, Solid Top / Leg Glides' -> '30x96\", Molded Edge, Plain Top / Leg Glides'",
-   "wt 30x96\", Molded Edge, Game To 255.0->375.0",
-   "wt 30x96\", Molded Edge, Game To 255.0->375.0",
-   "wt 30x96\", Molded Edge, Game To 255.0->375.0"
-  ]
+  []
  ],
  [
   "norix-max-master-8-seat-round-table",
   "norix-max-master-8-seat-round-table",
-  [
-   "wt 60\" Round, Molded Edge, Soli 255.0->372.0",
-   "name '60\" Round, Molded Edge, Solid Top / Bolt-Down Plate' -> '60\" Round, Molded Edge, Plain Top / Bolt-Down Plate'",
-   "wt 60\" Round, Molded Edge, Soli 255.0->372.0",
-   "name '60\" Round, Molded Edge, Solid Top / Clear Leg Protector' -> '60\" Round, Molded Edge, Plain Top / Clear Leg Protector'",
-   "wt 60\" Round, Molded Edge, Soli 255.0->372.0",
-   "name '60\" Round, Molded Edge, Solid Top / Leg Glides' -> '60\" Round, Molded Edge, Plain Top / Leg Glides'",
-   "wt 60\" Round, Molded Edge, Game 255.0->372.0",
-   "wt 60\" Round, Molded Edge, Game 255.0->372.0",
-   "wt 60\" Round, Molded Edge, Game 255.0->372.0"
-  ]
+  []
  ],
  [
   "norix-oasis-cafeteria-table",
@@ -265,88 +137,42 @@
  [
   "norix-progress-chair",
   "norix-progress-chair",
-  [
-   "wt C920 255.0->10.0"
-  ]
+  []
  ],
  [
   "norix-rectangle-top-multi-purpose-table",
   "norix-multi-purpose-table-with-rectangle-top",
-  [
-   "wt MP1860 - 18x60 Solid Top 255.0->59.0",
-   "name 'MP1860 - 18x60 Solid Top' -> 'MP1860 - 18x60 Plain Top'",
-   "wt MP2460 - 24x60 Solid Top 255.0->74.0",
-   "name 'MP2460 - 24x60 Solid Top' -> 'MP2460 - 24x60 Plain Top'",
-   "wt MP3060 - 30x60 Solid Top 255.0->91.0",
-   "name 'MP3060 - 30x60 Solid Top' -> 'MP3060 - 30x60 Plain Top'"
-  ]
+  []
  ],
  [
   "norix-rocksmart-rocking-chair",
   "norix-rocksmart-rocking-chair",
-  [
-   "wt RA16 - 16\" Standard 255.0->49.0",
-   "wt RA16-71 - 16\" Heavyweight 255.0->71.0",
-   "wt RA18 - 18\" Standard 255.0->51.0",
-   "wt RA18-71 - 18\" Heavyweight 255.0->71.0",
-   "wt RA16-NR - Standard 16\" Width 255.0->49.0",
-   "wt RA16-NR-71 - Heavyweight 16\" 255.0->71.0",
-   "wt RA18-NR - Standard 18\" Width 255.0->51.0",
-   "wt RA18-NR-71 - Heavyweight 18\" 255.0->71.0"
-  ]
+  []
  ],
  [
   "norix-round-top-leg-style-table",
   "norix-round-top-leg-style-table",
-  [
-   "wt 48\" Round - Solid Top 255.0->138.0",
-   "name '48\" Round - Solid Top' -> '48\" Round - Plain Top'",
-   "wt 48\" Round - Game Top 255.0->138.0"
-  ]
+  []
  ],
  [
   "norix-round-top-multi-purpose-table",
   "norix-round-top-multi-purpose-table",
-  [
-   "wt 36\" Round - Solid Top 255.0->53.0",
-   "name '36\" Round - Solid Top' -> '36\" Round - Plain Top'",
-   "wt 36\" Round - Game Top 255.0->53.0",
-   "wt 42\" Round - Solid Top 255.0->66.0",
-   "name '42\" Round - Solid Top' -> '42\" Round - Plain Top'",
-   "wt 42\" Round - Game Top 255.0->66.0"
-  ]
+  []
  ],
  [
   "norix-square-top-leg-style-table",
   "norix-square-top-leg-style-table",
-  [
-   "wt 36x36 Plain Top 255.0->115.0",
-   "wt 36x36 Game Top 255.0->115.0",
-   "wt 42x42 Plain Top 255.0->137.0",
-   "wt 42x42 Game Top 255.0->137.0"
-  ]
+  []
  ],
  [
   "norix-square-top-multi-purpose-table",
   "norix-square-top-multi-purpose-table",
-  [
-   "wt 36x36 Solid Top 255.0->63.0",
-   "name '36x36 Solid Top' -> '36x36 Plain Top'",
-   "wt 36x36 Game Top 255.0->63.0",
-   "wt 42x42 Solid Top 255.0->79.0",
-   "name '42x42 Solid Top' -> '42x42 Plain Top'",
-   "wt 42x42 Game Top 255.0->79.0"
-  ]
+  []
  ],
  [
   "norix-stack-a-bunk-bed-platform",
   "norix-stack-a-bunk-bed-platform",
-  [
-   "wt B530-151 - Standard Size / C 255.0->30.0",
-   "name 'B530-151 - Standard Size / Color Twilight' -> 'B530-151 - Standard, Twilight'",
-   "wt B530-149 - Extra Large / Col 255.0->36.0",
-   "name 'B530-149 - Extra Large / Color - Sand' -> 'B530-149 - Extra Large, Sand'"
-  ]
+  []
  ],
  [
   "norix-duravision-round-mirror",
@@ -371,19 +197,12 @@
  [
   "norix-duravision-full-dome-mirror",
   "norix-duravision-full-dome-mirror",
-  [
-   "wt MFD-18 - 18\" Diameter 10.0->6.2",
-   "wt MFD-24 - 24\" Diameter 10.0->9.8"
-  ]
+  []
  ],
  [
   "duravision-half-dome-safety-mirror",
   "norix-duravision-half-dome-mirror",
-  [
-   "wt MHD-18 - 18\"x9\" 10.0->5.8",
-   "wt MHD-24 - 24\"x12\" 10.0->8.1",
-   "wt MHD-36 - 36\"x18\" 10.0->13.9"
-  ]
+  []
  ],
  [
   "duravision-mqd-quarter-dome-mirror-impact-resistant",
@@ -396,17 +215,11 @@
  [
   "norix-tank-box-property-storage-boxes",
   "norix-tank-box-property-storage-boxes",
-  [
-   "wt PB150 - Legal/Letter 10.0->9.5",
-   "wt PB200 - Standard 10.0->9.0",
-   "wt PB350 - Extra Large 23.0->22.5"
-  ]
+  []
  ],
  [
   "norix-tank-box-property-storage-box-lids",
   "norix-tank-box-property-storage-box-lids",
-  [
-   "wt PBL401-607 - Legal/Letter 4.0->3.5"
-  ]
+  []
  ]
 ]
